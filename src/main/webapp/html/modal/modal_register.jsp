@@ -39,7 +39,7 @@
                                 </div>
                                 <div class="form-group">
 
-                                    <select name="product" id="" class="form-control">
+                                    <select name="product" id="product-option" class="form-control">
                                         <option  value="" disabled selected>Sản phẩm quan tâm</option>
 <%--                                        <option value="MobiFone Smart Sales">MobiFone Smart Sales</option>--%>
 <%--                                        <option value="MobiFone Smart Office">MobiFone Smart Office</option>--%>

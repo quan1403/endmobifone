@@ -262,10 +262,22 @@
         return window.location.href
     }
 
-    // Example
+    // Một người bố vĩ đại đã làm đoạn logic này 
     const url = getCurrentURL()
-    console.log(url)
-    url.slice(27, url.length)
-    if (url.slice(27, url.length)) {
+    let lastIndexDashUrl = url.lastIndexOf("/");
+    let currentPage = url.slice(lastIndexDashUrl + 1, url.length);
+
+    if (currentPage === "3c.jsp") {
+        $("#product-option").val('3C (Cloud Contact Center)')
     }
+    
+    // if (currentPage === "3c.jsp") {
+    //     $("#product-option").val('3C (Cloud Contact Center)')
+    // }
+    // if (currentPage === "3c.jsp") {
+    //     $("#product-option").val('3C (Cloud Contact Center)')
+    // }    if (currentPage === "3c.jsp") {
+    //     $("#product-option").val('3C (Cloud Contact Center)')
+    // }
+    //
 </script>
