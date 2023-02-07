@@ -12,6 +12,9 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.Date;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.List;
 
 @WebServlet(urlPatterns = "/customer")
@@ -73,7 +76,7 @@ public class CustomerServlet extends HttpServlet {
         String phoneNumber = request.getParameter("phoneNumber");
         String email = request.getParameter("email");
         String product = request.getParameter("product");
-        Date date = Date.valueOf(request.getParameter("date"));
+        Date date = new Date();
         Customer cus = new Customer(nameCompany, fullName, phoneNumber, email, product,date);
         customerDao.create(cus);
         RequestDispatcher dispatcher = request.getRequestDispatcher("/html/thanks.jsp");

@@ -41,7 +41,7 @@
                                 </div>
                                 <div class="form-group">
 
-                                    <select name="product" id="" class="form-control">
+                                    <select name="product" id="option-product" class="form-control">
                                         <option  value="" disabled selected>Sản phẩm quan tâm</option>
 <%--                                        <option value="MobiFone Smart Sales">MobiFone Smart Sales</option>--%>
 <%--                                        <option value="MobiFone Smart Office">MobiFone Smart Office</option>--%>
@@ -142,3 +142,27 @@
 
 
 </script>
+<%--<script>--%>
+<%--    function getCurrentURL() {--%>
+<%--        return window.location.href--%>
+<%--    }--%>
+<%--    const url = getCurrentURL()--%>
+<%--    let lastIndexDashUrl = url.lastIndexOf("/");--%>
+<%--    let currentPage= url.slice(lastIndexDashUrl + 1, url.length);--%>
+
+<%--    if (currentPage === "3c.jsp") {--%>
+<%--        $("#product-option").val('3C (Cloud Contact Center)')--%>
+<%--    }--%>
+<%--    if(currentPage ==="mobica.jsp"){--%>
+<%--      $("#product-option").val('MobiCA')--%>
+<%--    }--%>
+<%--    if(currentPage ==="mobifone-invoice.jsp")--%>
+<%--        {--%>
+<%--      $("#product-option").val('MobiFone Invoice')--%>
+<%--    }--%>
+<%--    if(currentPage ==="mobifone-econtract.jsp"){--%>
+<%--      $("#product-option").val('MobiFone Econtract')--%>
+<%--    }--%>
+
+
+<%--</script>--%>
