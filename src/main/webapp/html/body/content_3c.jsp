@@ -57,8 +57,8 @@
                         <h2> Giải pháp tổng đài di động trên nền tảng điện toán đám mây </h2></div>
                     <div class="sectionMain">
                         <article>
-                            <p><a href="http://3c.mobifone.vn/3c.jsp" target="_blank" rel="nofollow noopener">Dịch vụ tổng đài di động Cloud
-                                Contact Center (3C)</a> là giải pháp toàn diện cung cấp cho các tổ chức, doanh nghiệp một hệ thống tổng
+                            <p>Dịch vụ tổng đài di động Cloud
+                                Contact Center (3C) là giải pháp toàn diện cung cấp cho các tổ chức, doanh nghiệp một hệ thống tổng
                                 đài sử dụng 1 hoặc nhiều số máy MobiFone (số đẹp) làm tổng đài chung (số Hotline) và sử dụng các máy
                                 điện thoại di động, điện thoại cố định, softphone, SIP phone làm số máy lẻ.</p>
                             <ul>

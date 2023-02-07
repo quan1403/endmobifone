@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
-
+<link rel='stylesheet' href="css/econtract.css"  />
 
 <div class="prdBanner banner pageBanner">
         <div class="featured bannerItem"
@@ -234,21 +234,404 @@
         </div>
     </div>
     <div class="prdBlk prdTemp--pricing-2">
-        <div class="container">
-            <div class="sectionTitle align--center">
-                <span> MobiCA</span>
-                <h2> Bảng giá dịch vụ </h2></div>
-            <div class="sectionMain">
-                <div class="row justify-content-center">
-                    <article class="col-md-8">
-                        <h4 style="text-align: center;"><strong>Dịch vụ MobiCA của MobiFone được cung cấp dưới dạng SIM PKI và USB
-                            Token, chi tiết về giá dịch vụ Quý khách hàng vui lòng tham khảo tại file đính kèm dưới đây:</strong></h4>
-                    </article>
+        <div class="section-content relative">
+
+            <div class="row"  id="row-516178262">
+
+                <div id="col-132157656" class="col small-12 large-12"  data-animate="fadeInUp">
+                    <div class="col-inner text-center"  >
+
+
+                        <div id="text-3448589415" class="text">
+
+                            <h2 style="text-align: center;"><span style="font-size: 140%; color: #ffffff;">BẢNG GIÁ CHỮ KÝ SỐ</span></h2>
+                            <h3 style="text-align: center;"><span style="color: #00ffff;">• Đối với khách hàng cá nhân</span></h3>
+
+                            <style>
+                                #text-3448589415 {
+                                    font-size: 1.25rem;
+                                    text-align: center;
+                                }
+                            </style>
+                        </div>
+
+                    </div>
                 </div>
-                <a href="../html/pdf/Bảng-giá-MobiCA-2.pdf"
-                   class="btn btnTheme type-white downloadPriceDoc" target="_blank">
-                    <i class="fa fa-file-o" style="font-size:24px"></i>Tải bảng giá
-                </a>
+
+
+            </div>
+            <div class="row align-equal align-center"  id="row-756207352">
+
+                <div id="col-2014918767" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
+                    <div class="col-inner text-left box-shadow-3"  >
+
+
+                        <h3 style="text-align: center;">Gói 1 năm</h3>
+                        <p style="text-align: center;"><span style="font-size: 100%;">MobiCA trên Token</span></p>
+                        <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                        <div id="gap-570999969" class="gap-element clearfix" style="display:block; height:auto;">
+
+                            <style>
+                                #gap-570999969 {
+                                    padding-top: 10px;
+                                }
+                            </style>
+                        </div>
+
+                        <ul>
+                            <li class="bullet-checkmark">Đã bao gồm Token</li>
+                            <li class="bullet-checkmark">Thời gian sử dụng: 1 năm</li>
+                            <li class="bullet-checkmark">Gía gia hạn dịch vụ: 467.500 vnđ</li>
+                            <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
+                        </ul>
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">748.000<br />
+</span>VNĐ/ GÓI</p>
+
+
+                    </div>
+
+                    <style>
+                        #col-2014918767 > .col-inner {
+                            border-radius: 10px;
+                        }
+                    </style>
+                </div>
+
+
+
+                <div id="col-162565426" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
+                    <div class="col-inner text-left box-shadow-3 dark" style="background-color:rgb(208, 10, 10);" >
+
+
+                        <h3 style="text-align: center;">Gói 2 năm</h3>
+                        <p style="text-align: center;"><span style="font-size: 100%;">MobiCA trên Token</span></p>
+                        <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                        <div id="gap-2040556006" class="gap-element clearfix" style="display:block; height:auto;">
+
+                            <style>
+                                #gap-2040556006 {
+                                    padding-top: 10px;
+                                }
+                            </style>
+                        </div>
+
+                        <ul>
+                            <li class="bullet-checkmark">Đã bao gồm token</li>
+                            <li class="bullet-checkmark">Thời gian sử dụng: 2 năm</li>
+                            <li class="bullet-checkmark">Gía gia hạn dịch vụ: 748.000 vnđ</li>
+                            <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
+                        </ul>
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">1.028.500</span><br />
+</span>VNĐ/ GÓI</p>
+
+
+                    </div>
+
+                    <style>
+                        #col-162565426 > .col-inner {
+                            border-radius: 10px;
+                        }
+                    </style>
+                </div>
+
+
+
+                <div id="col-1199355938" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
+                    <div class="col-inner text-left box-shadow-3"  >
+
+
+                        <h3 style="text-align: center;">Gói 3 năm</h3>
+                        <p style="text-align: center;"><span style="font-size: 100%;">MobiCA trên Token</span></p>
+                        <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                        <div id="gap-1825190266" class="gap-element clearfix" style="display:block; height:auto;">
+
+                            <style>
+                                #gap-1825190266 {
+                                    padding-top: 10px;
+                                }
+                            </style>
+                        </div>
+
+                        <ul>
+                            <li class="bullet-checkmark">Đã bao gồm token</li>
+                            <li class="bullet-checkmark">Thời gian sử dụng: 2 năm</li>
+                            <li class="bullet-checkmark">Gía gia hạn dịch vụ: 1.210.000 vnđ</li>
+                            <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
+                        </ul>
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">1.028.500<br />
+</span>VNĐ/ GÓI</p>
+
+
+                    </div>
+
+                    <style>
+                        #col-1199355938 > .col-inner {
+                            border-radius: 10px;
+                        }
+                    </style>
+                </div>
+
+
+
+                <style>
+                    #row-756207352 > .col > .col-inner {
+                        padding: 30px 30px 30px 30px;
+                        background-color: rgb(255,255,255);
+                    }
+                </style>
+            </div>
+            <div class="is-divider divider clearfix" style="max-width:0px;height:30px;"></div>
+            <div class="row"  id="row-1339843815">
+
+                <div id="col-872098417" class="col small-12 large-12"  data-animate="fadeInUp">
+                    <div class="col-inner dark"  >
+
+
+                        <div id="text-1601791119" class="text">
+
+                            <h3 style="text-align: center;"><span style="color: #00ffff;">• Đối với khách hàng tổ chức / doanh nghiệp</span></h3>
+
+                            <style>
+                                #text-1601791119 {
+                                    font-size: 1.25rem;
+                                    text-align: center;
+                                }
+                            </style>
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="row align-equal align-center"  id="row-617731636">
+
+                <div id="col-296208528" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
+                    <div class="col-inner text-left box-shadow-3"  >
+
+
+                        <h3 style="text-align: center;">Gói 1 năm</h3>
+                        <p style="text-align: center;"><span style="font-size: 100%;">MobiCA trên Token</span></p>
+                        <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                        <div id="gap-1676413754" class="gap-element clearfix" style="display:block; height:auto;">
+
+                            <style>
+                                #gap-1676413754 {
+                                    padding-top: 10px;
+                                }
+                            </style>
+                        </div>
+
+                        <ul>
+                            <li class="bullet-checkmark">Đã bao gồm token</li>
+                            <li class="bullet-checkmark">Thời gian sử dụng: 1năm</li>
+                            <li class="bullet-checkmark">Gía gia hạn dịch vụ: 1.084.600 vnđ</li>
+                            <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
+                        </ul>
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">1.552.100<br />
+</span>VNĐ/ GÓI</p>
+
+
+                    </div>
+
+                    <style>
+                        #col-296208528 > .col-inner {
+                            border-radius: 10px;
+                        }
+                    </style>
+                </div>
+
+
+
+                <div id="col-1827214319" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
+                    <div class="col-inner text-left box-shadow-3 dark" style="background-color:rgb(208, 10, 10);" >
+
+
+                        <h3 style="text-align: center;">Gói 2 năm</h3>
+                        <p style="text-align: center;"><span style="font-size: 100%;">MobiCA trên Token</span></p>
+                        <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                        <div id="gap-685644831" class="gap-element clearfix" style="display:block; height:auto;">
+
+                            <style>
+                                #gap-685644831 {
+                                    padding-top: 10px;
+                                }
+                            </style>
+                        </div>
+
+                        <ul>
+                            <li class="bullet-checkmark">Đã bao gồm token</li>
+                            <li class="bullet-checkmark">Thời gian sử dụng: 2 năm</li>
+                            <li class="bullet-checkmark">Gía gia hạn dịch vụ: 1.862.350 vnđ</li>
+                            <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
+                        </ul>
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">2.329.850</span><br />
+</span>VNĐ/ GÓI</p>
+
+
+                    </div>
+
+                    <style>
+                        #col-1827214319 > .col-inner {
+                            border-radius: 10px;
+                        }
+                    </style>
+                </div>
+
+
+
+                <div id="col-1882941231" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
+                    <div class="col-inner text-left box-shadow-3"  >
+
+
+                        <h3 style="text-align: center;">Gói 3 năm</h3>
+                        <p style="text-align: center;"><span style="font-size: 100%;">MobiCA trên Token</span></p>
+                        <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                        <div id="gap-2010533570" class="gap-element clearfix" style="display:block; height:auto;">
+
+                            <style>
+                                #gap-2010533570 {
+                                    padding-top: 10px;
+                                }
+                            </style>
+                        </div>
+
+                        <ul>
+                            <li class="bullet-checkmark">Đã bao gồm token</li>
+                            <li class="bullet-checkmark">Thời gian sử dụng: 4 năm</li>
+                            <li class="bullet-checkmark">Gía gia hạn dịch vụ: 2.472.650 vnđ</li>
+                            <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
+                        </ul>
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">2.642.650<br />
+</span>VNĐ/ GÓI</p>
+
+
+                    </div>
+
+                    <style>
+                        #col-1882941231 > .col-inner {
+                            border-radius: 10px;
+                        }
+                    </style>
+                </div>
+
+
+
+                <style>
+                    #row-617731636 > .col > .col-inner {
+                        padding: 30px 30px 30px 30px;
+                        background-color: rgb(255,255,255);
+                    }
+                </style>
+            </div>
+            <div class="row"  id="row-1040936617">
+
+                <div id="col-1795642035" class="col hide-for-small medium-2 small-12 large-2"  >
+                    <div class="col-inner"  >
+
+
+                    </div>
+                </div>
+
+
+
+                <div id="col-1265004855" class="col hide-for-small medium-8 small-12 large-8"  >
+                    <div class="col-inner"  >
+
+
+                        <div class="row row-collapse row-full-width"  id="row-1204511651">
+
+                            <div id="col-198124158" class="col medium-6 large-6"  >
+                                <div class="col-inner text-right"  >
+
+
+
+
+                                </div>
+
+                                <style>
+                                    #col-198124158 > .col-inner {
+                                        margin: 0px 0px 0px 37px;
+                                    }
+                                </style>
+                            </div>
+
+
+
+                            <div id="col-24153825" class="col medium-6 large-6"  >
+                                <div class="col-inner text-left"  >
+
+
+
+
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                    <style>
+                        #col-1265004855 > .col-inner {
+                            margin: 36px 0px 0px 0px;
+                        }
+                    </style>
+                </div>
+
+
+
+                <div id="col-518464018" class="col show-for-small medium-8 small-12 large-8"  >
+                    <div class="col-inner"  >
+
+
+                        <div class="row row-collapse row-full-width"  id="row-913040695">
+
+                            <div id="col-1733389831" class="col medium-6 small-10 large-6"  >
+                                <div class="col-inner text-right"  >
+
+
+
+
+                                </div>
+
+                                <style>
+                                    #col-1733389831 > .col-inner {
+                                        margin: 0px 0px 0px 37px;
+                                    }
+                                </style>
+                            </div>
+
+
+
+                            <div id="col-905103093" class="col medium-6 small-12 large-6"  >
+                                <div class="col-inner text-center"  >
+
+
+
+
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                    <style>
+                        #col-518464018 > .col-inner {
+                            margin: 36px 0px 0px 0px;
+                        }
+                    </style>
+                </div>
+
+
+
+                <div id="col-844155355" class="col hide-for-small medium-2 small-12 large-2"  >
+                    <div class="col-inner"  >
+
+
+                    </div>
+                </div>
+
 
             </div>
         </div>

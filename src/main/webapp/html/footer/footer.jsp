@@ -57,7 +57,7 @@
                                  0936001090                               </a>
                            </li>
                            <li>
-                              <a href="support.ct1@mobifone.vn">
+                              <a href="mailto:support.ct1@mobifone.vn">
                               <i class="fa fa-envelope"></i>
                                  support.ct1@mobifone.vn                              </a>
                            </li>

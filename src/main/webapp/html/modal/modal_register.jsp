@@ -21,7 +21,7 @@
                             <div class="image-holder">
                                 <img src="images/registration-form-1.jpg" alt="">
                             </div>
-                            <form action="/customer?action=register" method="post">
+                            <form name="myForm" action="/customer?action=register" method="post">
                                 <div class="form-group">
                                     <input type="text" placeholder="Tên công ty,doanh nghiệp, tổ chức" name="nameCompany" class="form-control">
                                 </div>
@@ -30,8 +30,10 @@
 
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" placeholder="Số điện thoại" name="phoneNumber" class="form-control">
-
+                                    <input type="text" placeholder="Số điện thoại" onkeyup=" Validate()" name="phoneNumber" class="form-control">
+                                </div>
+                                <div class="form-group">
+                                    <p id="errorPhone"></p>
                                 </div>
                                 <div class="form-group">
                                     <input type="text" placeholder="Email" name="email" class="form-control">
@@ -47,7 +49,7 @@
 <%--                                        <option value="MobiFone SIP Trunk">MobiFone SIP Trunk</option>--%>
 <%--                                        <option value="MobiFone eKYC">MobiFone eKYC</option>--%>
                                         <option  value= "MobiFone Invoice">MobiFone Invoice</option>
-                                        <option  selected="MobiFone Econtract">MobiFone Econtract</option>
+                                        <option  value="MobiFone Econtract">MobiFone Econtract</option>
                                         <option value="3C (Cloud Contact Center)">3C (Cloud Contact Center)</option>
                                         <option value="MobiCA">MobiCA</option>
 
@@ -74,8 +76,12 @@
                                     </select>
 
                                 </div>
+                                <div>
+                                    <input type="date"  name="date"  class="form-control" >
+
+                                </div>
                                 <tr>
-                                    <td><button type="submit" data-toggle="modal" data-target="#exampleModal"  class="btn btn-success" >Đăng ký ngay</button></td>
+                                    <td><button type="submit" data-toggle="modal"  class="btn btn-success" >Đăng ký ngay</button></td>
                                    <td> <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button></td>
                             </form>
                         </div>
@@ -119,9 +125,20 @@
                             integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA=="
                             data-cf-beacon='{"rayId":"78ad71bccde0045b","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2022.11.3","si":100}'
                             crossorigin="anonymous"></script>
+
                 </div>
             </div>
         </div>
     </div>
 </div>
 
+<script type="text/javascript">
+    function Validate() {
+    var phoneNumber = document.myForm.phoneNumber.value;
+    if(phoneNumber == ""){
+    document.getElementById("errorPhone").innerHTML = "không để trống";
+    {
+    }
+
+
+</script>

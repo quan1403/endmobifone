@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
-
+<link rel='stylesheet' href="css/econtract.css"  />
 
 <div class="prdBanner banner pageBanner">
         <div class="featured bannerItem"
@@ -336,813 +336,447 @@
         </div>
     </div>
     <div class="prdBlk prdTemp--pricing-2">
-        <div class="container">
-            <div class="sectionTitle align--center">
-                <span>MobiFone Invoice</span>
-                <h2>Bảng giá giải pháp </h2></div>
-            <div class="sectionMain">
-                <div class="row justify-content-center">
-                    <article class="col-md-8">
-                        <h4><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;">Phiên bản Cloud-SaaS :</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong>
-                        </h4>
-                        <table style="height: 817px;" width="783">
-                            <thead>
-                            <tr>
-                                <td width="50">
-                                    <p style="text-align: center;"><strong><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;">STT</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong>
-                                    </p>
-                                </td>
-                                <td style="text-align: center;" width="147"><strong><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">GÓI HÓA ĐƠN </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong>
-                                </td>
-                                <td style="text-align: center;" width="125"><strong><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"> SỐ HÓA ĐƠN </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong>
-                                </td>
-                                <td style="text-align: center;" width="125"><strong><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"> GIÁ GÓI&nbsp; (VNĐ)</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong>
-                                </td>
-                                <td style="text-align: center;" width="142"><strong><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">HÌNH THỨC THANH TOÁN</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong>
-                                </td>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">1</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-300</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">300</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">270.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" rowspan="15" width="142">
-                                    <p style="text-align: center;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                            style="vertical-align: inherit;">Trả trước</span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">2</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-500</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">500</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">300.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">3</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-700</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">700</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">400.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">4</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-1.500</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">1.500</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">780.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">5</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-3.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">3.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">1.300.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">6</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-4.500</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">4.500</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">1.800.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">&nbsp;7</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-7.500</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">7.500</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">2.900.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">8</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-15.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">15.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">5.000.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">9</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-30.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">30.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">8.500.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">10</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-50.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">50.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">13.500.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">11</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-100.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">100.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">23.000.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">12</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-200.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">200.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">36.000.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">13</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-400.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">400.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">64.000.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">14</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-800.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">800.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">112.000.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: center;" width="50"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">15</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="147"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">E-1.500.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">1.500.000</span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                                <td style="text-align: center;" width="125"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">150.000.000</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align: left;" colspan="13"><em><span style="vertical-align: inherit;"><span
-                                        style="vertical-align: inherit;">– Khách hàng có thể mua nhiều gói khác nhau nếu có nhu cầu sử dụng dịch vụ với số lượng hóa hơn nhiều hơn các gói hiện có trong bảng giá. </span></span></em><br>
-                                    <em><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">– Hóa đơn MobiFone Invoice không quy định thời hạn sử dụng.<br>
-</span></span></em></td>
-                            </tr>
-                            </tbody>
-                        </table>
-                        <p><!--more--></p>
-                        <p style="text-align: right;"><em><strong><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;">Đơn vị tính: VNĐ</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></em>
-                        </p>
-                        <p><strong><em><u><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;">Ghi chú:</span></span></span></span></span></span></span></span></span></span></span></span></u></em></strong>
-                        </p>
-                        <p><strong><em><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;">a) Bảng giá đã bao gồm:&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></em></strong>
-                        </p>
-                        <ul>
-                            <li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;">Phí lưu trữ dữ liệu hóa đơn điện tử phát sinh trong thời hạn 10 năm sử dụng dịch vụ kể từ thời điểm phát hành đơn hóa.</span></span></span></span>
-                            </li>
-                            <li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;">Phí chèn logo doanh nghiệp vào hóa đơn mẫu có sẵn.</span></span></span></span>
-                            </li>
-                        </ul>
-                        <p><span style="vertical-align: inherit;"><em><strong><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;">b) </span></span></span></span></span></span></span></span></span></span></strong></em></span><span
-                                style="vertical-align: inherit;"><strong><em><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;">Bảng giá chưa bao gồm:</span></span></span></span></span></span></span></span></span></span></em></strong></span><strong><em><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;">&nbsp;</span></span></em></strong>
-                        </p>
-                        <ul>
-                            <li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;">Phí dịch vụ tích hợp</span></span></span></span></span></span></span></span></span></span></span><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                    style="vertical-align: inherit;">,hỗ trợ trực tiếp tại đơn vị: theo thỏa thuận.</span></span></span></span></span></span></span></span></span></span></span>
-                            </li>
-                        </ul>
-                        <p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><strong><em><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
-                                style="vertical-align: inherit;">c) Phần mềm không chịu thuế GTGT</span></span></span></span></span></span></span></span></span></span></em></strong><br>
-</span></span></span></span></span></span></span></p>
-                        <h5 style="text-align: center;"><em><strong>Từ ngày 01/11/2021, MobiFone dành tặng gói ưu đãi miễn phí 300
-                            hóa đơn dành cho các doanh nghiệp đăng ký mới để trải nghiệm chất lượng và tính năng của sản phẩm, khách
-                            hàng có thể đăng ký trực tiếp theo form dưới đây hoặc liên hệ hotline: 070.404.8662.<br>
-                            Xin chân thành cảm ơn!</strong></em></h5>
-                    </article>
+        <div class="section-content relative">
+
+            <div class="row"  id="row-1834453987">
+
+                <div id="col-1049611916" class="col small-12 large-12"  >
+                    <div class="col-inner text-center"  >
+
+
+                        <div id="text-2723576121" class="text">
+
+                            <h2><span style="font-size: 100%; color: #ffffff;">BẢNG GIÁ HOÁ ĐƠN ĐIỆN TỬ</span></h2>
+                            <p><span style="color: #ffffff;">Rất nhiều gói phù hợp với nhu cầu của doanh nghiệp bạn</span><br />
+
+                                <style>
+                                    #text-2723576121 {
+                                        font-size: 1.25rem;
+                                        text-align: center;
+                                    }
+                                </style>
+                        </div>
+
+                    </div>
+
+                    <style>
+                        #col-1049611916 > .col-inner {
+                            margin: 0px 0px -35px 0px;
+                        }
+                        @media (min-width:550px) {
+                            #col-1049611916 > .col-inner {
+                                margin: 0px 0px -16px 0px;
+                            }
+                        }
+                    </style>
                 </div>
 
+
             </div>
+            <div class="slider-wrapper relative" id="slider-486671198" >
+                <div class="slider slider-nav-dots-dashes-spaced slider-nav-circle slider-nav-large slider-nav-light slider-style-focus slider-show-nav"
+                     data-flickity-options='{
+            "cellAlign": "center",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": true,
+            "wrapAround": true,
+            "autoPlay": 3000,
+            "pauseAutoPlayOnHover" : false,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'
+                >
+
+                    <div class="row row-small align-equal align-center"  id="row-505182213">
+
+                        <div id="col-763150884" class="col medium-8 small-12 large-4"  >
+                            <div class="col-inner text-left box-shadow-3"  >
+
+
+                                <h3 style="text-align: center;">E300</h3>
+                                <p style="text-align: center;">Gói 300 hoá đơn</p>
+                                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                                <div id="gap-329956101" class="gap-element clearfix" style="display:block; height:auto;">
+
+                                    <style>
+                                        #gap-329956101 {
+                                            padding-top: 10px;
+                                        }
+                                    </style>
+                                </div>
+
+                                <ul>
+                                    <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                                    <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                                    <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                                    <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
+                                    <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                                </ul>
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">270.000<br />
+</span>VNĐ/ GÓI</p>
+
+
+                            </div>
+
+                            <style>
+                                #col-763150884 > .col-inner {
+                                    border-radius: 10px;
+                                }
+                            </style>
+                        </div>
+
+
+
+                        <div id="col-1296053335" class="col medium-8 small-12 large-4"  >
+                            <div class="col-inner text-left box-shadow-3 dark" style="background-color:rgb(208, 10, 10);" >
+
+
+                                <h3 style="text-align: center;">E500</h3>
+                                <p style="text-align: center;">Gói 500 hoá đơn</p>
+                                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                                <div id="gap-656550042" class="gap-element clearfix" style="display:block; height:auto;">
+
+                                    <style>
+                                        #gap-656550042 {
+                                            padding-top: 10px;
+                                        }
+                                    </style>
+                                </div>
+
+                                <ul>
+                                    <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                                    <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                                    <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                                    <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
+                                    <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                                </ul>
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">300.000</span><br />
+</span>VNĐ/ GÓI</p>
+
+
+                            </div>
+
+                            <style>
+                                #col-1296053335 > .col-inner {
+                                    border-radius: 10px;
+                                }
+                            </style>
+                        </div>
+
+
+
+                        <div id="col-1991587957" class="col medium-8 small-12 large-4"  >
+                            <div class="col-inner text-left box-shadow-3"  >
+
+
+                                <h3 style="text-align: center;">E700</h3>
+                                <p style="text-align: center;">Gói 700 hoá đơn</p>
+                                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                                <div id="gap-990594426" class="gap-element clearfix" style="display:block; height:auto;">
+
+                                    <style>
+                                        #gap-990594426 {
+                                            padding-top: 10px;
+                                        }
+                                    </style>
+                                </div>
+
+                                <ul>
+                                    <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                                    <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                                    <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                                    <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
+                                    <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                                </ul>
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">400.000<br />
+</span>VNĐ/ GÓI</p>
+
+
+                            </div>
+
+                            <style>
+                                #col-1991587957 > .col-inner {
+                                    border-radius: 10px;
+                                }
+                            </style>
+                        </div>
+
+
+
+                        <style>
+                            #row-505182213 > .col > .col-inner {
+                                padding: 30px 30px 30px 30px;
+                                background-color: rgb(255,255,255);
+                            }
+                        </style>
+                    </div>
+                    <div class="row row-small align-equal align-center"  id="row-106892367">
+
+                        <div id="col-405666932" class="col medium-8 small-12 large-4"  >
+                            <div class="col-inner text-left box-shadow-3"  >
+
+
+                                <h3 style="text-align: center;">E1500</h3>
+                                <p style="text-align: center;">Gói 1.500 hoá đơn</p>
+                                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                                <div id="gap-2123504119" class="gap-element clearfix" style="display:block; height:auto;">
+
+                                    <style>
+                                        #gap-2123504119 {
+                                            padding-top: 10px;
+                                        }
+                                    </style>
+                                </div>
+
+                                <ul>
+                                    <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                                    <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                                    <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                                    <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
+                                    <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                                </ul>
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">780.000<br />
+</span>VNĐ/ GÓI</p>
+
+
+                            </div>
+
+                            <style>
+                                #col-405666932 > .col-inner {
+                                    border-radius: 10px;
+                                }
+                            </style>
+                        </div>
+
+
+
+                        <div id="col-331812668" class="col medium-8 small-12 large-4"  >
+                            <div class="col-inner text-left box-shadow-3 dark" style="background-color:rgb(208, 10, 10);" >
+
+
+                                <h3 style="text-align: center;">E3000</h3>
+                                <p style="text-align: center;">Gói 3.000 hoá đơn</p>
+                                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                                <div id="gap-2059944146" class="gap-element clearfix" style="display:block; height:auto;">
+
+                                    <style>
+                                        #gap-2059944146 {
+                                            padding-top: 10px;
+                                        }
+                                    </style>
+                                </div>
+
+                                <ul>
+                                    <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                                    <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                                    <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                                    <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                                    <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                                </ul>
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">1.300.000</span><br />
+</span>VNĐ/ GÓI</p>
+
+
+                            </div>
+
+                            <style>
+                                #col-331812668 > .col-inner {
+                                    border-radius: 10px;
+                                }
+                            </style>
+                        </div>
+
+
+
+                        <div id="col-1745883172" class="col medium-8 small-12 large-4"  >
+                            <div class="col-inner text-left box-shadow-3"  >
+
+
+                                <h3 style="text-align: center;">E4500</h3>
+                                <p style="text-align: center;">Gói 4.500 hoá đơn</p>
+                                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                                <div id="gap-1234771481" class="gap-element clearfix" style="display:block; height:auto;">
+
+                                    <style>
+                                        #gap-1234771481 {
+                                            padding-top: 10px;
+                                        }
+                                    </style>
+                                </div>
+
+                                <ul>
+                                    <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                                    <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                                    <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                                    <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                                    <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                                </ul>
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">1.800.000<br />
+</span>VNĐ/ GÓI</p>
+
+
+                            </div>
+
+                            <style>
+                                #col-1745883172 > .col-inner {
+                                    border-radius: 10px;
+                                }
+                            </style>
+                        </div>
+
+
+
+                        <style>
+                            #row-106892367 > .col > .col-inner {
+                                padding: 30px 30px 30px 30px;
+                                background-color: rgb(255,255,255);
+                            }
+                        </style>
+                    </div>
+                    <div class="row row-small align-equal align-center"  id="row-609349653">
+
+                        <div id="col-1704222438" class="col medium-8 small-12 large-4"  >
+                            <div class="col-inner text-left box-shadow-3"  >
+
+
+                                <h3 style="text-align: center;">E7500</h3>
+                                <p style="text-align: center;">Gói 7.500 hoá đơn</p>
+                                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                                <div id="gap-489664763" class="gap-element clearfix" style="display:block; height:auto;">
+
+                                    <style>
+                                        #gap-489664763 {
+                                            padding-top: 10px;
+                                        }
+                                    </style>
+                                </div>
+
+                                <ul>
+                                    <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                                    <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                                    <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                                    <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                                    <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                                </ul>
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">2.900.000<br />
+</span>VNĐ/ GÓI</p>
+                                <a class="button primary is-small lowercase expand"  style="border-radius:9px;">
+                                    <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
+                                </a>
+
+                            </div>
+
+                            <style>
+                                #col-1704222438 > .col-inner {
+                                    border-radius: 10px;
+                                }
+                            </style>
+                        </div>
+
+
+
+                        <div id="col-1103344438" class="col medium-8 small-12 large-4"  >
+                            <div class="col-inner text-left box-shadow-3 dark" style="background-color:rgb(208, 10, 10);" >
+
+
+                                <h3 style="text-align: center;">E15000</h3>
+                                <p style="text-align: center;">Gói 15.000 hoá đơn</p>
+                                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                                <div id="gap-1838442970" class="gap-element clearfix" style="display:block; height:auto;">
+
+                                    <style>
+                                        #gap-1838442970 {
+                                            padding-top: 10px;
+                                        }
+                                    </style>
+                                </div>
+
+                                <ul>
+                                    <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                                    <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                                    <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                                    <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                                    <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                                </ul>
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">5.000.000</span><br />
+</span>VNĐ/ GÓI</p>
+
+
+                            </div>
+
+                            <style>
+                                #col-1103344438 > .col-inner {
+                                    border-radius: 10px;
+                                }
+                            </style>
+                        </div>
+
+
+
+                        <div id="col-1371324257" class="col medium-8 small-12 large-4"  >
+                            <div class="col-inner text-left box-shadow-3"  >
+
+
+                                <h3 style="text-align: center;">E30000</h3>
+                                <p style="text-align: center;">Gói 30.000 hoá đơn</p>
+                                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                                <div id="gap-56173985" class="gap-element clearfix" style="display:block; height:auto;">
+
+                                    <style>
+                                        #gap-56173985 {
+                                            padding-top: 10px;
+                                        }
+                                    </style>
+                                </div>
+
+                                <ul>
+                                    <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                                    <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                                    <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                                    <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                                    <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                                </ul>
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">8.500.000<br />
+</span>VNĐ/ GÓI</p>
+
+
+                            </div>
+
+                            <style>
+                                #col-1371324257 > .col-inner {
+                                    border-radius: 10px;
+                                }
+                            </style>
+                        </div>
+
+
+
+                        <style>
+                            #row-609349653 > .col > .col-inner {
+                                padding: 30px 30px 30px 30px;
+                                background-color: rgb(255,255,255);
+                            }
+                        </style>
+                    </div>
+                </div>
+
+                <div class="loading-spin dark large centered"></div>
+
+            </div>
+
+
         </div>
     </div>
     <div class="prdBlk prdTemp--feature-2">
     </div>
-    <!-- <div class="prdBlk prdTemp--review-1">
-    <div class="container">
-        <div class="listing slider">
-                                        <div class="item item--review">
-            <span class="tt h4">
-  <p>Tôi đánh giá cao tinh thần trách nhiệm và phong cách làm việc chuyên nghiệp của Trung tâm CNTT MobiFone</p>
-  </span>
-            <div class="author">
-              <div class="thumbnail" style="background-image:url();"></div>
-              <span><strong>Anh Thái Quang Trung </strong> · Giám đốc Công ty TNHH Thẩm Mỹ Ngọc Dung</span>
-            </div>
-          </div>
-                      <div class="item item--review">
-            <span class="tt h4">
-  <p>Các ứng dụng được cung cấp bởi Trung tâm CNTT MobiFone luôn đảm bảo được yếu tố công nghệ, thẩm mỹ. Tôi rất hài lòng</p>
-  </span>
-            <div class="author">
-              <div class="thumbnail" style="background-image:url();"></div>
-              <span><strong>Chị Nguyễn Thị Nga</strong> · Giám đốc Công ty TNHH CNG Tiến Phát</span>
-            </div>
-          </div>
-                      <div class="item item--review">
-            <span class="tt h4">
-  <p>Đội ngũ nhân viên của trung tâm CNTT MobiFone làm việc rất chuyên nghiệp, tư vấn sắc bén, sản phẩm làm ra đáp ứng được đúng yêu cầu của chúng tôi<br></p>
-  </span>
-            <div class="author">
-              <div class="thumbnail" style="background-image:url();"></div>
-              <span><strong>Chị Trần Thị Thanh Phúc</strong> · Giám đốc Công ty TNHH Giải pháp Thương hiệu Adina Việt Nam</span>
-            </div>
-          </div>
-                    </div>
-    </div>
-  </div> -->
-    <div class="prdBlk prdTemp--feature-4">
-    </div>
-    <!-- <div class="prdBlk prdTemp--feature-5">
-        <div class="container">
-            <div class="sectionTitle align--center">
-                <span class="txt--subTitle">Hơn 300 Tính năng</span>
-                <h2>Đáp ứng mọi nhu cầu người dùng</h2>
-            </div>
-            <div class="sectionMain">
-                <div class="listing">
-                    <div class="item">
-                        <i class="icon fad fa-globe-asia"></i>
-                        <div class="txt">
-                            <h5>Tuỳ biến không giới hạn</h5>
-                            <p>A highly specialized Management team with over 20 combined years of experience in the Healthcare industry with proven ability to optimall</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <i class="icon fad fa-globe-asia"></i>
-                        <div class="txt">
-                            <h5>Tuỳ biến không giới hạn</h5>
-                            <p>A highly specialized Management team with over 20 combined years of experience in the Healthcare industry with proven ability to optimall</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <i class="icon fad fa-globe-asia"></i>
-                        <div class="txt">
-                            <h5>Tuỳ biến không giới hạn</h5>
-                            <p>A highly specialized Management team with over 20 combined years of experience in the Healthcare industry with proven ability to optimall</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <i class="icon fad fa-globe-asia"></i>
-                        <div class="txt">
-                            <h5>Tuỳ biến không giới hạn</h5>
-                            <p>A highly specialized Management team with over 20 combined years of experience in the Healthcare industry with proven ability to optimall</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <i class="icon fad fa-globe-asia"></i>
-                        <div class="txt">
-                            <h5>Tuỳ biến không giới hạn</h5>
-                            <p>A highly specialized Management team with over 20 combined years of experience in the Healthcare industry with proven ability to optimall</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <i class="icon fad fa-globe-asia"></i>
-                        <div class="txt">
-                            <h5>Tuỳ biến không giới hạn</h5>
-                            <p>A highly specialized Management team with over 20 combined years of experience in the Healthcare industry with proven ability to optimall</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
+
 </div>

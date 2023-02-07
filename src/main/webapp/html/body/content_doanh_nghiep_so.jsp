@@ -24,8 +24,15 @@
     <div class="cateprdMain main">
         <div class="catePrdList container">
             <div class="row">
+                <a href="mobifone-econtract.jsp" class="catePrd-item item col-md-4">
+                    <div class="catePrd-itemImg thumbnail lazyloaded" data-bg="../html/img/hopdongdientu.jpg" style="background-image: url(/html/img/hopdongdientu.jpg);"></div>
+                    <div class="catePrd-itemDesc desc">
+                        <h2 class="catePrd-itemTitle">MobiFone Econtract</h2>
+                        <p class="catePrd-itemTxt">Giải pháp hợp đồng điện tử</p>
+                    </div>
+                </a>
                 <a href="mobifone-smart-sales.jsp" class="catePrd-item item col-md-4">
-                    <div class="catePrd-itemImg thumbnail lazyloaded" data-bg="../html/img/pickawood-gf8e6XvG_3E-unsplash-scaled.jpg" style="background-image: url(https://giaiphap.mobifone5.vn/wp-content/uploads/pickawood-gf8e6XvG_3E-unsplash-scaled.jpg);"></div>
+                    <div class="catePrd-itemImg thumbnail lazyloaded" data-bg="../html/img/pickawood-gf8e6XvG_3E-unsplash-scaled.jpg" style="background-image: url(/html/img/pickawood-gf8e6XvG_3E-unsplash-scaled.jpg);"></div>
                     <div class="catePrd-itemDesc desc">
                         <h2 class="catePrd-itemTitle">MobiFone Smart Sales</h2>
                         <p class="catePrd-itemTxt">Giải pháp quản trị bán hàng</p>

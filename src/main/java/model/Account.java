@@ -1,6 +1,7 @@
 package model;
 
-public class Account {
+public class Account  {
+
 
     private int id;
     private String userName;

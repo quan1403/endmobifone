@@ -1,10 +1,7 @@
 package controller;
 
-import DAO.AccountDao;
 import DAO.CustomerDao;
-import model.Account;
 import model.Customer;
-import model.Login;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -13,11 +10,15 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Date;
 import java.util.List;
 
 @WebServlet(urlPatterns = "/customer")
 public class CustomerServlet extends HttpServlet {
+
     CustomerDao customerDao = new CustomerDao();
+
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
@@ -30,11 +31,13 @@ public class CustomerServlet extends HttpServlet {
             default:
                 showCustomer(req,resp);
                 break;
+
         }
     }
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
         req.setCharacterEncoding("utf-8");
         String action = req.getParameter("action");
         if (action == null) {
@@ -46,6 +49,17 @@ public class CustomerServlet extends HttpServlet {
                 break;
             case "register":
                 createCustome(req, resp);
+                break;
+            case "search":
+                String searchName = req.getParameter("searchName");
+                if (searchName==""){
+                    showCustomer(req, resp);
+                }else {
+                    List<Customer> customers = customerDao.getSearch(searchName);
+                    req.setAttribute("customers", customers);
+                    RequestDispatcher dispatcher = req.getRequestDispatcher("/html/customer.jsp");
+                    dispatcher.forward(req, resp);
+                }
                 break;
             default:
                 break;
@@ -59,16 +73,17 @@ public class CustomerServlet extends HttpServlet {
         String phoneNumber = request.getParameter("phoneNumber");
         String email = request.getParameter("email");
         String product = request.getParameter("product");
-        Customer cus = new Customer(nameCompany, fullName, phoneNumber, email, product);
+        Date date = Date.valueOf(request.getParameter("date"));
+        Customer cus = new Customer(nameCompany, fullName, phoneNumber, email, product,date);
         customerDao.create(cus);
-//        RequestDispatcher dispatcher = request.getRequestDispatcher("/html/thanks.jsp");
-//        try {
-//            dispatcher.forward(request, response);
-//        } catch (ServletException e) {
-//            e.printStackTrace();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
+        RequestDispatcher dispatcher = request.getRequestDispatcher("/html/thanks.jsp");
+        try {
+            dispatcher.forward(request, response);
+        } catch (ServletException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
     }
     public void showCustomer(HttpServletRequest request, HttpServletResponse response) {

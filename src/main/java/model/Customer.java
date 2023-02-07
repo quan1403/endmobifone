@@ -1,5 +1,8 @@
 package model;
 
+import java.sql.Date;
+import java.time.LocalDateTime;
+
 public class Customer {
    private int idCustomer;
    private String nameCompany;
@@ -7,29 +10,35 @@ public class Customer {
    private String phoneNumber;
    private String email;
    private String product;
+   private Date date;
 
 
 
 
-    public Customer(String nameCompany, String fullName, String phoneNumber, String email, String product) {
+    public Customer(String nameCompany, String fullName, String phoneNumber, String email, String product,Date date) {
         this.nameCompany = nameCompany;
         this.fullName = fullName;
         this.phoneNumber = phoneNumber;
         this.email = email;
         this.product = product;
+        this.date = date;
+
 
 
     }
 
-    public Customer(int idCustomer, String nameCompany, String fullName, String phoneNumber, String email, String product) {
+    public Customer(int idCustomer, String nameCompany, String fullName, String phoneNumber, String email, String product, Date date) {
         this.idCustomer = idCustomer;
         this.nameCompany = nameCompany;
         this.fullName = fullName;
         this.phoneNumber = phoneNumber;
         this.email = email;
         this.product = product;
+        this.date = date;
 
     }
+
+
 
     public int getIdCustomer() {
         return idCustomer;
@@ -79,5 +88,14 @@ public class Customer {
         this.product = product;
     }
 
+    public Customer() {
+    }
 
+    public Date getDate() {
+        return date;
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
+    }
 }

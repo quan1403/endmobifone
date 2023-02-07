@@ -46,7 +46,7 @@
                                     <span class="contactInfoLabel">Điện thoại</span>
                                     <h3 class="contactInfoTxt"> 0936001090</h3>
                                 </a>
-                                <a href="mailto:sale.mobifone5@mobifone.vn" class="contactInfoItem">
+                                <a href="mailto:support.ct1@mobifone.vn" class="contactInfoItem">
                                     <i class="fa fa-envelope-open-o" style="font-size:36px"></i>
 
                                     <span class="contactInfoLabel">Email</span>

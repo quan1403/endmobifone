@@ -231,11 +231,11 @@ $(document).ready(function(){
                     </div>
                 </div>
             </div>
-<%--            <form action=/customer?action=search method="post">--%>
-<%--                <input type="text" name="searchName">--%>
-<%--                <button type="submit">Search</button>--%>
+            <form action=/customer?action=search method="post">
+                <input type="text" name="searchName">
+                <button type="submit">Search</button>
 
-<%--            </form>--%>
+            </form>
             <table class="table table-striped table-hover">
                 <thead>
                 <tr>
@@ -256,6 +256,7 @@ $(document).ready(function(){
                         <td>${customer.getPhoneNumber()}</td>
                         <td>${customer.getEmail()}</td>
                         <td>${customer.getProduct()}</td>
+
                     </tr>
                 </c:forEach>
                 </tbody>

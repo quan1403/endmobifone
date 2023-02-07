@@ -4,8 +4,8 @@
         <div class="modal-content" style="">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">✕</button>
             <div class="modal-body">
-                <p align="justify">Công ty Dịch vụ MobiFone Khu vực 5 là đơn vị trực thuộc Tổng công ty Viễn thông MobiFone, chịu trách nhiệm triển khai kinh doanh các giải pháp, dịch vụ công nghệ thông tin, các dịch vụ viễn thông và các sản phẩm thuộc nhãn hiệu Mobifone tại địa bàn các tỉnh Hải Phòng, Quảng Ninh, Hải Dương, Thái Bình, Hưng Yên, Bắc Ninh, Bắc Giang, Cao Bằng, Bắc Kạn, Lạng Sơn, Hà Giang, Tuyên Quang, Thái Nguyên.</p>
-                <p>Trụ sở của công ty đặt tại thành phố Hải Phòng</p>
+                <p align="justify">Công ty Dịch vụ MobiFone Khu vực 1 là đơn vị trực thuộc Tổng công ty Viễn thông MobiFone, chịu trách nhiệm triển khai kinh doanh các giải pháp, dịch vụ công nghệ thông tin, các dịch vụ viễn thông và các sản phẩm thuộc nhãn hiệu Mobifone tại địa bàn thành phố Hà Nội .</p>
+                <p>Trụ sở của công ty đặt tại thành phố Hà Nội</p>
                 <p align="justify"> <strong> Tầm nhìn:</strong><br />
                     Tầm nhìn đến năm 2035 của MobiFone: Sáng tạo tương lai số.</p>
                 <p>MobiFone hướng đến trở thành nhà cung cấp hạ tầng, giải pháp/ nền tảng và dịch vụ số hàng đầu tại Việt Nam và quốc tế.</p>
@@ -321,9 +321,9 @@
             <div class="row">
                 <div class="main offset-md-6 col-md-6">
                     <div class="sectionTitle align--left">
-                        <span class="">Giới thiệu</span><h2>Công ty dịch vụ MobiFone Khu vực 5</h2>                    </div>
+                        <span class="">Giới thiệu</span><h2>Công ty dịch vụ MobiFone Khu vực 1</h2>                    </div>
                     <div class="aboutIntroTxt">
-                        <p align="justify">Công ty Dịch vụ MobiFone Khu vực 5 là đơn vị trực thuộc Tổng công ty Viễn thông MobiFone, chịu trách nhiệm triển khai kinh doanh các giải pháp, dịch vụ công nghệ thông tin, các dịch vụ viễn thông và các sản phẩm thuộc nhãn hiệu Mobifone tại địa bàn các tỉnh Hải Phòng, Quảng Ninh, Hải Dương, Thái Bình, Hưng Yên, Bắc Ninh, Bắc Giang, Cao Bằng, Bắc Kạn, Lạng Sơn, Hà Giang, Tuyên Quang, Thái Nguyên.</p>
+                        <p align="justify">Công ty Dịch vụ MobiFone Khu vực 1 là đơn vị trực thuộc Tổng công ty Viễn thông MobiFone, chịu trách nhiệm triển khai kinh doanh các giải pháp, dịch vụ công nghệ thông tin, các dịch vụ viễn thông và các sản phẩm thuộc nhãn hiệu Mobifone tại địa bàn thành phố Hà Nội.</p>
                         <p>Trụ sở của công ty đặt tại thành phố Hải Phòng</p>
                         <p align="justify"> <strong> Tầm nhìn:</strong><br />
                             Tầm nhìn đến năm 2035 của MobiFone: Sáng tạo tương lai số.</p>
@@ -337,120 +337,120 @@
                         <p>&nbsp;</p>
                         <a class="btnTheme" data-toggle="modal" data-target="#modalIntro" href="">Đọc thêm</a>
                     </div>
-                    <div class="award">
-                        <div class="listing slider">
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/12/sao-khue_vytv.jpg" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            Top 10 Sao Khuê 2016                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/12/dsc_0694_ogoi.jpg" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            Top 50 doanh nghiệp CNTT hàng đầu Việt Nam năm 2016, 2017, 2018, 2019                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/12/Nhận-giải-top-10-DN-CNTT-có-năng-lực-4.0-tiêu-biểu-2-1.JPG.jpg" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            Top 10 doanh nghiệp có năng lực 4.0 tiêu biểu 2019                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/image001.jpg" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            Danh hiệu Sao Khuê 2020                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/mobifone-gianh-5-giai-thuong-kinh-doanh-quoc-te-iba-stevie-awards.jpg" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            Giải thưởng kinh doanh quốc tế - IBA Stevie Awards 2020                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/cns_132.jpg" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            Giải thưởng chuyển đổi số Việt Nam - Vietnam Digital Awards 2020                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/mobifone-nhan-cu-dup-giai-thuong-top-10-doanh-nghiep-cntt-2020-1.jpg" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            Top 10 doanh nghiệp công nghệ thông tin Việt Nam 2020                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/nam-giai-phap-cua-mobifone-duoc-cong-nhan-thuong-hieu-quoc-gia-viet-nam-2020.jpg" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            05 Sản phẩm đạt giải thưởng Thương hiệu Quốc Gia Việt Nam 2020                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/mobifone-1_fvnm.png" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            Top 10 Sản phẩm và Top 10 Nền tảng số xuất sắc Make In Vietnam 2020                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="awardItem">
-                                <div class="awardItem-inner">
-                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/gdd_7238-07264029.jpg" style="background-image:url();"></div>
-                                    <div class="awardItemDesc">
-                                        <h4 class="awardItemTitle">
-                                            Danh hiệu Sao Khuê 2021                                        </h4>
-                                        <div class="awardItemTxt">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+<%--                    <div class="award">--%>
+<%--                        <div class="listing slider">--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/12/sao-khue_vytv.jpg" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            Top 10 Sao Khuê 2016                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/12/dsc_0694_ogoi.jpg" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            Top 50 doanh nghiệp CNTT hàng đầu Việt Nam năm 2016, 2017, 2018, 2019                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/12/Nhận-giải-top-10-DN-CNTT-có-năng-lực-4.0-tiêu-biểu-2-1.JPG.jpg" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            Top 10 doanh nghiệp có năng lực 4.0 tiêu biểu 2019                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/image001.jpg" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            Danh hiệu Sao Khuê 2020                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/mobifone-gianh-5-giai-thuong-kinh-doanh-quoc-te-iba-stevie-awards.jpg" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            Giải thưởng kinh doanh quốc tế - IBA Stevie Awards 2020                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/cns_132.jpg" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            Giải thưởng chuyển đổi số Việt Nam - Vietnam Digital Awards 2020                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/mobifone-nhan-cu-dup-giai-thuong-top-10-doanh-nghiep-cntt-2020-1.jpg" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            Top 10 doanh nghiệp công nghệ thông tin Việt Nam 2020                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/nam-giai-phap-cua-mobifone-duoc-cong-nhan-thuong-hieu-quoc-gia-viet-nam-2020.jpg" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            05 Sản phẩm đạt giải thưởng Thương hiệu Quốc Gia Việt Nam 2020                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/mobifone-1_fvnm.png" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            Top 10 Sản phẩm và Top 10 Nền tảng số xuất sắc Make In Vietnam 2020                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                            <div class="awardItem">--%>
+<%--                                <div class="awardItem-inner">--%>
+<%--                                    <div class="awardItemImg thumbnail lazyload" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/gdd_7238-07264029.jpg" style="background-image:url();"></div>--%>
+<%--                                    <div class="awardItemDesc">--%>
+<%--                                        <h4 class="awardItemTitle">--%>
+<%--                                            Danh hiệu Sao Khuê 2021                                        </h4>--%>
+<%--                                        <div class="awardItemTxt">--%>
+<%--                                        </div>--%>
+<%--                                    </div>--%>
+<%--                                </div>--%>
+<%--                            </div>--%>
+<%--                        </div>--%>
+<%--                    </div>--%>
                 </div>
             </div>
         </div>

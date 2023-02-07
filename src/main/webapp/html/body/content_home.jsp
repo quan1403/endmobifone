@@ -137,7 +137,7 @@
 				   chuyển đổi số, khơi dậy những giá trị thiết thực trong các doanh nghiệp, cơ quan và tổ chức
 				</p>
 				<a
-				   href="/gioi-thieu" class="btn btnTheme type-transparent">Giới thiệu trung tâm</a>
+				   href="../html/vechungtoi.jsp" class="btn btnTheme type-transparent">Giới thiệu trung tâm</a>
 			 </div>
 		  </div>
 	   </div>
@@ -353,79 +353,79 @@
 	   </div>
 	</div>
  </div>
- <div class="homeNews">
-	<div class="container">
-	   <div class="sectionTitle">
-		  <span class="txt--subTitle">Tin tức / Sự kiện</span>
-		  <h2>Các tin nổi bật</h2>
-	   </div>
-	   <div class="row">
-		  <div class="col-md-6">
-			 <div class="boxPost type--large">
-				<a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-ngay-lap-va-ngay-ky-khac-nhau.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/ngay-lap-hoa-don-va-ngay-ky-hoa-don.jpg" style="background-image: url(/html/img/ngay-lap-hoa-don-va-ngay-ky-hoa-don.jpg);"></a>
-				<div class="boxPostTxt">
-				   <div class="boxPostDate">
-					  August 3, 2022                            
-				   </div>
-				   <h3 class="boxPostTitle">
-					  Hóa đơn điện tử: Ngày lập và Ngày ký khác nhau | 4 câu hỏi thường gặp                            
-				   </h3>
-				   <div class="boxPostDesc">
-					  Thông thường, ngày lập và ngày ký của hoá đơn điện tử thường vào cùng một ngày để tiện cho việc kê khai, nộp thuế và hạch toán thu chi. Vậy những hoá đơn điện tử ngày lập và ngày ký khác nhau có hợp lệ không và sử dụng chúng như thế nào? Bài… <a class="view-article" href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-ngay-lap-va-ngay-ky-khac-nhau.html">View Article</a>                            
-				   </div>
-				   <a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-ngay-lap-va-ngay-ky-khac-nhau.html" class="boxPostBtn">Xem thêm</a>
-				</div>
-			 </div>
-		  </div>
-		  <div class="col-md-6 row m-slider">
-			 <div class="col-md-6">
-				<div class="boxPost">
-				   <a href="https://giaiphap.mobifone5.vn/cach-xuat-hoa-don-dien-tu.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/luu-tru-hoa-don-dien-tu-dau-ra-don-gian.jpg" style="background-image: url(/html/img/luu-tru-hoa-don-dien-tu-dau-ra-don-gian.jpg);"></a>
-				   <div class="boxPostTxt">
-					  <h3 class="boxPostTitle"><a href="https://giaiphap.mobifone5.vn/cach-xuat-hoa-don-dien-tu.html">
-						 [CHI TIẾT] Hướng dẫn cách xuất hóa đơn điện tử&nbsp;</a>
-					  </h3>
-					  <div class="boxPostDate"> August 17, 2022</div>
-				   </div>
-				</div>
-			 </div>
-			 <div class="col-md-6">
-				<div class="boxPost">
-				   <a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-chuyen-doi.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/hoa-don-dien-tu-chuyen-doi-chi-duoc-in-1-lan.jpg" style="background-image: url(/html/img/hoa-don-dien-tu-chuyen-doi-chi-duoc-in-1-lan.jpg);"></a>
-				   <div class="boxPostTxt">
-					  <h3 class="boxPostTitle"><a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-chuyen-doi.html">
-						 Hóa đơn điện tử chuyển đổi là gì? Khác gì với hóa đơn giấy? Cách thực hiện</a>
-					  </h3>
-					  <div class="boxPostDate"> August 16, 2022</div>
-				   </div>
-				</div>
-			 </div>
-			 <div class="col-md-6">
-				<div class="boxPost">
-				   <a href="https://giaiphap.mobifone5.vn/giai-phap-hoa-don-dien-tu.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/hoa-don-dien-tu-giup-giam-thieu-tinh-trang-mat-hong.jpg" style="background-image: url(/html/img/hoa-don-dien-tu-giup-giam-thieu-tinh-trang-mat-hong.jpg);"></a>
-				   <div class="boxPostTxt">
-					  <h3 class="boxPostTitle"><a href="https://giaiphap.mobifone5.vn/giai-phap-hoa-don-dien-tu.html">
-						 Giải pháp hóa đơn điện tử – 3 điều quan trọng cần biết</a>
-					  </h3>
-					  <div class="boxPostDate"> August 17, 2022</div>
-				   </div>
-				</div>
-			 </div>
-			 <div class="col-md-6">
-				<div class="boxPost">
-				   <a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-luu-tru-nhu-the-nao.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/ban-co-the-luu-tru-hoa-don-dien-tu-dau-vao-tren-cac-thiet-bi-ngoai.jpg" style="background-image: url(/html/img/ban-co-the-luu-tru-hoa-don-dien-tu-dau-vao-tren-cac-thiet-bi-ngoai.jpg);"></a>
-				   <div class="boxPostTxt">
-					  <h3 class="boxPostTitle"><a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-luu-tru-nhu-the-nao.html">
-						 Hóa đơn điện tử lưu trữ như thế nào là ĐÚNG QUY ĐỊNH?&nbsp;</a>
-					  </h3>
-					  <div class="boxPostDate"> August 17, 2022</div>
-				   </div>
-				</div>
-			 </div>
-		  </div>
-	   </div>
-	</div>
- </div>
+<%-- <div class="homeNews">--%>
+<%--	<div class="container">--%>
+<%--	   <div class="sectionTitle">--%>
+<%--		  <span class="txt--subTitle">Tin tức / Sự kiện</span>--%>
+<%--		  <h2>Các tin nổi bật</h2>--%>
+<%--	   </div>--%>
+<%--	   <div class="row">--%>
+<%--		  <div class="col-md-6">--%>
+<%--			 <div class="boxPost type--large">--%>
+<%--				<a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-ngay-lap-va-ngay-ky-khac-nhau.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/ngay-lap-hoa-don-va-ngay-ky-hoa-don.jpg" style="background-image: url(/html/img/ngay-lap-hoa-don-va-ngay-ky-hoa-don.jpg);"></a>--%>
+<%--				<div class="boxPostTxt">--%>
+<%--				   <div class="boxPostDate">--%>
+<%--					  August 3, 2022                            --%>
+<%--				   </div>--%>
+<%--				   <h3 class="boxPostTitle">--%>
+<%--					  Hóa đơn điện tử: Ngày lập và Ngày ký khác nhau | 4 câu hỏi thường gặp                            --%>
+<%--				   </h3>--%>
+<%--				   <div class="boxPostDesc">--%>
+<%--					  Thông thường, ngày lập và ngày ký của hoá đơn điện tử thường vào cùng một ngày để tiện cho việc kê khai, nộp thuế và hạch toán thu chi. Vậy những hoá đơn điện tử ngày lập và ngày ký khác nhau có hợp lệ không và sử dụng chúng như thế nào? Bài… <a class="view-article" href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-ngay-lap-va-ngay-ky-khac-nhau.html">View Article</a>                            --%>
+<%--				   </div>--%>
+<%--				   <a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-ngay-lap-va-ngay-ky-khac-nhau.html" class="boxPostBtn">Xem thêm</a>--%>
+<%--				</div>--%>
+<%--			 </div>--%>
+<%--		  </div>--%>
+<%--		  <div class="col-md-6 row m-slider">--%>
+<%--			 <div class="col-md-6">--%>
+<%--				<div class="boxPost">--%>
+<%--				   <a href="https://giaiphap.mobifone5.vn/cach-xuat-hoa-don-dien-tu.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/luu-tru-hoa-don-dien-tu-dau-ra-don-gian.jpg" style="background-image: url(/html/img/luu-tru-hoa-don-dien-tu-dau-ra-don-gian.jpg);"></a>--%>
+<%--				   <div class="boxPostTxt">--%>
+<%--					  <h3 class="boxPostTitle"><a href="https://giaiphap.mobifone5.vn/cach-xuat-hoa-don-dien-tu.html">--%>
+<%--						 [CHI TIẾT] Hướng dẫn cách xuất hóa đơn điện tử&nbsp;</a>--%>
+<%--					  </h3>--%>
+<%--					  <div class="boxPostDate"> August 17, 2022</div>--%>
+<%--				   </div>--%>
+<%--				</div>--%>
+<%--			 </div>--%>
+<%--			 <div class="col-md-6">--%>
+<%--				<div class="boxPost">--%>
+<%--				   <a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-chuyen-doi.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/hoa-don-dien-tu-chuyen-doi-chi-duoc-in-1-lan.jpg" style="background-image: url(/html/img/hoa-don-dien-tu-chuyen-doi-chi-duoc-in-1-lan.jpg);"></a>--%>
+<%--				   <div class="boxPostTxt">--%>
+<%--					  <h3 class="boxPostTitle"><a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-chuyen-doi.html">--%>
+<%--						 Hóa đơn điện tử chuyển đổi là gì? Khác gì với hóa đơn giấy? Cách thực hiện</a>--%>
+<%--					  </h3>--%>
+<%--					  <div class="boxPostDate"> August 16, 2022</div>--%>
+<%--				   </div>--%>
+<%--				</div>--%>
+<%--			 </div>--%>
+<%--			 <div class="col-md-6">--%>
+<%--				<div class="boxPost">--%>
+<%--				   <a href="https://giaiphap.mobifone5.vn/giai-phap-hoa-don-dien-tu.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/hoa-don-dien-tu-giup-giam-thieu-tinh-trang-mat-hong.jpg" style="background-image: url(/html/img/hoa-don-dien-tu-giup-giam-thieu-tinh-trang-mat-hong.jpg);"></a>--%>
+<%--				   <div class="boxPostTxt">--%>
+<%--					  <h3 class="boxPostTitle"><a href="https://giaiphap.mobifone5.vn/giai-phap-hoa-don-dien-tu.html">--%>
+<%--						 Giải pháp hóa đơn điện tử – 3 điều quan trọng cần biết</a>--%>
+<%--					  </h3>--%>
+<%--					  <div class="boxPostDate"> August 17, 2022</div>--%>
+<%--				   </div>--%>
+<%--				</div>--%>
+<%--			 </div>--%>
+<%--			 <div class="col-md-6">--%>
+<%--				<div class="boxPost">--%>
+<%--				   <a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-luu-tru-nhu-the-nao.html" class="boxPostThumbnail lazyloaded" data-bg="https://giaiphap.mobifone5.vn/wp-content/uploads/ban-co-the-luu-tru-hoa-don-dien-tu-dau-vao-tren-cac-thiet-bi-ngoai.jpg" style="background-image: url(/html/img/ban-co-the-luu-tru-hoa-don-dien-tu-dau-vao-tren-cac-thiet-bi-ngoai.jpg);"></a>--%>
+<%--				   <div class="boxPostTxt">--%>
+<%--					  <h3 class="boxPostTitle"><a href="https://giaiphap.mobifone5.vn/hoa-don-dien-tu-luu-tru-nhu-the-nao.html">--%>
+<%--						 Hóa đơn điện tử lưu trữ như thế nào là ĐÚNG QUY ĐỊNH?&nbsp;</a>--%>
+<%--					  </h3>--%>
+<%--					  <div class="boxPostDate"> August 17, 2022</div>--%>
+<%--				   </div>--%>
+<%--				</div>--%>
+<%--			 </div>--%>
+<%--		  </div>--%>
+<%--	   </div>--%>
+<%--	</div>--%>
+<%-- </div>--%>
  <!-- <div class="homeNews">
 	<div class="container">
 	  <div class="sectionTitle align--center">

@@ -209,10 +209,6 @@
     function getCurrentURL () {
   return window.location.href
 }
-// Example
-const url = getCurrentURL()
-console.log(url)
-url.slice(27,url.length)
-if(url.slice(27,url.length)){
-}
+
+
 </script>

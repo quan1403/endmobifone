@@ -11,32 +11,32 @@
   <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
-  <title>Hợp đồng điện tử - MobiFone Econtract 2023</title>
-  <meta name="description" content="Hợp đồng điện tử MobiFone eContract là dịch vụ chứng thực HĐ điện tử/HĐ chữ ký số nhằm đáp ứng nhu cầu KH theo quy định của pháp luật."/>
+  <title>Hoá đơn điện tử MobiFone Invoice - Giải pháp số ưu việt 2023</title>
+  <meta name="description" content="Hóa đơn điện tử MobiFone Invoice là giải pháp cho các tổ chức &amp; DN dùng tạo lập, xuất hóa đơn điện tử và quản lý, phát hành hóa đơn trực tuyến."/>
   <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-  <link rel="canonical" href="https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/" />
+  <link rel="canonical" href="https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/" />
   <meta property="og:locale" content="vi_VN" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Hợp đồng điện tử - MobiFone Econtract 2023" />
-  <meta property="og:description" content="Hợp đồng điện tử MobiFone eContract là dịch vụ chứng thực HĐ điện tử/HĐ chữ ký số nhằm đáp ứng nhu cầu KH theo quy định của pháp luật." />
-  <meta property="og:url" content="https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/" />
+  <meta property="og:title" content="Hoá đơn điện tử MobiFone Invoice - Giải pháp số ưu việt 2023" />
+  <meta property="og:description" content="Hóa đơn điện tử MobiFone Invoice là giải pháp cho các tổ chức &amp; DN dùng tạo lập, xuất hóa đơn điện tử và quản lý, phát hành hóa đơn trực tuyến." />
+  <meta property="og:url" content="https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/" />
   <meta property="og:site_name" content="Giải Pháp MobiFone" />
-  <meta property="og:updated_time" content="2023-01-16T13:45:28+07:00" />
-  <meta property="og:image" content="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hop-dong-dien-tu.jpg" />
-  <meta property="og:image:secure_url" content="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hop-dong-dien-tu.jpg" />
-  <meta property="og:image:width" content="800" />
-  <meta property="og:image:height" content="500" />
-  <meta property="og:image:alt" content="Hợp đồng điện tử MobiFone eContract" />
+  <meta property="og:updated_time" content="2023-01-31T11:11:27+07:00" />
+  <meta property="og:image" content="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hoa-don-dien-tu-mobifone-invoice.jpg" />
+  <meta property="og:image:secure_url" content="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hoa-don-dien-tu-mobifone-invoice.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="628" />
+  <meta property="og:image:alt" content="Hóa đơn điện tử MobiFone Invoice" />
   <meta property="og:image:type" content="image/jpeg" />
-  <meta property="article:published_time" content="2022-11-02T13:02:37+07:00" />
-  <meta property="article:modified_time" content="2023-01-16T13:45:28+07:00" />
+  <meta property="article:published_time" content="2022-11-03T11:48:43+07:00" />
+  <meta property="article:modified_time" content="2023-01-31T11:11:27+07:00" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Hợp đồng điện tử - MobiFone Econtract 2023" />
-  <meta name="twitter:description" content="Hợp đồng điện tử MobiFone eContract là dịch vụ chứng thực HĐ điện tử/HĐ chữ ký số nhằm đáp ứng nhu cầu KH theo quy định của pháp luật." />
-  <meta name="twitter:image" content="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hop-dong-dien-tu.jpg" />
+  <meta name="twitter:title" content="Hoá đơn điện tử MobiFone Invoice - Giải pháp số ưu việt 2023" />
+  <meta name="twitter:description" content="Hóa đơn điện tử MobiFone Invoice là giải pháp cho các tổ chức &amp; DN dùng tạo lập, xuất hóa đơn điện tử và quản lý, phát hành hóa đơn trực tuyến." />
+  <meta name="twitter:image" content="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hoa-don-dien-tu-mobifone-invoice.jpg" />
   <meta name="twitter:label1" content="Time to read" />
-  <meta name="twitter:data1" content="22 minutes" />
-  <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://giaiphap.mobifone.vn/#person","name":"giaiphap","logo":{"@type":"ImageObject","@id":"https://giaiphap.mobifone.vn/#logo","url":"https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-CNS-final-web.png","contentUrl":"https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-CNS-final-web.png","caption":"Gi\u1ea3i Ph\u00e1p MobiFone","inLanguage":"vi","width":"300","height":"72"},"image":{"@type":"ImageObject","@id":"https://giaiphap.mobifone.vn/#logo","url":"https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-CNS-final-web.png","contentUrl":"https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-CNS-final-web.png","caption":"Gi\u1ea3i Ph\u00e1p MobiFone","inLanguage":"vi","width":"300","height":"72"}},{"@type":"WebSite","@id":"https://giaiphap.mobifone.vn/#website","url":"https://giaiphap.mobifone.vn","name":"Gi\u1ea3i Ph\u00e1p MobiFone","publisher":{"@id":"https://giaiphap.mobifone.vn/#person"},"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hop-dong-dien-tu.jpg","url":"https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hop-dong-dien-tu.jpg","width":"800","height":"500","caption":"H\u1ee3p \u0111\u1ed3ng \u0111i\u1ec7n t\u1eed MobiFone eContract","inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://giaiphap.mobifone.vn","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/","name":"H\u1ee3p \u0111\u1ed3ng \u0111i\u1ec7n t\u1eed &#8211; MobiFone Econtract"}}]},{"@type":"WebPage","@id":"https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/#webpage","url":"https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/","name":"H\u1ee3p \u0111\u1ed3ng \u0111i\u1ec7n t\u1eed - MobiFone Econtract 2023","datePublished":"2022-11-02T13:02:37+07:00","dateModified":"2023-01-16T13:45:28+07:00","isPartOf":{"@id":"https://giaiphap.mobifone.vn/#website"},"primaryImageOfPage":{"@id":"https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hop-dong-dien-tu.jpg"},"inLanguage":"vi","breadcrumb":{"@id":"https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/#breadcrumb"}},{"@type":"Person","@id":"https://giaiphap.mobifone.vn/author/giaiphap/","name":"giaiphap","url":"https://giaiphap.mobifone.vn/author/giaiphap/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/eb5e40a82955f8e6670ecaf36c9dfd72?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/eb5e40a82955f8e6670ecaf36c9dfd72?s=96&amp;d=mm&amp;r=g","caption":"giaiphap","inLanguage":"vi"},"sameAs":["http://10.151.70.34"]},{"@type":"BlogPosting","headline":"H\u1ee3p \u0111\u1ed3ng \u0111i\u1ec7n t\u1eed - MobiFone Econtract 2023","keywords":"h\u1ee3p \u0111\u1ed3ng \u0111i\u1ec7n t\u1eed,h\u1ee3p \u0111\u1ed3ng \u0111i\u1ec7n t\u1eed mobifone econtract","datePublished":"2022-11-02T13:02:37+07:00","dateModified":"2023-01-16T13:45:28+07:00","author":{"@id":"https://giaiphap.mobifone.vn/author/giaiphap/"},"publisher":{"@id":"https://giaiphap.mobifone.vn/#person"},"description":"H\u1ee3p \u0111\u1ed3ng \u0111i\u1ec7n t\u1eed MobiFone eContract l\u00e0 d\u1ecbch v\u1ee5 ch\u1ee9ng th\u1ef1c H\u0110 \u0111i\u1ec7n t\u1eed/H\u0110 ch\u1eef k\u00fd s\u1ed1 nh\u1eb1m \u0111\u00e1p \u1ee9ng nhu c\u1ea7u KH theo quy \u0111\u1ecbnh c\u1ee7a ph\u00e1p lu\u1eadt.","name":"H\u1ee3p \u0111\u1ed3ng \u0111i\u1ec7n t\u1eed - MobiFone Econtract 2023","@id":"https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/#richSnippet","isPartOf":{"@id":"https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/#webpage"},"image":{"@id":"https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hop-dong-dien-tu.jpg"},"inLanguage":"vi","mainEntityOfPage":{"@id":"https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/#webpage"}}]}</script>
+  <meta name="twitter:data1" content="24 minutes" />
+  <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://giaiphap.mobifone.vn/#person","name":"giaiphap","logo":{"@type":"ImageObject","@id":"https://giaiphap.mobifone.vn/#logo","url":"https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-CNS-final-web.png","contentUrl":"https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-CNS-final-web.png","caption":"Gi\u1ea3i Ph\u00e1p MobiFone","inLanguage":"vi","width":"300","height":"72"},"image":{"@type":"ImageObject","@id":"https://giaiphap.mobifone.vn/#logo","url":"https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-CNS-final-web.png","contentUrl":"https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-CNS-final-web.png","caption":"Gi\u1ea3i Ph\u00e1p MobiFone","inLanguage":"vi","width":"300","height":"72"}},{"@type":"WebSite","@id":"https://giaiphap.mobifone.vn/#website","url":"https://giaiphap.mobifone.vn","name":"Gi\u1ea3i Ph\u00e1p MobiFone","publisher":{"@id":"https://giaiphap.mobifone.vn/#person"},"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hoa-don-dien-tu-mobifone-invoice.jpg","url":"https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hoa-don-dien-tu-mobifone-invoice.jpg","width":"1200","height":"628","caption":"H\u00f3a \u0111\u01a1n \u0111i\u1ec7n t\u1eed MobiFone Invoice","inLanguage":"vi"},{"@type":"BreadcrumbList","@id":"https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://giaiphap.mobifone.vn","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/","name":"H\u00f3a \u0111\u01a1n \u0111i\u1ec7n t\u1eed &#8211; MobiFone Invoice"}}]},{"@type":"WebPage","@id":"https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/#webpage","url":"https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/","name":"Ho\u00e1 \u0111\u01a1n \u0111i\u1ec7n t\u1eed MobiFone Invoice - Gi\u1ea3i ph\u00e1p s\u1ed1 \u01b0u vi\u1ec7t 2023","datePublished":"2022-11-03T11:48:43+07:00","dateModified":"2023-01-31T11:11:27+07:00","isPartOf":{"@id":"https://giaiphap.mobifone.vn/#website"},"primaryImageOfPage":{"@id":"https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hoa-don-dien-tu-mobifone-invoice.jpg"},"inLanguage":"vi","breadcrumb":{"@id":"https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/#breadcrumb"}},{"@type":"Person","@id":"https://giaiphap.mobifone.vn/author/giaiphap/","name":"giaiphap","url":"https://giaiphap.mobifone.vn/author/giaiphap/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/eb5e40a82955f8e6670ecaf36c9dfd72?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/eb5e40a82955f8e6670ecaf36c9dfd72?s=96&amp;d=mm&amp;r=g","caption":"giaiphap","inLanguage":"vi"},"sameAs":["http://10.151.70.34"]},{"@type":"BlogPosting","headline":"Ho\u00e1 \u0111\u01a1n \u0111i\u1ec7n t\u1eed MobiFone Invoice - Gi\u1ea3i ph\u00e1p s\u1ed1 \u01b0u vi\u1ec7t 2023","keywords":"ho\u00e1 \u0111\u01a1n \u0111i\u1ec7n t\u1eed,h\u00f3a \u0111\u01a1n \u0111i\u1ec7n t\u1eed mobifone invoice,mobifone invoice,d\u1ecbch v\u1ee5 h\u00f3a \u0111\u01a1n \u0111i\u1ec7n t\u1eed","datePublished":"2022-11-03T11:48:43+07:00","dateModified":"2023-01-31T11:11:27+07:00","author":{"@id":"https://giaiphap.mobifone.vn/author/giaiphap/"},"publisher":{"@id":"https://giaiphap.mobifone.vn/#person"},"description":"H\u00f3a \u0111\u01a1n \u0111i\u1ec7n t\u1eed MobiFone Invoice l\u00e0 gi\u1ea3i ph\u00e1p cho c\u00e1c t\u1ed5 ch\u1ee9c &amp; DN d\u00f9ng t\u1ea1o l\u1eadp, xu\u1ea5t h\u00f3a \u0111\u01a1n \u0111i\u1ec7n t\u1eed v\u00e0 qu\u1ea3n l\u00fd, ph\u00e1t h\u00e0nh h\u00f3a \u0111\u01a1n tr\u1ef1c tuy\u1ebfn.","name":"Ho\u00e1 \u0111\u01a1n \u0111i\u1ec7n t\u1eed MobiFone Invoice - Gi\u1ea3i ph\u00e1p s\u1ed1 \u01b0u vi\u1ec7t 2023","@id":"https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/#richSnippet","isPartOf":{"@id":"https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/#webpage"},"image":{"@id":"https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/hoa-don-dien-tu-mobifone-invoice.jpg"},"inLanguage":"vi","mainEntityOfPage":{"@id":"https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/#webpage"}}]}</script>
   <!-- /Rank Math WordPress SEO plugin -->
 
   <link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
@@ -71,7 +71,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
     :root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}figure{margin:0 0 1em}
   </style>
   <link rel='stylesheet' id='classic-theme-styles-css' href='https://giaiphap.mobifone.vn/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
-  <link rel='stylesheet' id='cf7-styler-css' href='https://giaiphap.mobifone.vn/wp-content/plugins/cf7-styler/public/css/cf7-customizer-public.css?ver=1.0.01675064368' type='text/css' media='all' />
+  <link rel='stylesheet' id='cf7-styler-css' href='https://giaiphap.mobifone.vn/wp-content/plugins/cf7-styler/public/css/cf7-customizer-public.css?ver=1.0.01675648599' type='text/css' media='all' />
   <link rel='stylesheet' id='toc-screen-css' href='https://giaiphap.mobifone.vn/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2106' type='text/css' media='all' />
   <link rel='stylesheet' id='pzf-style-css' href='https://giaiphap.mobifone.vn/wp-content/plugins/button-contact-vr/css/style.css?ver=6.1.1' type='text/css' media='all' />
   <link rel='stylesheet' id='fancybox-css' href='https://giaiphap.mobifone.vn/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.css?ver=6.1.1' type='text/css' media='screen' />
@@ -94,12 +94,12 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
   <link rel='stylesheet' id='parent-style-css' href='https://giaiphap.mobifone.vn/wp-content/themes/flatsome/style.css?ver=6.1.1' type='text/css' media='all' />
   <script type='text/javascript' src='https://giaiphap.mobifone.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
   <script type='text/javascript' src='https://giaiphap.mobifone.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-  <link rel="https://api.w.org/" href="https://giaiphap.mobifone.vn/wp-json/" /><link rel="alternate" type="application/json" href="https://giaiphap.mobifone.vn/wp-json/wp/v2/pages/10" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://giaiphap.mobifone.vn/xmlrpc.php?rsd" />
+  <link rel="https://api.w.org/" href="https://giaiphap.mobifone.vn/wp-json/" /><link rel="alternate" type="application/json" href="https://giaiphap.mobifone.vn/wp-json/wp/v2/pages/161" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://giaiphap.mobifone.vn/xmlrpc.php?rsd" />
   <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://giaiphap.mobifone.vn/wp-includes/wlwmanifest.xml" />
   <meta name="generator" content="WordPress 6.1.1" />
-  <link rel='shortlink' href='https://giaiphap.mobifone.vn/?p=10' />
-  <link rel="alternate" type="application/json+oembed" href="https://giaiphap.mobifone.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgiaiphap.mobifone.vn%2Fhop-dong-dien-tu-mobifone-econtract%2F" />
-  <link rel="alternate" type="text/xml+oembed" href="https://giaiphap.mobifone.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgiaiphap.mobifone.vn%2Fhop-dong-dien-tu-mobifone-econtract%2F&#038;format=xml" />
+  <link rel='shortlink' href='https://giaiphap.mobifone.vn/?p=161' />
+  <link rel="alternate" type="application/json+oembed" href="https://giaiphap.mobifone.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgiaiphap.mobifone.vn%2Fhoa-don-dien-tu-mobifone-invoice%2F" />
+  <link rel="alternate" type="text/xml+oembed" href="https://giaiphap.mobifone.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgiaiphap.mobifone.vn%2Fhoa-don-dien-tu-mobifone-invoice%2F&#038;format=xml" />
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -128,7 +128,7 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 </script>
 </head>
 
-<body data-rsssl=1 class="page-template page-template-page-blank page-template-page-blank-php page page-id-10 full-width lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+<body data-rsssl=1 class="page-template page-template-page-blank page-template-page-blank-php page page-id-161 full-width lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW9VC2J"
@@ -177,9 +177,9 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
               <li id="menu-item-1004" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1004 active menu-item-design-default has-dropdown"><a href="https://giaiphap.mobifone.vn/giai-phap-dich-vu-so/" class="nav-top-link">SẢN PHẨM<i class="icon-angle-down" ></i></a>
                 <ul class="sub-menu nav-dropdown nav-dropdown-default">
                   <li id="menu-item-2584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2584"><a href="https://giaiphap.mobifone.vn/tong-dai-di-dong-cloud-contact-center/">Tổng đài di động – Cloud Contact Center</a></li>
-                  <li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-157 active"><a href="https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/" aria-current="page">Hợp đồng điện tử – MobiFone Econtract</a></li>
+                  <li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/">Hợp đồng điện tử – MobiFone Econtract</a></li>
                   <li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://giaiphap.mobifone.vn/chu-ky-so-mobica/">Chữ ký số – MobiCA</a></li>
-                  <li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/">Hóa đơn điện tử – MobiFone Invoice</a></li>
+                  <li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-161 current_page_item menu-item-166 active"><a href="https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/" aria-current="page">Hóa đơn điện tử – MobiFone Invoice</a></li>
                 </ul>
               </li>
               <li id="menu-item-3571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3571 menu-item-design-default has-dropdown"><a href="https://giaiphap.mobifone.vn/blog/" class="nav-top-link">BLOG<i class="icon-angle-down" ></i></a>
@@ -234,7 +234,7 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
     <div id="content" role="main" class="content-area">
 
 
-      <section class="section hide-for-small" id="section_2092081184">
+      <section class="section hide-for-small" id="section_508549937">
         <div class="bg section-bg fill bg-fill  bg-loaded" >
 
 
@@ -247,26 +247,206 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
 
         <div class="section-content relative">
 
-          <div class="row row-collapse row-divided"  id="row-783005926">
+          <div class="row row-collapse row-divided"  id="row-2138742362">
 
-            <div id="col-846615284" class="col medium-5 small-12 large-5"  data-animate="fadeInLeft">
+            <div id="col-15636667" class="col medium-5 small-12 large-5"  data-animate="fadeInLeft">
               <div class="col-inner text-left"  >
 
 
-                <div class="row"  id="row-1575690992">
+                <div class="row"  id="row-1620796988">
 
-                  <div id="col-1446947986" class="col small-12 large-12"  data-animate="fadeInLeft">
+                  <div id="col-1466002889" class="col small-12 large-12"  data-animate="fadeInLeft">
                     <div class="col-inner text-left"  >
 
 
-                      <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1988163815">
+                      <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_232176206">
                         <div class="img-inner dark" >
-                          <img width="1020" height="265" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-1024x266.jpg" class="attachment-large size-large" alt="logo e" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-1024x266.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-300x78.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-768x199.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-1536x398.jpg 1536w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e.jpg 1654w" sizes="(max-width: 1020px) 100vw, 1020px" title="Hợp đồng điện tử - MobiFone Econtract 19">
+                          <img width="1020" height="176" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-1024x177.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice-06" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-1024x177.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-300x52.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-768x133.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-1536x266.jpg 1536w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-2048x355.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" title="Hóa đơn điện tử - MobiFone Invoice 22">
                         </div>
 
                         <style>
-                          #image_1988163815 {
+                          #image_232176206 {
                             width: 80%;
+                          }
+                        </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div id="text-1354027823" class="text">
+
+                  <h1 style="text-align: left;"><span style="font-size: 115%; color: #0f0fbd;">Hoá đơn điện tử</span></h1>
+                  <p class="style-scope ytd-watch-metadata" style="text-align: justify;">Là giải pháp cung cấp cho các tổ chức, doanh nghiệp, chuyên dùng tạo lập, xuất hóa đơn điện tử và quản lý phát hành hóa đơn trực tuyến</p>
+
+                  <style>
+                    #text-1354027823 {
+                      font-size: 1.3rem;
+                      line-height: 1.75;
+                      text-align: center;
+                    }
+                    @media (min-width:550px) {
+                      #text-1354027823 {
+                        text-align: left;
+                      }
+                    }
+                  </style>
+                </div>
+
+                <a data-animate="bounceInUp" href="https://giaiphap.mobifone.vn/lien-he/" target="_self" class="button alert" style="border-radius:10px;">
+                  <span>Đăng ký dùng thử</span>
+                </a>
+
+              </div>
+
+              <style>
+                #col-15636667 > .col-inner {
+                  padding: 10px 18px 20px 15px;
+                }
+                @media (min-width:550px) {
+                  #col-15636667 > .col-inner {
+                    padding: 73px 18px 20px 15px;
+                  }
+                }
+              </style>
+            </div>
+
+
+
+            <div id="col-880532112" class="col medium-7 small-12 large-7"  >
+              <div class="col-inner" style="background-color:#145fc1;" >
+
+
+                <div class="slider-wrapper relative" id="slider-1695008891" style="background-color:#145fc1;">
+                  <div class="slider slider-nav-circle slider-nav-normal slider-nav-light slider-style-container slider-show-nav"
+                       data-flickity-options='{
+            "cellAlign": "center",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": true,
+            "wrapAround": true,
+            "autoPlay": 2500,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": false,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'
+                  >
+
+                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_967483690">
+                      <div data-animate="bounceInDown">		<div class="img-inner dark" >
+                        <img width="1020" height="758" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001-1024x761.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice-001" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001-1024x761.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001-300x223.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001-768x571.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001.jpg 1083w" sizes="(max-width: 1020px) 100vw, 1020px" title="Hóa đơn điện tử - MobiFone Invoice 23">
+                      </div>
+                      </div>
+                      <style>
+                        #image_967483690 {
+                          width: 57%;
+                        }
+                      </style>
+                    </div>
+
+                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_410543082">
+                      <div data-animate="bounceInDown">		<div class="img-inner dark" >
+                        <img width="600" height="446" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-07.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-07.jpg 600w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-07-300x223.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="Hóa đơn điện tử - MobiFone Invoice 24">
+                      </div>
+                      </div>
+                      <style>
+                        #image_410543082 {
+                          width: 57%;
+                        }
+                      </style>
+                    </div>
+
+                  </div>
+
+                  <div class="loading-spin dark large centered"></div>
+
+                </div>
+
+
+              </div>
+
+              <style>
+                #col-880532112 > .col-inner {
+                  border-radius: 15px;
+                }
+              </style>
+            </div>
+
+
+
+            <style>
+              #row-2138742362 > .col > .col-inner {
+                border-radius: 1px;
+              }
+            </style>
+          </div>
+        </div>
+
+
+        <style>
+          #section_508549937 {
+            padding-top: 75px;
+            padding-bottom: 75px;
+          }
+          #section_508549937 .ux-shape-divider--top svg {
+            height: 150px;
+            --divider-top-width: 100%;
+          }
+          #section_508549937 .ux-shape-divider--bottom svg {
+            height: 150px;
+            --divider-width: 100%;
+          }
+        </style>
+      </section>
+
+      <section class="section show-for-small" id="section_524763010">
+        <div class="bg section-bg fill bg-fill  bg-loaded" >
+
+
+
+
+
+        </div>
+
+
+
+        <div class="section-content relative">
+
+          <div class="row row-collapse row-divided"  id="row-1799613630">
+
+            <div id="col-18443526" class="col medium-5 small-12 large-5"  >
+              <div class="col-inner text-center"  >
+
+
+                <div class="row"  id="row-1554270898">
+
+                  <div id="col-1226099749" class="col small-12 large-12"  >
+                    <div class="col-inner text-center"  >
+
+
+                      <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_412121522">
+                        <div class="img-inner dark" style="margin:0px 0px -28px 0px;">
+                          <img width="1020" height="176" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-1024x177.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice-06" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-1024x177.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-300x52.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-768x133.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-1536x266.jpg 1536w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-06-2048x355.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" title="Hóa đơn điện tử - MobiFone Invoice 22">
+                        </div>
+
+                        <style>
+                          #image_412121522 {
+                            width: 93%;
+                          }
+                          @media (min-width:550px) {
+                            #image_412121522 {
+                              width: 80%;
+                            }
                           }
                         </style>
                       </div>
@@ -274,92 +454,46 @@ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(argumen
                     </div>
 
                     <style>
-                      #col-1446947986 > .col-inner {
-                        margin: 0px 0px -25px 0px;
+                      #col-1226099749 > .col-inner {
+                        padding: 0px 0px 0px 0px;
                       }
                     </style>
                   </div>
 
 
                 </div>
-                <div id="text-3499211354" class="text">
+                <div id="text-3915944734" class="text">
 
-                  <h1><span style="color: #0e7dc7;"><strong><span style="font-size: 95%;">Hợp đồng điện tử</span></strong></span></h1>
-                  <ul>
-                    <li class="line-content-banner wow fadeInLeft bounceInLeft" data-wow-duration="2s" data-wow-delay="0.2s"><span style="font-size: 85%;">Dễ sử dụng nhất</span></li>
-                    <li class="line-content-banner wow fadeInLeft bounceInLeft" data-wow-duration="2s" data-wow-delay="0.2s"><span style="font-size: 85%;">Đáp ứng tất cả các loại hợp đồng</span></li>
-                    <li class="line-content-banner wow fadeInLeft bounceInLeft" data-wow-duration="2s" data-wow-delay="0.6s"><span style="font-size: 85%;">Bảo mật dữ liệu tuyệt đối</span></li>
-                    <li class="line-content-banner wow fadeInLeft bounceInLeft" data-wow-duration="2s" data-wow-delay="0.6s"><span style="font-size: 85%;">Nhà cung cấp Hợp đồng điện tử tốt nhất</span></li>
-                  </ul>
-                  <p><a class="fancybox" href="#contact_form_pop"><img decoding="async" class="alignleft" src="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/DANG-KY-UU-DAI.gif" alt="DANG KY UU DAI" width="300" height="194" title="Hợp đồng điện tử - MobiFone Econtract 20"></a></p>
-                  <div class="fancybox-hidden" style="display: none;">
-                    <div id="contact_form_pop"><div id="cf7cstmzr-form" class="cf7cstmzr-form-3491 cf7cstmzr-form"><div role="form" class="wpcf7" id="wpcf7-f3491-p10-o1" lang="vi" dir="ltr">
-                      <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-                      <form action="/hop-dong-dien-tu-mobifone-econtract/#wpcf7-f3491-p10-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                        <div style="display: none;">
-                          <input type="hidden" name="_wpcf7" value="3491" />
-                          <input type="hidden" name="_wpcf7_version" value="5.6.4" />
-                          <input type="hidden" name="_wpcf7_locale" value="vi" />
-                          <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3491-p10-o1" />
-                          <input type="hidden" name="_wpcf7_container_post" value="10" />
-                          <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-                        </div>
-                        <div style="border: 2px solid white; padding: 10px; border-radius: 6px;">
-                          <span style="font-size:20px;"><b>ĐĂNG KÝ NHẬN NGAY ƯU ĐÃI</b></span></p>
-                          <div style="height: 10px;"></div>
-                          <p><script>
-document.addEventListener( 'wpcf7mailsent', function( event ) {
-  location = 'https://giaiphap.mobifone.vn/blog/';
-}, false );
-</script></p>
-                          <p><span class="wpcf7-form-control-wrap" data-name="text-451"><input type="text" name="text-451" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Họ và Tên*" /></span></p>
-                          <div style="height: 10px;"></div>
-                          <p><span class="wpcf7-form-control-wrap" data-name="tel-782"><input type="tel" name="tel-782" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Số điện thoại*" /></span></p>
-                          <div style="height: 10px;"></div>
-                          <p><span class="wpcf7-form-control-wrap" data-name="email-350"><input type="email" name="email-350" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" aria-invalid="false" placeholder="Email" /></span></p>
-                          <div style="height: 10px;"></div>
-                          <p>Bạn quan tâm giải pháp</p>
-                          <div style="height: 10px;"></div>
-                          <p><span class="wpcf7-form-control-wrap" data-name="radio-794"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><span class="wpcf7-list-item-label">Tổng đài di động</span><input type="radio" name="radio-794" value="Tổng đài di động" checked="checked" /></label></span><span class="wpcf7-list-item"><label><span class="wpcf7-list-item-label">Hợp đồng điện tử</span><input type="radio" name="radio-794" value="Hợp đồng điện tử" /></label></span><span class="wpcf7-list-item"><label><span class="wpcf7-list-item-label">Hoá đơn điện tử</span><input type="radio" name="radio-794" value="Hoá đơn điện tử" /></label></span><span class="wpcf7-list-item last"><label><span class="wpcf7-list-item-label">Chữ ký số</span><input type="radio" name="radio-794" value="Chữ ký số" /></label></span></span></span><br />
-                          </p>
-                          <div style="height: 8px;"></div>
-                          <p><input type="submit" value="Tư vấn ngay" class="wpcf7-form-control has-spinner wpcf7-submit" />
-                          </p></div>
-                        <div class="wpcf7-response-output" aria-hidden="true"></div></form></div></div></div>
-                  </div>
-                  <p>&nbsp;</p>
-                  <div data-wow-duration="2s" data-wow-delay="0.6s">
-                    <p>&nbsp;</p>
-                  </div>
+                  <h2 style="text-align: center;"><span style="color: #003366; font-size: 100%;">Hoá đơn điện tử</span></h2>
+                  <p class="style-scope ytd-watch-metadata" style="text-align: center;"><span style="font-size: 75%;">Là giải pháp chuyên dùng tạo lập, xuất hóa đơn điện tử và quản lý phát hành hóa đơn trực tuyến</span></p>
 
                   <style>
-                    #text-3499211354 {
-                      font-size: 1.5rem;
+                    #text-3915944734 {
+                      font-size: 1.6rem;
                       line-height: 1.25;
                       text-align: center;
                     }
                     @media (min-width:550px) {
-                      #text-3499211354 {
+                      #text-3915944734 {
                         text-align: left;
-                      }
-                    }
-                    @media (min-width:850px) {
-                      #text-3499211354 {
-                        font-size: 1.3rem;
                       }
                     }
                   </style>
                 </div>
 
+                <a href="https://giaiphap.mobifone.vn/lien-he/" target="_self" class="button alert" style="border-radius:10px;">
+                  <span>Đăng ký dùng thử</span>
+                </a>
+
               </div>
 
               <style>
-                #col-846615284 > .col-inner {
+                #col-18443526 > .col-inner {
                   padding: 10px 18px 20px 15px;
                 }
                 @media (min-width:550px) {
-                  #col-846615284 > .col-inner {
-                    padding: 44px 18px 20px 15px;
+                  #col-18443526 > .col-inner {
+                    padding: 73px 18px 20px 15px;
                   }
                 }
               </style>
@@ -367,11 +501,11 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-            <div id="col-1932893629" class="col medium-7 small-12 large-7"  >
+            <div id="col-1122002553" class="col medium-7 small-12 large-7"  >
               <div class="col-inner" style="background-color:#145fc1;" >
 
 
-                <div class="slider-wrapper relative" id="slider-338503627" style="background-color:#145fc1;">
+                <div class="slider-wrapper relative" id="slider-239968754" style="background-color:#145fc1;">
                   <div class="slider slider-nav-circle slider-nav-normal slider-nav-light slider-style-container slider-show-nav"
                        data-flickity-options='{
             "cellAlign": "center",
@@ -394,25 +528,25 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
             "friction": 0.6        }'
                   >
 
-                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1474901800">
-                      <div data-animate="bounceInDown">		<div class="img-inner dark" >
-                        <img width="1020" height="758" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05-1024x761.jpg" class="attachment-large size-large" alt="hợp đồng điện tử mobifone-econtract-05" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05-1024x761.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05-300x223.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05-768x571.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05.jpg 1083w" sizes="(max-width: 1020px) 100vw, 1020px" title="Hợp đồng điện tử - MobiFone Econtract 21">
+                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1445051042">
+                      <div class="img-inner dark" >
+                        <img width="600" height="446" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-07.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-07.jpg 600w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-07-300x223.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="Hóa đơn điện tử - MobiFone Invoice 24">
                       </div>
-                      </div>
+
                       <style>
-                        #image_1474901800 {
+                        #image_1445051042 {
                           width: 57%;
                         }
                       </style>
                     </div>
 
-                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_291207533">
-                      <div data-animate="bounceInDown">		<div class="img-inner dark" >
-                        <img width="673" height="500" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-06.jpg" class="attachment-large size-large" alt="hợp đồng điện tử" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-06.jpg 673w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-06-300x223.jpg 300w" sizes="(max-width: 673px) 100vw, 673px" title="Hợp đồng điện tử - MobiFone Econtract 22">
+                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_955300617">
+                      <div class="img-inner dark" >
+                        <img width="600" height="446" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-07.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-07.jpg 600w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Hoa-don-dien-tu-MobiFoneInvoice-07-300x223.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="Hóa đơn điện tử - MobiFone Invoice 24">
                       </div>
-                      </div>
+
                       <style>
-                        #image_291207533 {
+                        #image_955300617 {
                           width: 57%;
                         }
                       </style>
@@ -428,7 +562,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
               </div>
 
               <style>
-                #col-1932893629 > .col-inner {
+                #col-1122002553 > .col-inner {
                   border-radius: 15px;
                 }
               </style>
@@ -437,7 +571,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
             <style>
-              #row-783005926 > .col > .col-inner {
+              #row-1799613630 > .col > .col-inner {
                 border-radius: 1px;
               }
             </style>
@@ -446,51 +580,22 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
         <style>
-          #section_2092081184 {
-            padding-top: 48px;
-            padding-bottom: 48px;
+          #section_524763010 {
+            padding-top: 21px;
+            padding-bottom: 21px;
           }
-          #section_2092081184 .ux-shape-divider--top svg {
+          #section_524763010 .ux-shape-divider--top svg {
             height: 150px;
             --divider-top-width: 100%;
           }
-          #section_2092081184 .ux-shape-divider--bottom svg {
+          #section_524763010 .ux-shape-divider--bottom svg {
             height: 150px;
             --divider-width: 100%;
           }
         </style>
       </section>
 
-      <div class="row"  id="row-743586678">
-
-        <div id="col-2125117931" class="col small-12 large-12"  data-animate="fadeInLeft">
-          <div class="col-inner text-center"  >
-
-
-            <div class="img has-hover show-for-small x md-x lg-x y md-y lg-y" id="image_2144188604">
-              <div class="img-inner dark" >
-                <img width="1020" height="265" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-1024x266.jpg" class="attachment-large size-large" alt="logo e" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-1024x266.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-300x78.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-768x199.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e-1536x398.jpg 1536w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/logo-e.jpg 1654w" sizes="(max-width: 1020px) 100vw, 1020px" title="Hợp đồng điện tử - MobiFone Econtract 19">
-              </div>
-
-              <style>
-                #image_2144188604 {
-                  width: 80%;
-                }
-              </style>
-            </div>
-
-          </div>
-
-          <style>
-            #col-2125117931 > .col-inner {
-              margin: 0px 0px -25px 0px;
-            }
-          </style>
-        </div>
-
-
-      </div>
-      <section class="section show-for-small" id="section_1147950689">
+      <section class="section show-for-small" id="section_983999058">
         <div class="bg section-bg fill bg-fill  bg-loaded" >
 
 
@@ -503,73 +608,23 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
         <div class="section-content relative">
 
-          <div class="row row-collapse row-divided"  id="row-1490720488">
+          <div class="row align-equal align-center"  id="row-1854333277">
 
-            <div id="col-2142550861" class="col medium-5 small-12 large-5"  data-animate="fadeInLeft">
-              <div class="col-inner text-left"  >
+            <div id="col-1682565897" class="col small-12 large-12"  data-animate="fadeInUp">
+              <div class="col-inner text-center"  >
 
 
-                <div id="text-341211571" class="text">
+                <div id="text-3733523314" class="text">
 
-                  <p><span style="color: #0e7dc7;"><strong><span style="font-size: 95%;">Hợp đồng điện tử</span></strong></span></p>
-                  <ul>
-                    <li class="line-content-banner wow fadeInLeft bounceInLeft" data-wow-duration="2s" data-wow-delay="0.2s"><span style="font-size: 85%;">Dễ sử dụng nhất</span></li>
-                    <li class="line-content-banner wow fadeInLeft bounceInLeft" data-wow-duration="2s" data-wow-delay="0.2s"><span style="font-size: 85%;">Đáp ứng tất cả các loại hợp đồng</span></li>
-                    <li class="line-content-banner wow fadeInLeft bounceInLeft" data-wow-duration="2s" data-wow-delay="0.6s"><span style="font-size: 85%;">Bảo mật dữ liệu tuyệt đối</span></li>
-                    <li class="line-content-banner wow fadeInLeft bounceInLeft" data-wow-duration="2s" data-wow-delay="0.6s"><span style="font-size: 85%;">Nhà cung cấp Hợp đồng điện tử tốt nhất</span></li>
-                  </ul>
-                  <p><a class="fancybox" href="#contact_form_pop"><img decoding="async" loading="lazy" class="aligncenter" src="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/DANG-KY-UU-DAI.gif" alt="DANG KY UU DAI" width="200" height="194" title="Hợp đồng điện tử - MobiFone Econtract 24"></a></p>
-                  <div class="fancybox-hidden" style="display: none;">
-                    <div id="contact_form_pop"><div id="cf7cstmzr-form" class="cf7cstmzr-form-3491 cf7cstmzr-form"><div role="form" class="wpcf7" id="wpcf7-f3491-p10-o2" lang="vi" dir="ltr">
-                      <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-                      <form action="/hop-dong-dien-tu-mobifone-econtract/#wpcf7-f3491-p10-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                        <div style="display: none;">
-                          <input type="hidden" name="_wpcf7" value="3491" />
-                          <input type="hidden" name="_wpcf7_version" value="5.6.4" />
-                          <input type="hidden" name="_wpcf7_locale" value="vi" />
-                          <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3491-p10-o2" />
-                          <input type="hidden" name="_wpcf7_container_post" value="10" />
-                          <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-                        </div>
-                        <div style="border: 2px solid white; padding: 10px; border-radius: 6px;">
-                          <span style="font-size:20px;"><b>ĐĂNG KÝ NHẬN NGAY ƯU ĐÃI</b></span></p>
-                          <div style="height: 10px;"></div>
-                          <p><script>
-document.addEventListener( 'wpcf7mailsent', function( event ) {
-  location = 'https://giaiphap.mobifone.vn/blog/';
-}, false );
-</script></p>
-                          <p><span class="wpcf7-form-control-wrap" data-name="text-451"><input type="text" name="text-451" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Họ và Tên*" /></span></p>
-                          <div style="height: 10px;"></div>
-                          <p><span class="wpcf7-form-control-wrap" data-name="tel-782"><input type="tel" name="tel-782" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Số điện thoại*" /></span></p>
-                          <div style="height: 10px;"></div>
-                          <p><span class="wpcf7-form-control-wrap" data-name="email-350"><input type="email" name="email-350" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" aria-invalid="false" placeholder="Email" /></span></p>
-                          <div style="height: 10px;"></div>
-                          <p>Bạn quan tâm giải pháp</p>
-                          <div style="height: 10px;"></div>
-                          <p><span class="wpcf7-form-control-wrap" data-name="radio-794"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><span class="wpcf7-list-item-label">Tổng đài di động</span><input type="radio" name="radio-794" value="Tổng đài di động" checked="checked" /></label></span><span class="wpcf7-list-item"><label><span class="wpcf7-list-item-label">Hợp đồng điện tử</span><input type="radio" name="radio-794" value="Hợp đồng điện tử" /></label></span><span class="wpcf7-list-item"><label><span class="wpcf7-list-item-label">Hoá đơn điện tử</span><input type="radio" name="radio-794" value="Hoá đơn điện tử" /></label></span><span class="wpcf7-list-item last"><label><span class="wpcf7-list-item-label">Chữ ký số</span><input type="radio" name="radio-794" value="Chữ ký số" /></label></span></span></span><br />
-                          </p>
-                          <div style="height: 8px;"></div>
-                          <p><input type="submit" value="Tư vấn ngay" class="wpcf7-form-control has-spinner wpcf7-submit" />
-                          </p></div>
-                        <div class="wpcf7-response-output" aria-hidden="true"></div></form></div></div></div>
-                  </div>
+                  <h2><span style="color: #000080;">Đối tượng sử dụng</span></h2>
 
                   <style>
-                    #text-341211571 {
-                      font-size: 1.2rem;
-                      line-height: 1.25;
-                      text-align: left;
+                    #text-3733523314 {
+                      font-size: 1.5rem;
                     }
                     @media (min-width:550px) {
-                      #text-341211571 {
-                        font-size: 1.5rem;
-                        text-align: left;
-                      }
-                    }
-                    @media (min-width:850px) {
-                      #text-341211571 {
-                        font-size: 1.3rem;
+                      #text-3733523314 {
+                        font-size: 1.75rem;
                       }
                     }
                   </style>
@@ -578,120 +633,102 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
               </div>
 
               <style>
-                #col-2142550861 > .col-inner {
-                  padding: 10px 18px 0px 15px;
+                #col-1682565897 > .col-inner {
+                  padding: 0px 15px 0px 15px;
                 }
                 @media (min-width:550px) {
-                  #col-2142550861 > .col-inner {
-                    padding: 44px 18px 20px 15px;
+                  #col-1682565897 > .col-inner {
+                    padding: 0px 145px 0px 145px;
+                  }
+                }
+                @media (min-width:850px) {
+                  #col-1682565897 > .col-inner {
+                    padding: 0px 80px 0px 80px;
                   }
                 }
               </style>
             </div>
 
 
+          </div>
+          <div class="row row-large align-equal align-right row-dashed"  id="row-544481726">
 
-            <div id="col-953911110" class="col medium-7 small-12 large-7"  >
-              <div class="col-inner" style="background-color:#145fc1;" >
+            <div id="col-2080210596" class="col medium-6 small-12 large-6"  data-animate="fadeInLeft">
+              <div class="col-inner text-left"  >
 
 
-                <div class="slider-wrapper relative" id="slider-827023770" style="background-color:#145fc1;">
-                  <div class="slider slider-nav-circle slider-nav-normal slider-nav-light slider-style-container slider-show-nav"
-                       data-flickity-options='{
-            "cellAlign": "center",
-            "imagesLoaded": true,
-            "lazyLoad": 1,
-            "freeScroll": true,
-            "wrapAround": true,
-            "autoPlay": 2500,
-            "pauseAutoPlayOnHover" : true,
-            "prevNextButtons": true,
-            "contain" : true,
-            "adaptiveHeight" : true,
-            "dragThreshold" : 10,
-            "percentPosition": true,
-            "pageDots": false,
-            "rightToLeft": false,
-            "draggable": true,
-            "selectedAttraction": 0.1,
-            "parallax" : 0,
-            "friction": 0.6        }'
-                  >
 
-                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1524220236">
-                      <div data-animate="bounceInDown">		<div class="img-inner dark" >
-                        <img width="1020" height="758" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05-1024x761.jpg" class="attachment-large size-large" alt="hợp đồng điện tử mobifone-econtract-05" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05-1024x761.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05-300x223.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05-768x571.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-05.jpg 1083w" sizes="(max-width: 1020px) 100vw, 1020px" title="Hợp đồng điện tử - MobiFone Econtract 21">
-                      </div>
-                      </div>
-                      <style>
-                        #image_1524220236 {
-                          width: 57%;
-                        }
-                      </style>
+                <div class="icon-box featured-box icon-box-left text-left"  >
+                  <div class="icon-box-img has-icon-bg" style="width: 105px">
+                    <div class="icon">
+                      <div class="icon-inner" style="border-width:3px;color:rgb(255, 255, 255);">
+                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon-mobica-01.png" class="attachment-medium size-medium" alt="chu-ky-so-mobica-08" decoding="async" loading="lazy" title="Hóa đơn điện tử - MobiFone Invoice 28">					</div>
                     </div>
-
-                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1107885144">
-                      <div data-animate="bounceInDown">		<div class="img-inner dark" >
-                        <img width="673" height="500" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-06.jpg" class="attachment-large size-large" alt="hợp đồng điện tử" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-06.jpg 673w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-06-300x223.jpg 300w" sizes="(max-width: 673px) 100vw, 673px" title="Hợp đồng điện tử - MobiFone Econtract 22">
-                      </div>
-                      </div>
-                      <style>
-                        #image_1107885144 {
-                          width: 57%;
-                        }
-                      </style>
-                    </div>
-
                   </div>
+                  <div class="icon-box-text last-reset">
 
-                  <div class="loading-spin dark large centered"></div>
-
+                    <h3 style="text-align: left;">Tổ chức, cá nhân</h3>
+                    <p style="text-align: left;">Lựa chọn sử dụng hóa đơn điện tử khi mua bán hàng, cung ứng dịch vụ</p>
+                  </div>
                 </div>
 
 
               </div>
-
-              <style>
-                #col-953911110 > .col-inner {
-                  border-radius: 15px;
-                }
-              </style>
             </div>
 
 
 
-            <style>
-              #row-1490720488 > .col > .col-inner {
-                border-radius: 1px;
-              }
-            </style>
+            <div id="col-1401221437" class="col medium-6 small-12 large-6"  data-animate="fadeInUp">
+              <div class="col-inner text-right"  >
+
+
+
+                <div class="icon-box featured-box icon-box-left text-left"  >
+                  <div class="icon-box-img has-icon-bg" style="width: 105px">
+                    <div class="icon">
+                      <div class="icon-inner" style="border-width:3px;color:rgb(255, 255, 255);">
+                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon-mobica-03.png" class="attachment-medium size-medium" alt="icon mobica 03" decoding="async" loading="lazy" title="Hóa đơn điện tử - MobiFone Invoice 29">					</div>
+                    </div>
+                  </div>
+                  <div class="icon-box-text last-reset">
+
+                    <h3 style="text-align: left;">Các doanh nghiệp lớn, vừa và nhỏ</h3>
+                    <p style="text-align: left;">Có nhu cầu xuất hóa đơn điện tử cho khách hàng của doanh nghiệp đó</p>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+
+
           </div>
         </div>
 
 
         <style>
-          #section_1147950689 {
-            padding-top: 0px;
-            padding-bottom: 0px;
+          #section_983999058 {
+            padding-top: 47px;
+            padding-bottom: 47px;
           }
-          #section_1147950689 .ux-shape-divider--top svg {
+          #section_983999058 .ux-shape-divider--top svg {
             height: 150px;
             --divider-top-width: 100%;
           }
-          #section_1147950689 .ux-shape-divider--bottom svg {
+          #section_983999058 .ux-shape-divider--bottom svg {
             height: 150px;
             --divider-width: 100%;
           }
           @media (min-width:550px) {
-            #section_1147950689 {
-              padding-top: 48px;
-              padding-bottom: 48px;
+            #section_983999058 {
+              padding-top: 32px;
+              padding-bottom: 32px;
             }
           }
         </style>
       </section>
 
-      <section class="section" id="section_446170149">
+      <section class="section hide-for-small" id="section_1324913230">
         <div class="bg section-bg fill bg-fill  " >
 
 
@@ -708,7 +745,569 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
           </svg>
         </div>
 
-        <div class="ux-shape-divider ux-shape-divider--bottom ux-shape-divider--style-curve-opacity">
+        <div class="ux-shape-divider ux-shape-divider--bottom ux-shape-divider--style-waves-opacity">
+          <svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+            <path class="ux-shape-fill" d="M0 300L-1 69.71C216 57 299.47 198.86 403 226C506 253 577 196 660 197C740 198 790.09 234.07 874 267C935.23 291 982 282.61 1000 277.61V300H0Z"/>
+            <path class="ux-shape-fill" opacity="0.5" d="M1 265.094L0 50.5C217 37.79 300.47 186.36 404 213.5C507 240.5 578 196.5 661 197.5C741 198.5 787.59 239.57 871.5 272.5C932.73 296.5 980.5 284.5 998.5 279.5V298.5L1 265.094Z"/>
+            <path class="ux-shape-fill" opacity="0.15" d="M0.999878 244.094L-0.00012207 27C217 14.29 300.47 173.86 404 201C507 228 578 196 661 197C741 198 787.59 243.07 871.5 276C932.73 300 980.5 284.5 998.5 279.5V299L0.999878 244.094Z"/>
+          </svg>
+
+        </div>
+
+        <div class="section-content relative">
+
+          <div class="container section-title-container" ><h2 class="section-title section-title-center"><b></b><span class="section-title-main" style="font-size:128%;color:rgb(255, 255, 255);">TÍNH NĂNG HOÁ ĐƠN ĐIỆN TỬ</span><b></b></h2></div>
+          <div class="row row-small steps-simple-headline"  id="row-1027327035">
+
+            <div id="col-2116243602" class="col show-for-small medium-8 small-12 large-7"  >
+              <div class="col-inner text-left"  >
+
+
+                <div class="row row-collapse"  id="row-774183968">
+
+                  <div id="col-2011300698" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">01</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-920446422" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-3446993631" class="text">
+
+                        <p><strong><span style="color: #fafafa;">Xác thực hợp đồng và chữ ký điện tử</span></strong><br />
+
+                          <style>
+                            #text-3446993631 {
+                              font-size: 1rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-3446993631 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse"  id="row-381729441">
+
+                  <div id="col-1090056170" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">02</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-391419245" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-2009631190" class="text">
+
+                        <p><strong><span style="color: #fafafa;">Quản lý hợp đồng, tạo  lập hợp đồng mới </span></strong><br />
+
+                          <style>
+                            #text-2009631190 {
+                              font-size: 0.9rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-2009631190 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse align-middle"  id="row-1808263528">
+
+                  <div id="col-1857657059" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">03</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1548718310" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-1044768119" class="text">
+
+                        <p><strong><span style="font-size: 105%; color: #fafafa;">Quản lý tổ chức, đơn vị theo phân cấp</span></strong><br />
+
+                          <style>
+                            #text-1044768119 {
+                              font-size: 0.9rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-1044768119 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse align-middle"  id="row-1579753377">
+
+                  <div id="col-458274388" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">04</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-98827154" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-2019455847" class="text">
+
+                        <p><strong><span style="color: #fafafa; font-size: 105%;">Quản lý người dùng trong tổ chức và đơn vị </span></strong><br />
+
+                          <style>
+                            #text-2019455847 {
+                              font-size: 0.9rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-2019455847 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse align-middle"  id="row-1992382083">
+
+                  <div id="col-1005024583" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">05</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1933068132" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-2005436927" class="text">
+
+                        <p><strong><span style="color: #fafafa; font-size: 105%;">Quản lý vai trò của người dùng trong tổ chức</span></strong><br />
+
+                          <style>
+                            #text-2005436927 {
+                              font-size: 0.9rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-2005436927 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="row row-large align-middle row-divided"  id="row-641450905">
+
+            <div id="col-334832078" class="col medium-5 small-12 large-5"  data-animate="fadeInLeft">
+              <div class="col-inner"  >
+
+
+                <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1991752334">
+                  <div class="img-inner image-zoom-fade image-cover dark" style="padding-top:75%;">
+                    <img width="800" height="604" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-13.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice-13" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-13.jpg 800w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-13-300x227.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-13-768x580.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" title="Hóa đơn điện tử - MobiFone Invoice 30">
+                  </div>
+
+                  <style>
+                    #image_1991752334 {
+                      width: 91%;
+                    }
+                  </style>
+                </div>
+
+                <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1753779907">
+                  <div class="img-inner image-zoom-fade image-cover dark" style="padding-top:75%;">
+                    <img width="800" height="604" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-14.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-14.jpg 800w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-14-300x227.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-14-768x580.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" title="Hóa đơn điện tử - MobiFone Invoice 31">
+                  </div>
+
+                  <style>
+                    #image_1753779907 {
+                      width: 91%;
+                    }
+                  </style>
+                </div>
+
+              </div>
+            </div>
+
+
+
+            <div id="col-1815516162" class="col hide-for-small medium-8 small-12 large-7"  >
+              <div class="col-inner text-left"  >
+
+
+                <div class="row row-collapse"  id="row-627905728">
+
+                  <div id="col-473788494" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <p><span style="font-size: 180%;"><strong><span style="color: #ffffff;">01</span></strong></span></p>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-460188936" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-3451176500" class="text">
+
+                        <p><span style="color: #ffffff;">Phát hành và quản lý hoá đơn</span><br />
+
+                          <style>
+                            #text-3451176500 {
+                              font-size: 1.4rem;
+                              text-align: left;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse"  id="row-1341661120">
+
+                  <div id="col-883111615" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">02</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1615904072" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-734854757" class="text">
+
+                        <p><span style="color: #fafafa;">Thư viện mẫu hoá đơn phong phú</span><br />
+
+                          <style>
+                            #text-734854757 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse"  id="row-1415577332">
+
+                  <div id="col-1901178592" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">03</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-589306807" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-3887486300" class="text">
+
+                        <p><span style="font-size: 105%; color: #fafafa;">Thiết kế mẫu hoá đơn theo yêu cầu</span><br />
+
+                          <style>
+                            #text-3887486300 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse"  id="row-1054959964">
+
+                  <div id="col-546162799" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">04</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-573116626" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-1892390947" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Xử lý nghiệp vụ hoá đơn</span><br />
+
+                          <style>
+                            #text-1892390947 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse align-middle"  id="row-60063561">
+
+                  <div id="col-1112495801" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">05</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-2143676688" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-4010509303" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Báo cáo thống kê hoá đơn</span><br />
+
+                          <style>
+                            #text-4010509303 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse align-middle"  id="row-1769940430">
+
+                  <div id="col-511516490" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">06</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1023929383" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-3487643156" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Tiện ích quản lý hoá đơn</span><br />
+
+                          <style>
+                            #text-3487643156 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse align-middle"  id="row-904895980">
+
+                  <div id="col-1759920188" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">07</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1902370861" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-370588273" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Quản lý truy cập phân quyền</span><br />
+
+                          <style>
+                            #text-370588273 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse align-middle"  id="row-631720291">
+
+                  <div id="col-339836051" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">08</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1499991141" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-1451311073" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Tự động cập nhập phiên bản mới</span><br />
+
+                          <style>
+                            #text-1451311073 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+
+              <style>
+                #col-1815516162 > .col-inner {
+                  padding: 4px 0px 9px 0px;
+                }
+              </style>
+            </div>
+
+
+          </div>
+        </div>
+
+
+        <style>
+          #section_1324913230 {
+            padding-top: 21px;
+            padding-bottom: 21px;
+          }
+          #section_1324913230 .section-bg-overlay {
+            background-color: rgba(18, 17, 79, 0.797);
+          }
+          #section_1324913230 .section-bg.bg-loaded {
+            background-image: url(https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/giai-phap-chuyen-doi-so-05.jpg);
+          }
+          #section_1324913230 .ux-shape-divider--top svg {
+            height: 34px;
+            --divider-top-width: 100%;
+          }
+          #section_1324913230 .ux-shape-divider--bottom svg {
+            height: 150px;
+            --divider-width: 177%;
+          }
+          @media (min-width:550px) {
+            #section_1324913230 {
+              padding-top: 94px;
+              padding-bottom: 94px;
+            }
+            #section_1324913230 .ux-shape-divider--top svg {
+              height: 75px;
+            }
+          }
+        </style>
+      </section>
+
+      <section class="section show-for-small" id="section_1435617660">
+        <div class="bg section-bg fill bg-fill  " >
+
+
+          <div class="section-bg-overlay absolute fill"></div>
+
+
+        </div>
+
+        <div class="ux-shape-divider ux-shape-divider--top ux-shape-divider--style-curve-opacity">
           <svg viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
             <path class="ux-shape-fill" opacity="0.15" d="M0 14C0 14 88.64 17.48 300 50C560 90 814 77 1003 40L1015 68L1018 104H0V14Z"/>
             <path class="ux-shape-fill" opacity="0.3" d="M0 45C0 45 271 90.13 500 77C657 68 830 30 1015 14V100H0V45Z"/>
@@ -716,22 +1315,729 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
           </svg>
         </div>
 
+        <div class="ux-shape-divider ux-shape-divider--bottom ux-shape-divider--style-waves-opacity">
+          <svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+            <path class="ux-shape-fill" d="M0 300L-1 69.71C216 57 299.47 198.86 403 226C506 253 577 196 660 197C740 198 790.09 234.07 874 267C935.23 291 982 282.61 1000 277.61V300H0Z"/>
+            <path class="ux-shape-fill" opacity="0.5" d="M1 265.094L0 50.5C217 37.79 300.47 186.36 404 213.5C507 240.5 578 196.5 661 197.5C741 198.5 787.59 239.57 871.5 272.5C932.73 296.5 980.5 284.5 998.5 279.5V298.5L1 265.094Z"/>
+            <path class="ux-shape-fill" opacity="0.15" d="M0.999878 244.094L-0.00012207 27C217 14.29 300.47 173.86 404 201C507 228 578 196 661 197C741 198 787.59 243.07 871.5 276C932.73 300 980.5 284.5 998.5 279.5V299L0.999878 244.094Z"/>
+          </svg>
+
+        </div>
+
         <div class="section-content relative">
 
-          <div class="row"  id="row-25859958">
+          <div class="container section-title-container" ><h2 class="section-title section-title-center"><b></b><span class="section-title-main" style="font-size:128%;color:rgb(255, 255, 255);">TÍNH NĂNG HOÁ ĐƠN ĐIỆN TỬ</span><b></b></h2></div>
+          <div class="row row-large align-middle row-divided"  id="row-1647872818">
 
-            <div id="col-239140117" class="col small-12 large-12"  >
+            <div id="col-605850300" class="col medium-5 small-12 large-5"  data-animate="fadeInLeft">
               <div class="col-inner text-center"  >
 
 
-                <div id="text-4269642127" class="text">
-
-                  <h2><span style="font-size: 100%; color: #ffffff;">BẢNG GIÁ HỢP ĐỒNG ĐIỆN TỬ</span></h2>
+                <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_193590035">
+                  <div class="img-inner image-zoom-fade image-cover dark" style="padding-top:75%;">
+                    <img width="800" height="604" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-13.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice-13" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-13.jpg 800w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-13-300x227.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-13-768x580.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" title="Hóa đơn điện tử - MobiFone Invoice 30">
+                  </div>
 
                   <style>
-                    #text-4269642127 {
-                      font-size: 1.25rem;
-                      text-align: center;
+                    #image_193590035 {
+                      width: 91%;
+                    }
+                  </style>
+                </div>
+
+              </div>
+            </div>
+
+
+
+            <div id="col-1300802737" class="col hide-for-small medium-8 small-12 large-7"  >
+              <div class="col-inner text-left"  >
+
+
+                <div class="row row-collapse"  id="row-1422438056">
+
+                  <div id="col-1497510147" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <p><span style="font-size: 180%;"><strong><span style="color: #ffffff;">01</span></strong></span></p>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-255142659" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-84998745" class="text">
+
+                        <p><span style="color: #ffffff;">Phát hành và quản lý hoá đơn</span><br />
+
+                          <style>
+                            #text-84998745 {
+                              font-size: 1.4rem;
+                              text-align: left;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse"  id="row-466632033">
+
+                  <div id="col-1411241918" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">02</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-2102610337" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-632670656" class="text">
+
+                        <p><span style="color: #fafafa;">Thư viện mẫu hoá đơn phong phú</span><br />
+
+                          <style>
+                            #text-632670656 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse"  id="row-950238368">
+
+                  <div id="col-513831974" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">03</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1973440155" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-4056700944" class="text">
+
+                        <p><span style="font-size: 105%; color: #fafafa;">Thiết kế mẫu hoá đơn theo yêu cầu</span><br />
+
+                          <style>
+                            #text-4056700944 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse"  id="row-114029657">
+
+                  <div id="col-1787275147" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">04</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1707686065" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-270726485" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Xử lý nghiệp vụ hoá đơn</span><br />
+
+                          <style>
+                            #text-270726485 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse align-middle"  id="row-1209131672">
+
+                  <div id="col-633343447" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">05</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-480970508" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-2371272051" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Báo cáo thống kê hoá đơn</span><br />
+
+                          <style>
+                            #text-2371272051 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse align-middle"  id="row-471270086">
+
+                  <div id="col-32954217" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">06</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1185781549" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-1177537826" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Tiện ích quản lý hoá đơn</span><br />
+
+                          <style>
+                            #text-1177537826 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse align-middle"  id="row-701975557">
+
+                  <div id="col-932634347" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">07</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1042210314" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-3322676692" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Quản lý truy cập phân quyền</span><br />
+
+                          <style>
+                            #text-3322676692 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse align-middle"  id="row-1131115153">
+
+                  <div id="col-506558964" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">08</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-240229130" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-2312845297" class="text">
+
+                        <p><span style="color: #fafafa; font-size: 105%;">Tự động cập nhập phiên bản mới</span><br />
+
+                          <style>
+                            #text-2312845297 {
+                              font-size: 1.4rem;
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+
+              <style>
+                #col-1300802737 > .col-inner {
+                  padding: 4px 0px 9px 0px;
+                }
+              </style>
+            </div>
+
+
+          </div>
+          <div class="row row-small steps-simple-headline"  id="row-743123919">
+
+            <div id="col-707604514" class="col show-for-small medium-8 small-12 large-7"  >
+              <div class="col-inner text-left"  >
+
+
+                <div class="row row-collapse"  id="row-696581254">
+
+                  <div id="col-1468666658" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">01</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-661370882" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-1709364912" class="text">
+
+                        <p><span style="color: #ffffff;">Phát hành và quản lý hoá đơn</span><br />
+
+                          <style>
+                            #text-1709364912 {
+                              font-size: 1rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-1709364912 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse"  id="row-936901223">
+
+                  <div id="col-632398611" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">02</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-738099954" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-3012885200" class="text">
+
+                        <p><span style="color: #ffffff;">Thư viện mẫu hoá đơn phong phú</span><br />
+
+                          <style>
+                            #text-3012885200 {
+                              font-size: 1rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-3012885200 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse align-middle"  id="row-1465621193">
+
+                  <div id="col-1176693138" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">03</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-407528315" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-3137286843" class="text">
+
+                        <p><span style="color: #ffffff;">Thiết kế mẫu hoá đơn theo yêu cầu</span><br />
+
+                          <style>
+                            #text-3137286843 {
+                              font-size: 1rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-3137286843 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse align-middle"  id="row-1916207701">
+
+                  <div id="col-345204750" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">04</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1057511658" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner"  >
+
+
+                      <div id="text-2410662515" class="text">
+
+                        <p><span style="color: #ffffff;">Xử lý nghiệp vụ hoá đơn</span><br />
+
+                          <style>
+                            #text-2410662515 {
+                              font-size: 1rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-2410662515 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row"  id="row-1817440645">
+
+                  <div id="col-2067876176" class="col small-12 large-12"  >
+                    <div class="col-inner text-center"  >
+
+
+                      <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1507946225">
+                        <div class="img-inner image-zoom-fade image-cover dark" style="padding-top:75%;">
+                          <img width="800" height="604" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-14.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-14.jpg 800w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-14-300x227.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-14-768x580.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" title="Hóa đơn điện tử - MobiFone Invoice 31">
+                        </div>
+
+                        <style>
+                          #image_1507946225 {
+                            width: 91%;
+                          }
+                        </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="row row-collapse align-middle"  id="row-1347470769">
+
+                  <div id="col-1390708279" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">05</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1113544783" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner text-left"  >
+
+
+                      <div id="text-1022525649" class="text">
+
+                        <p><span style="color: #ffffff;">Báo cáo thống kê hoá đơn</span><br />
+
+                          <style>
+                            #text-1022525649 {
+                              font-size: 1rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-1022525649 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse align-middle"  id="row-1635693083">
+
+                  <div id="col-1255377179" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">06</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-337699706" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner text-left"  >
+
+
+                      <div id="text-4201574690" class="text">
+
+                        <p><span style="color: #ffffff;">Tiện ích quản lý hoá đơn</span><br />
+
+                          <style>
+                            #text-4201574690 {
+                              font-size: 1rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-4201574690 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse align-middle"  id="row-342094817">
+
+                  <div id="col-1068354020" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">07</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-1156152262" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner text-left"  >
+
+
+                      <div id="text-3876626297" class="text">
+
+                        <p><span style="color: #ffffff;">Quản lý truy cập phân quyền</span><br />
+
+                          <style>
+                            #text-3876626297 {
+                              font-size: 1rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-3876626297 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
+                <div class="row row-collapse align-middle"  id="row-152231891">
+
+                  <div id="col-1513049126" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
+                    <div class="col-inner"  >
+
+
+                      <h2><span style="color: #ffffff;">08</span></h2>
+                    </div>
+                  </div>
+
+
+
+                  <div id="col-498407633" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
+                    <div class="col-inner text-left"  >
+
+
+                      <div id="text-3787050867" class="text">
+
+                        <p><span style="color: #ffffff;">Tự động cập nhập phiên bản mới</span><br />
+
+                          <style>
+                            #text-3787050867 {
+                              font-size: 1rem;
+                            }
+                            @media (min-width:550px) {
+                              #text-3787050867 {
+                                font-size: 1.4rem;
+                              }
+                            }
+                          </style>
+                      </div>
+
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+
+
+        <style>
+          #section_1435617660 {
+            padding-top: 74px;
+            padding-bottom: 74px;
+          }
+          #section_1435617660 .section-bg-overlay {
+            background-color: rgba(18, 17, 79, 0.797);
+          }
+          #section_1435617660 .section-bg.bg-loaded {
+            background-image: url(https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/giai-phap-chuyen-doi-so-05.jpg);
+          }
+          #section_1435617660 .ux-shape-divider--top svg {
+            height: 34px;
+            --divider-top-width: 100%;
+          }
+          #section_1435617660 .ux-shape-divider--bottom svg {
+            height: 150px;
+            --divider-width: 177%;
+          }
+          @media (min-width:550px) {
+            #section_1435617660 {
+              padding-top: 94px;
+              padding-bottom: 94px;
+            }
+            #section_1435617660 .ux-shape-divider--top svg {
+              height: 75px;
+            }
+          }
+        </style>
+      </section>
+
+      <section class="section" id="section_751069624">
+        <div class="bg section-bg fill bg-fill  bg-loaded" >
+
+
+
+
+
+        </div>
+
+
+
+        <div class="section-content relative">
+
+          <div class="row row-small align-center"  id="row-52748725">
+
+            <div id="col-732430619" class="col medium-12 small-12 large-12"  data-animate="bounceInUp">
+              <div class="col-inner text-center"  >
+
+
+                <div id="gap-73250716" class="gap-element clearfix" style="display:block; height:auto;">
+
+                  <style>
+                    #gap-73250716 {
+                      padding-top: 30px;
+                    }
+                  </style>
+                </div>
+
+                <div id="text-2473114479" class="text">
+
+                  <h2 id="uu_diem"><span style="font-size: 75%;">ƯU ĐIỂM HOÁ ĐƠN ĐIỆN TỬ</span></h2>
+
+                  <style>
+                    #text-2473114479 {
+                      font-size: 1.5rem;
+                      line-height: 0.75;
+                      color: rgb(24, 49, 169);
+                    }
+                    #text-2473114479 > * {
+                      color: rgb(24, 49, 169);
+                    }
+                    @media (min-width:550px) {
+                      #text-2473114479 {
+                        font-size: 1.7rem;
+                      }
                     }
                   </style>
                 </div>
@@ -741,16 +2047,406 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
           </div>
-          <div class="slider-wrapper relative" id="slider-875020316" >
-            <div class="slider slider-nav-circle slider-nav-normal slider-nav-light slider-style-normal slider-show-nav"
+          <div class="row row-small align-equal row-box-shadow-4-hover"  id="row-254119151">
+
+            <div id="col-255389640" class="col medium-4 small-12 large-4"  data-animate="bounceIn">
+              <div class="col-inner" style="background-color:rgb(249, 251, 235);" >
+
+
+
+                <a class="plain" href="#"  >	<div class="icon-box featured-box icon-box-center text-center"  >
+                  <div class="icon-box-img" style="width: 70px">
+                    <div class="icon">
+                      <div class="icon-inner" >
+                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon-bao-mat-mobica-1.png" class="attachment-medium size-medium" alt="icon bao mat mobica 1" decoding="async" loading="lazy" title="Hóa đơn điện tử - MobiFone Invoice 34">					</div>
+                    </div>
+                  </div>
+                  <div class="icon-box-text last-reset">
+
+                    <div id="text-1044970026" class="text">
+
+                      <h4><span style="font-size: 90%;">Đáp ứng quy định của Cơ quan thuế</span></h4>
+                      <p><span style="font-size: 90%;">Đáp ứng đầy đủ các tiêu chí quy định tại Khoản 1 Điều 10 Thông tư số 78/2021/BT</span><br />
+
+                        <style>
+                          #text-1044970026 {
+                            font-size: 1rem;
+                          }
+                          @media (min-width:850px) {
+                            #text-1044970026 {
+                              font-size: 1.1rem;
+                            }
+                          }
+                        </style>
+                    </div>
+
+                    <div id="gap-975080430" class="gap-element clearfix" style="display:block; height:auto;">
+
+                      <style>
+                        #gap-975080430 {
+                          padding-top: 10px;
+                        }
+                      </style>
+                    </div>
+
+                  </div>
+                </div>
+                </a>
+
+              </div>
+            </div>
+
+
+
+            <div id="col-563472579" class="col medium-4 small-12 large-4"  data-animate="bounceIn">
+              <div class="col-inner" style="background-color:rgb(235, 241, 251);" >
+
+
+
+                <a class="plain" href="#"  >	<div class="icon-box featured-box icon-box-center text-center"  >
+                  <div class="icon-box-img" style="width: 70px">
+                    <div class="icon">
+                      <div class="icon-inner" >
+                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-13.png" class="attachment-medium size-medium" alt="Hoa-don-dien-tu-MobiFoneInvoice-13" decoding="async" loading="lazy" title="Hóa đơn điện tử - MobiFone Invoice 35">					</div>
+                    </div>
+                  </div>
+                  <div class="icon-box-text last-reset">
+
+                    <div id="text-2661235666" class="text">
+
+                      <h4><span style="font-size: 90%;">Gửi và nhận hóa đơn nhanh chóng</span></h4>
+                      <p><span style="font-size: 90%;">thông qua các phương tiện điện tử mà không phải gửi hóa đơn qua đường bưu điện hoặc nhà vận chuyển.</span><br />
+
+                        <style>
+                          #text-2661235666 {
+                            font-size: 1rem;
+                          }
+                          @media (min-width:850px) {
+                            #text-2661235666 {
+                              font-size: 1.1rem;
+                            }
+                          }
+                        </style>
+                    </div>
+
+                    <div id="gap-876272369" class="gap-element clearfix" style="display:block; height:auto;">
+
+                      <style>
+                        #gap-876272369 {
+                          padding-top: 10px;
+                        }
+                      </style>
+                    </div>
+
+                  </div>
+                </div>
+                </a>
+
+              </div>
+            </div>
+
+
+
+            <div id="col-1625501519" class="col medium-4 small-12 large-4"  data-animate="bounceIn">
+              <div class="col-inner" style="background-color:rgb(255, 241, 250);" >
+
+
+
+                <a class="plain" href="#"  >	<div class="icon-box featured-box icon-box-center text-center"  >
+                  <div class="icon-box-img" style="width: 70px">
+                    <div class="icon">
+                      <div class="icon-inner" >
+                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-09.png" class="attachment-medium size-medium" alt="Hoa don dien tu MobiFoneInvoice 09" decoding="async" loading="lazy" title="Hóa đơn điện tử - MobiFone Invoice 36">					</div>
+                    </div>
+                  </div>
+                  <div class="icon-box-text last-reset">
+
+                    <div id="text-1474550788" class="text">
+
+                      <h4><span style="font-size: 90%;">Giảm rủi ro mất và cháy hóa đơn</span></h4>
+                      <p><span style="font-size: 90%;">Giảm rủi ro mất, cháy hóa đơn và các khoản phạt liên quan</span><br />
+
+                        <style>
+                          #text-1474550788 {
+                            font-size: 1rem;
+                          }
+                          @media (min-width:850px) {
+                            #text-1474550788 {
+                              font-size: 1.1rem;
+                            }
+                          }
+                        </style>
+                    </div>
+
+                    <div id="gap-1242149420" class="gap-element clearfix" style="display:block; height:auto;">
+
+                      <style>
+                        #gap-1242149420 {
+                          padding-top: 10px;
+                        }
+                      </style>
+                    </div>
+
+                  </div>
+                </div>
+                </a>
+
+              </div>
+            </div>
+
+
+
+            <div id="col-1799998854" class="col medium-4 small-12 large-4"  data-animate="bounceIn">
+              <div class="col-inner" style="background-color:rgb(237, 250, 254);" >
+
+
+
+                <a class="plain" href="#"  >	<div class="icon-box featured-box icon-box-center text-center"  >
+                  <div class="icon-box-img" style="width: 70px">
+                    <div class="icon">
+                      <div class="icon-inner" >
+                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-11.png" class="attachment-medium size-medium" alt="Hoa-don-dien-tu-MobiFoneInvoice-10" decoding="async" loading="lazy" title="Hóa đơn điện tử - MobiFone Invoice 37">					</div>
+                    </div>
+                  </div>
+                  <div class="icon-box-text last-reset">
+
+                    <div id="text-2111777953" class="text">
+
+                      <h4><span style="font-size: 90%;">Quản lý và hạch toán dễ dàng</span></h4>
+                      <p><span style="font-size: 90%;">Tăng độ an toàn, chính xác của thông tin, giảm thiểu rủi ro trong trường hợp bị giả mạo, mất hóa đơn</span><br />
+
+                        <style>
+                          #text-2111777953 {
+                            font-size: 1rem;
+                          }
+                          @media (min-width:850px) {
+                            #text-2111777953 {
+                              font-size: 1.1rem;
+                            }
+                          }
+                        </style>
+                    </div>
+
+                    <div id="gap-2018097005" class="gap-element clearfix" style="display:block; height:auto;">
+
+                      <style>
+                        #gap-2018097005 {
+                          padding-top: 10px;
+                        }
+                      </style>
+                    </div>
+
+                  </div>
+                </div>
+                </a>
+
+              </div>
+            </div>
+
+
+
+            <div id="col-1414563718" class="col medium-4 small-12 large-4"  data-animate="bounceIn">
+              <div class="col-inner" style="background-color:rgba(242, 248, 221, 0.64);" >
+
+
+
+                <a class="plain" href="#"  >	<div class="icon-box featured-box icon-box-center text-center"  >
+                  <div class="icon-box-img" style="width: 70px">
+                    <div class="icon">
+                      <div class="icon-inner" >
+                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-14.png" class="attachment-medium size-medium" alt="Hoa-don-dien-tu-MobiFoneInvoice-14" decoding="async" loading="lazy" title="Hóa đơn điện tử - MobiFone Invoice 38">					</div>
+                    </div>
+                  </div>
+                  <div class="icon-box-text last-reset">
+
+                    <div id="text-2723287085" class="text">
+
+                      <h4><span style="font-size: 90%;">Tiết kiệm chi phí</span></h4>
+                      <p><span style="font-size: 90%;">Giảm chi phí in hóa đơn và chi phí bưu điện gửi, bảo quản, lưu trữ hoá đơn… </span><br />
+
+                        <style>
+                          #text-2723287085 {
+                            font-size: 1rem;
+                          }
+                          @media (min-width:850px) {
+                            #text-2723287085 {
+                              font-size: 1.1rem;
+                            }
+                          }
+                        </style>
+                    </div>
+
+                    <div id="gap-1606737942" class="gap-element clearfix" style="display:block; height:auto;">
+
+                      <style>
+                        #gap-1606737942 {
+                          padding-top: 10px;
+                        }
+                      </style>
+                    </div>
+
+                  </div>
+                </div>
+                </a>
+
+              </div>
+            </div>
+
+
+
+            <div id="col-1789164305" class="col medium-4 small-12 large-4"  data-animate="bounceIn">
+              <div class="col-inner" style="background-color:rgb(228, 248, 246);" >
+
+
+
+                <a class="plain" href="#"  >	<div class="icon-box featured-box icon-box-center text-center"  >
+                  <div class="icon-box-img" style="width: 70px">
+                    <div class="icon">
+                      <div class="icon-inner" >
+                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon-bao-mat-mobica-01.png" class="attachment-medium size-medium" alt="icon bao mat mobica 01" decoding="async" loading="lazy" title="Hóa đơn điện tử - MobiFone Invoice 39">					</div>
+                    </div>
+                  </div>
+                  <div class="icon-box-text last-reset">
+
+                    <div id="text-3933350359" class="text">
+
+                      <h4><span style="font-size: 90%;">Tiết kiệm thời gian</span></h4>
+                      <p><span style="font-size: 90%;">Không mất nhiều thời gian trong việc đặt in, thông báo phát hành hóa đơn.</span><br />
+
+                        <style>
+                          #text-3933350359 {
+                            font-size: 1rem;
+                          }
+                          @media (min-width:850px) {
+                            #text-3933350359 {
+                              font-size: 1.1rem;
+                            }
+                          }
+                        </style>
+                    </div>
+
+                    <div id="gap-898787908" class="gap-element clearfix" style="display:block; height:auto;">
+
+                      <style>
+                        #gap-898787908 {
+                          padding-top: 10px;
+                        }
+                      </style>
+                    </div>
+
+                  </div>
+                </div>
+                </a>
+
+              </div>
+            </div>
+
+
+
+            <style>
+              #row-254119151 > .col > .col-inner {
+                padding: 30px 20px 30px 20px;
+                border-radius: 15px;
+              }
+              @media (min-width:850px) {
+                #row-254119151 > .col > .col-inner {
+                  padding: 70px 20px 49px 20px;
+                }
+              }
+            </style>
+          </div>
+          <div class="row"  id="row-874169783">
+          </div>
+        </div>
+
+
+        <style>
+          #section_751069624 {
+            padding-top: 7px;
+            padding-bottom: 7px;
+          }
+          #section_751069624 .ux-shape-divider--top svg {
+            height: 150px;
+            --divider-top-width: 100%;
+          }
+          #section_751069624 .ux-shape-divider--bottom svg {
+            height: 150px;
+            --divider-width: 100%;
+          }
+          @media (min-width:550px) {
+            #section_751069624 {
+              padding-top: 0px;
+              padding-bottom: 0px;
+            }
+          }
+        </style>
+      </section>
+
+      <section class="section" id="section_2123530848">
+        <div class="bg section-bg fill bg-fill  " >
+
+
+          <div class="section-bg-overlay absolute fill"></div>
+
+
+        </div>
+
+        <div class="ux-shape-divider ux-shape-divider--top ux-shape-divider--style-waves-opacity-2">
+          <svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+            <path class="ux-shape-fill" opacity="0.15" d="M0 299L-2 19.9998C153 -16.0002 308 155 413 184C515.64 212.35 562 152 645 153C725 154 787 206 874 233C939.54 253.34 975 248 1000 244.61V299H0Z"/>
+            <path class="ux-shape-fill" opacity="0.3" d="M0 300L-2 34C155 -9.00003 300 178 403 212C504.11 245.38 562 165 645 166C725 167 790.09 220.07 874 253C939.21 278.59 978.07 269.72 1000 263.61V300H0Z"/>
+            <path class="ux-shape-fill" d="M0 300L-1 69.7099C216 56.9999 299.47 198.86 403 226C506 253 577 196 660 197C740 198 790.09 234.07 874 267C935.23 291 982 282.61 1000 277.61V300H0Z"/>
+          </svg>
+        </div>
+
+
+        <div class="section-content relative">
+
+          <div class="row"  id="row-1834453987">
+
+            <div id="col-1049611916" class="col small-12 large-12"  >
+              <div class="col-inner text-center"  >
+
+
+                <div id="text-2723576121" class="text">
+
+                  <h2><span style="font-size: 100%; color: #ffffff;">BẢNG GIÁ HOÁ ĐƠN ĐIỆN TỬ</span></h2>
+                  <p><span style="color: #ffffff;">Rất nhiều gói phù hợp với nhu cầu của doanh nghiệp bạn</span><br />
+
+                    <style>
+                      #text-2723576121 {
+                        font-size: 1.25rem;
+                        text-align: center;
+                      }
+                    </style>
+                </div>
+
+              </div>
+
+              <style>
+                #col-1049611916 > .col-inner {
+                  margin: 0px 0px -35px 0px;
+                }
+                @media (min-width:550px) {
+                  #col-1049611916 > .col-inner {
+                    margin: 0px 0px -16px 0px;
+                  }
+                }
+              </style>
+            </div>
+
+
+          </div>
+          <div class="slider-wrapper relative" id="slider-486671198" >
+            <div class="slider slider-nav-dots-dashes-spaced slider-nav-circle slider-nav-large slider-nav-light slider-style-focus slider-show-nav"
                  data-flickity-options='{
             "cellAlign": "center",
             "imagesLoaded": true,
             "lazyLoad": 1,
             "freeScroll": true,
             "wrapAround": true,
-            "autoPlay": 3200,
-            "pauseAutoPlayOnHover" : true,
+            "autoPlay": 3000,
+            "pauseAutoPlayOnHover" : false,
             "prevNextButtons": true,
             "contain" : true,
             "adaptiveHeight" : true,
@@ -764,31 +2460,32 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
             "friction": 0.6        }'
             >
 
-              <div class="row align-equal align-center"  id="row-680425198">
+              <div class="row row-small align-equal align-center"  id="row-505182213">
 
-                <div id="col-74389205" class="col medium-8 small-12 large-4"  >
+                <div id="col-763150884" class="col medium-8 small-12 large-4"  >
                   <div class="col-inner text-left box-shadow-3"  >
 
 
-                    <h3 style="text-align: center;">eContract_100</h3>
-                    <p style="text-align: center;">Gói 100 hợp đồng</p>
+                    <h3 style="text-align: center;">E300</h3>
+                    <p style="text-align: center;">Gói 300 hoá đơn</p>
                     <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                    <div id="gap-1071079446" class="gap-element clearfix" style="display:block; height:auto;">
+                    <div id="gap-329956101" class="gap-element clearfix" style="display:block; height:auto;">
 
                       <style>
-                        #gap-1071079446 {
+                        #gap-329956101 {
                           padding-top: 10px;
                         }
                       </style>
                     </div>
 
                     <ul>
-                      <li class="bullet-checkmark">Chi phí khởi tạo: Miễn phí 100%</li>
+                      <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
                       <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
-                      <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
-                      <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
+                      <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                      <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
+                      <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">550.000<br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">270.000<br />
 </span>VNĐ/ GÓI</p>
                     <a href="https://giaiphap.mobifone.vn/lien-he/" target="_self" class="button primary is-small lowercase expand" style="border-radius:9px;">
                       <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
@@ -797,7 +2494,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                   </div>
 
                   <style>
-                    #col-74389205 > .col-inner {
+                    #col-763150884 > .col-inner {
                       border-radius: 10px;
                     }
                   </style>
@@ -805,29 +2502,30 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-                <div id="col-948867750" class="col medium-8 small-12 large-4"  >
+                <div id="col-1296053335" class="col medium-8 small-12 large-4"  >
                   <div class="col-inner text-left box-shadow-3 dark" style="background-color:rgb(208, 10, 10);" >
 
 
-                    <h3 style="text-align: center;">eContract_200</h3>
-                    <p style="text-align: center;">Gói 200 hợp đồng</p>
+                    <h3 style="text-align: center;">E500</h3>
+                    <p style="text-align: center;">Gói 500 hoá đơn</p>
                     <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                    <div id="gap-2083069788" class="gap-element clearfix" style="display:block; height:auto;">
+                    <div id="gap-656550042" class="gap-element clearfix" style="display:block; height:auto;">
 
                       <style>
-                        #gap-2083069788 {
+                        #gap-656550042 {
                           padding-top: 10px;
                         }
                       </style>
                     </div>
 
                     <ul>
-                      <li class="bullet-checkmark">Chi phí khởi tạo: Miễn phí 100%</li>
+                      <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
                       <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
-                      <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
-                      <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
+                      <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                      <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
+                      <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">1.060.000</span><br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">300.000</span><br />
 </span>VNĐ/ GÓI</p>
                     <a href="https://giaiphap.mobifone.vn/lien-he/" target="_self" class="button white is-small lowercase expand" style="border-radius:9px;">
                       <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
@@ -836,7 +2534,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                   </div>
 
                   <style>
-                    #col-948867750 > .col-inner {
+                    #col-1296053335 > .col-inner {
                       border-radius: 10px;
                     }
                   </style>
@@ -844,29 +2542,30 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-                <div id="col-1872597541" class="col medium-8 small-12 large-4"  >
+                <div id="col-1991587957" class="col medium-8 small-12 large-4"  >
                   <div class="col-inner text-left box-shadow-3"  >
 
 
-                    <h3 style="text-align: center;">eContract_500</h3>
-                    <p style="text-align: center;">Gói 500 hợp đồng</p>
+                    <h3 style="text-align: center;">E700</h3>
+                    <p style="text-align: center;">Gói 700 hoá đơn</p>
                     <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                    <div id="gap-1795282155" class="gap-element clearfix" style="display:block; height:auto;">
+                    <div id="gap-990594426" class="gap-element clearfix" style="display:block; height:auto;">
 
                       <style>
-                        #gap-1795282155 {
+                        #gap-990594426 {
                           padding-top: 10px;
                         }
                       </style>
                     </div>
 
                     <ul>
-                      <li class="bullet-checkmark">Chi phí khởi tạo: Miễn phí 100%</li>
+                      <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
                       <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
-                      <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
-                      <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
+                      <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                      <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
+                      <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">2.550.000<br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">400.000<br />
 </span>VNĐ/ GÓI</p>
                     <a href="https://giaiphap.mobifone.vn/lien-he/" target="_self" class="button primary is-small lowercase expand" style="border-radius:9px;">
                       <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
@@ -875,7 +2574,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                   </div>
 
                   <style>
-                    #col-1872597541 > .col-inner {
+                    #col-1991587957 > .col-inner {
                       border-radius: 10px;
                     }
                   </style>
@@ -884,37 +2583,38 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
                 <style>
-                  #row-680425198 > .col > .col-inner {
+                  #row-505182213 > .col > .col-inner {
                     padding: 30px 30px 30px 30px;
                     background-color: rgb(255,255,255);
                   }
                 </style>
               </div>
-              <div class="row align-equal align-center"  id="row-1648294006">
+              <div class="row row-small align-equal align-center"  id="row-106892367">
 
-                <div id="col-788150800" class="col medium-8 small-12 large-4"  >
+                <div id="col-405666932" class="col medium-8 small-12 large-4"  >
                   <div class="col-inner text-left box-shadow-3"  >
 
 
-                    <h3 style="text-align: center;">eContract_1000</h3>
-                    <p style="text-align: center;">Gói 1000 hợp đồng</p>
+                    <h3 style="text-align: center;">E1500</h3>
+                    <p style="text-align: center;">Gói 1.500 hoá đơn</p>
                     <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                    <div id="gap-890068275" class="gap-element clearfix" style="display:block; height:auto;">
+                    <div id="gap-2123504119" class="gap-element clearfix" style="display:block; height:auto;">
 
                       <style>
-                        #gap-890068275 {
+                        #gap-2123504119 {
                           padding-top: 10px;
                         }
                       </style>
                     </div>
 
                     <ul>
-                      <li class="bullet-checkmark">Chi phí khởi tạo: Miễn phí 100%</li>
+                      <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
                       <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
-                      <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
-                      <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
+                      <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                      <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
+                      <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">4.700.000<br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">780.000<br />
 </span>VNĐ/ GÓI</p>
                     <a class="button primary is-small lowercase expand"  style="border-radius:9px;">
                       <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
@@ -923,7 +2623,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                   </div>
 
                   <style>
-                    #col-788150800 > .col-inner {
+                    #col-405666932 > .col-inner {
                       border-radius: 10px;
                     }
                   </style>
@@ -931,29 +2631,30 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-                <div id="col-2040255868" class="col medium-8 small-12 large-4"  >
+                <div id="col-331812668" class="col medium-8 small-12 large-4"  >
                   <div class="col-inner text-left box-shadow-3 dark" style="background-color:rgb(208, 10, 10);" >
 
 
-                    <h3 style="text-align: center;">eContract_2000</h3>
-                    <p style="text-align: center;">Gói 2000 hợp đồng</p>
+                    <h3 style="text-align: center;">E3000</h3>
+                    <p style="text-align: center;">Gói 3.000 hoá đơn</p>
                     <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                    <div id="gap-779262005" class="gap-element clearfix" style="display:block; height:auto;">
+                    <div id="gap-2059944146" class="gap-element clearfix" style="display:block; height:auto;">
 
                       <style>
-                        #gap-779262005 {
+                        #gap-2059944146 {
                           padding-top: 10px;
                         }
                       </style>
                     </div>
 
                     <ul>
-                      <li class="bullet-checkmark">Chi phí khởi tạo: Miễn phí 100%</li>
+                      <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
                       <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
-                      <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
-                      <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
+                      <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                      <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                      <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">9.000.000</span><br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">1.300.000</span><br />
 </span>VNĐ/ GÓI</p>
                     <a class="button white is-small lowercase expand"  style="border-radius:9px;">
                       <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
@@ -962,7 +2663,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                   </div>
 
                   <style>
-                    #col-2040255868 > .col-inner {
+                    #col-331812668 > .col-inner {
                       border-radius: 10px;
                     }
                   </style>
@@ -970,29 +2671,30 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-                <div id="col-121894930" class="col medium-8 small-12 large-4"  >
+                <div id="col-1745883172" class="col medium-8 small-12 large-4"  >
                   <div class="col-inner text-left box-shadow-3"  >
 
 
-                    <h3 style="text-align: center;">eContract_5000</h3>
-                    <p style="text-align: center;">Gói 5000 hợp đồng</p>
+                    <h3 style="text-align: center;">E4500</h3>
+                    <p style="text-align: center;">Gói 4.500 hoá đơn</p>
                     <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                    <div id="gap-1821528624" class="gap-element clearfix" style="display:block; height:auto;">
+                    <div id="gap-1234771481" class="gap-element clearfix" style="display:block; height:auto;">
 
                       <style>
-                        #gap-1821528624 {
+                        #gap-1234771481 {
                           padding-top: 10px;
                         }
                       </style>
                     </div>
 
                     <ul>
-                      <li class="bullet-checkmark">Chi phí khởi tạo: Miễn phí 100%</li>
+                      <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
                       <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
-                      <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
-                      <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
+                      <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                      <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                      <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">20.000.000<br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">1.800.000<br />
 </span>VNĐ/ GÓI</p>
                     <a class="button primary is-small lowercase expand"  style="border-radius:9px;">
                       <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
@@ -1001,7 +2703,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                   </div>
 
                   <style>
-                    #col-121894930 > .col-inner {
+                    #col-1745883172 > .col-inner {
                       border-radius: 10px;
                     }
                   </style>
@@ -1010,7 +2712,136 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
                 <style>
-                  #row-1648294006 > .col > .col-inner {
+                  #row-106892367 > .col > .col-inner {
+                    padding: 30px 30px 30px 30px;
+                    background-color: rgb(255,255,255);
+                  }
+                </style>
+              </div>
+              <div class="row row-small align-equal align-center"  id="row-609349653">
+
+                <div id="col-1704222438" class="col medium-8 small-12 large-4"  >
+                  <div class="col-inner text-left box-shadow-3"  >
+
+
+                    <h3 style="text-align: center;">E7500</h3>
+                    <p style="text-align: center;">Gói 7.500 hoá đơn</p>
+                    <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                    <div id="gap-489664763" class="gap-element clearfix" style="display:block; height:auto;">
+
+                      <style>
+                        #gap-489664763 {
+                          padding-top: 10px;
+                        }
+                      </style>
+                    </div>
+
+                    <ul>
+                      <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                      <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                      <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                      <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                      <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                    </ul>
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">2.900.000<br />
+</span>VNĐ/ GÓI</p>
+                    <a class="button primary is-small lowercase expand"  style="border-radius:9px;">
+                      <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
+                    </a>
+
+                  </div>
+
+                  <style>
+                    #col-1704222438 > .col-inner {
+                      border-radius: 10px;
+                    }
+                  </style>
+                </div>
+
+
+
+                <div id="col-1103344438" class="col medium-8 small-12 large-4"  >
+                  <div class="col-inner text-left box-shadow-3 dark" style="background-color:rgb(208, 10, 10);" >
+
+
+                    <h3 style="text-align: center;">E15000</h3>
+                    <p style="text-align: center;">Gói 15.000 hoá đơn</p>
+                    <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                    <div id="gap-1838442970" class="gap-element clearfix" style="display:block; height:auto;">
+
+                      <style>
+                        #gap-1838442970 {
+                          padding-top: 10px;
+                        }
+                      </style>
+                    </div>
+
+                    <ul>
+                      <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                      <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                      <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                      <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                      <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                    </ul>
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">5.000.000</span><br />
+</span>VNĐ/ GÓI</p>
+                    <a class="button white is-small lowercase expand"  style="border-radius:9px;">
+                      <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
+                    </a>
+
+                  </div>
+
+                  <style>
+                    #col-1103344438 > .col-inner {
+                      border-radius: 10px;
+                    }
+                  </style>
+                </div>
+
+
+
+                <div id="col-1371324257" class="col medium-8 small-12 large-4"  >
+                  <div class="col-inner text-left box-shadow-3"  >
+
+
+                    <h3 style="text-align: center;">E30000</h3>
+                    <p style="text-align: center;">Gói 30.000 hoá đơn</p>
+                    <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
+                    <div id="gap-56173985" class="gap-element clearfix" style="display:block; height:auto;">
+
+                      <style>
+                        #gap-56173985 {
+                          padding-top: 10px;
+                        }
+                      </style>
+                    </div>
+
+                    <ul>
+                      <li class="bullet-checkmark">Thời gian lưu trữ: 10 năm</li>
+                      <li class="bullet-checkmark">Thời gian sử dụng: Không giới hạn</li>
+                      <li class="bullet-checkmark">Phí chèn logo doanh nghiệp</li>
+                      <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
+                      <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
+                    </ul>
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">8.500.000<br />
+</span>VNĐ/ GÓI</p>
+                    <a class="button primary is-small lowercase expand"  style="border-radius:9px;">
+                      <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
+                    </a>
+
+                  </div>
+
+                  <style>
+                    #col-1371324257 > .col-inner {
+                      border-radius: 10px;
+                    }
+                  </style>
+                </div>
+
+
+
+                <style>
+                  #row-609349653 > .col > .col-inner {
                     padding: 30px 30px 30px 30px;
                     background-color: rgb(255,255,255);
                   }
@@ -1023,9 +2854,9 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
           </div>
 
 
-          <div class="row"  id="row-1973985546">
+          <div class="row"  id="row-1565281499">
 
-            <div id="col-153439350" class="col hide-for-small medium-2 small-12 large-2"  >
+            <div id="col-1789770159" class="col hide-for-small medium-2 small-12 large-2"  >
               <div class="col-inner"  >
 
 
@@ -1034,24 +2865,24 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-            <div id="col-1617036492" class="col hide-for-small medium-8 small-12 large-8"  >
+            <div id="col-1908517268" class="col hide-for-small medium-8 small-12 large-8"  >
               <div class="col-inner"  >
 
 
-                <div class="row row-collapse row-full-width"  id="row-1263434793">
+                <div class="row row-collapse row-full-width"  id="row-2128571700">
 
-                  <div id="col-157537298" class="col medium-6 large-6"  >
+                  <div id="col-930687253" class="col medium-6 large-6"  >
                     <div class="col-inner text-right"  >
 
 
                       <a class="button alert is-gloss lowercase expand"  style="border-radius:11px;">
-                        <i class="icon-gift" ></i>  <span>TẶNG NGAY 2 THÁNG SỬ DỤNG</span>
+                        <i class="icon-gift" ></i>  <span>TẶNG NGAY HOÁ ĐƠN SỬ DỤNG</span>
                       </a>
 
                     </div>
 
                     <style>
-                      #col-157537298 > .col-inner {
+                      #col-930687253 > .col-inner {
                         margin: 0px 0px 0px 37px;
                       }
                     </style>
@@ -1059,7 +2890,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-                  <div id="col-309635162" class="col medium-6 large-6"  >
+                  <div id="col-1227245573" class="col medium-6 large-6"  >
                     <div class="col-inner text-left"  >
 
 
@@ -1075,7 +2906,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
               </div>
 
               <style>
-                #col-1617036492 > .col-inner {
+                #col-1908517268 > .col-inner {
                   margin: 36px 0px 0px 0px;
                 }
               </style>
@@ -1083,13 +2914,13 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-            <div id="col-631908689" class="col show-for-small medium-8 small-12 large-8"  >
+            <div id="col-1294917378" class="col show-for-small medium-8 small-12 large-8"  >
               <div class="col-inner"  >
 
 
-                <div class="row row-collapse row-full-width"  id="row-809095290">
+                <div class="row row-collapse row-full-width"  id="row-89813564">
 
-                  <div id="col-275955077" class="col medium-6 small-10 large-6"  >
+                  <div id="col-1621666816" class="col medium-6 small-10 large-6"  >
                     <div class="col-inner text-right"  >
 
 
@@ -1100,7 +2931,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                     </div>
 
                     <style>
-                      #col-275955077 > .col-inner {
+                      #col-1621666816 > .col-inner {
                         margin: 0px 0px 0px 37px;
                       }
                     </style>
@@ -1108,7 +2939,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-                  <div id="col-749888949" class="col medium-6 small-12 large-6"  >
+                  <div id="col-945742895" class="col medium-6 small-12 large-6"  >
                     <div class="col-inner text-center"  >
 
 
@@ -1124,7 +2955,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
               </div>
 
               <style>
-                #col-631908689 > .col-inner {
+                #col-1294917378 > .col-inner {
                   margin: 36px 0px 0px 0px;
                 }
               </style>
@@ -1132,7 +2963,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-            <div id="col-1932678489" class="col hide-for-small medium-2 small-12 large-2"  >
+            <div id="col-133947185" class="col hide-for-small medium-2 small-12 large-2"  >
               <div class="col-inner"  >
 
 
@@ -1141,45 +2972,45 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
           </div>
-          <div class="row row-full-width align-center"  id="row-854974804">
+          <div class="row row-full-width align-center"  id="row-377818173">
 
-            <div id="col-1452201792" class="col medium-9 small-12 large-9"  >
+            <div id="col-550887786" class="col medium-9 small-12 large-9"  >
               <div class="col-inner text-left" style="background-color:rgba(255, 255, 255, 0.9);" >
 
 
-                <div class="row align-middle align-center"  id="row-1751005137">
+                <div class="row align-middle align-center"  id="row-607690925">
 
-                  <div id="col-1462285484" class="col medium-9 small-12 large-7"  >
+                  <div id="col-249013815" class="col medium-9 small-12 large-7"  >
                     <div class="col-inner text-center"  >
 
 
-                      <div class="row align-center row-solid" style="max-width:" id="row-2099291182">
+                      <div class="row align-center row-solid" style="max-width:" id="row-101417052">
 
-                        <div id="col-1685844085" class="col small-12 large-12"  >
+                        <div id="col-706354796" class="col small-12 large-12"  >
                           <div class="col-inner"  >
 
 
-                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_296255696">
+                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_109683244">
                               <div class="img-inner dark" >
-                                <img width="1020" height="536" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/khuyen-mai-econtract-1-1024x538.jpg" class="attachment-large size-large" alt="khuyen-mai-econtract" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/khuyen-mai-econtract-1-1024x538.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/khuyen-mai-econtract-1-300x158.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/khuyen-mai-econtract-1-768x403.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/khuyen-mai-econtract-1.jpg 1200w" sizes="(max-width: 1020px) 100vw, 1020px" title="Hợp đồng điện tử - MobiFone Econtract 27">
+                                <img width="1020" height="758" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001-1024x761.jpg" class="attachment-large size-large" alt="Hoa-don-dien-tu-MobiFoneInvoice-001" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001-1024x761.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001-300x223.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001-768x571.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Hoa-don-dien-tu-MobiFoneInvoice-001.jpg 1083w" sizes="(max-width: 1020px) 100vw, 1020px" title="Hóa đơn điện tử - MobiFone Invoice 23">
                               </div>
 
                               <style>
-                                #image_296255696 {
+                                #image_109683244 {
                                   width: 100%;
                                 }
                               </style>
                             </div>
 
-                            <div id="text-2585489863" class="text hide-for-small">
+                            <div id="text-2639367790" class="text hide-for-small">
 
-                              <h4><span style="font-size: 100%;"><strong>Tặng ngay 2 tháng sử dụng &#8211; 50 hợp đồng </strong></span></h4>
+                              <h4><span style="font-size: 100%;"><strong>Tặng ngay 300 hoá đơn sử dụng miễn phí</strong></span></h4>
                             </div>
 
                           </div>
 
                           <style>
-                            #col-1685844085 > .col-inner {
+                            #col-706354796 > .col-inner {
                               padding: 42px 0px 0px 0px;
                             }
                           </style>
@@ -1190,16 +3021,16 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                     </div>
 
                     <style>
-                      #col-1462285484 > .col-inner {
+                      #col-249013815 > .col-inner {
                         padding: 0px 0px 0px 0px;
                       }
                       @media (min-width:550px) {
-                        #col-1462285484 > .col-inner {
+                        #col-249013815 > .col-inner {
                           padding: 40px 0px 0px 0px;
                         }
                       }
                       @media (min-width:850px) {
-                        #col-1462285484 > .col-inner {
+                        #col-249013815 > .col-inner {
                           padding: 0px 4% 0px 0%;
                         }
                       }
@@ -1208,36 +3039,36 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-                  <div id="col-838786003" class="col medium-12 small-12 large-5"  >
+                  <div id="col-1285190911" class="col medium-12 small-12 large-5"  >
                     <div class="col-inner text-left"  >
 
 
-                      <div id="text-1843514073" class="text">
+                      <div id="text-2255084162" class="text">
 
                         <h2 style="text-align: left;">Đăng Ký Tư Vấn</h2>
 
                         <style>
-                          #text-1843514073 {
+                          #text-2255084162 {
                             font-size: 1.5rem;
                             text-align: center;
                           }
                           @media (min-width:550px) {
-                            #text-1843514073 {
+                            #text-2255084162 {
                               text-align: left;
                             }
                           }
                         </style>
                       </div>
 
-                      <div id="cf7cstmzr-form" class="cf7cstmzr-form-285 cf7cstmzr-form"><div role="form" class="wpcf7" id="wpcf7-f285-p10-o3" lang="vi" dir="ltr">
+                      <div id="cf7cstmzr-form" class="cf7cstmzr-form-285 cf7cstmzr-form"><div role="form" class="wpcf7" id="wpcf7-f285-p161-o1" lang="vi" dir="ltr">
                         <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-                        <form action="/hop-dong-dien-tu-mobifone-econtract/#wpcf7-f285-p10-o3" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+                        <form action="/hoa-don-dien-tu-mobifone-invoice/#wpcf7-f285-p161-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
                           <div style="display: none;">
                             <input type="hidden" name="_wpcf7" value="285" />
                             <input type="hidden" name="_wpcf7_version" value="5.6.4" />
                             <input type="hidden" name="_wpcf7_locale" value="vi" />
-                            <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f285-p10-o3" />
-                            <input type="hidden" name="_wpcf7_container_post" value="10" />
+                            <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f285-p161-o1" />
+                            <input type="hidden" name="_wpcf7_container_post" value="161" />
                             <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
                           </div>
                           <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Họ và tên" /></span><br />
@@ -1249,7 +3080,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                     </div>
 
                     <style>
-                      #col-838786003 > .col-inner {
+                      #col-1285190911 > .col-inner {
                         margin: 22px 0px 0px 0px;
                       }
                     </style>
@@ -1260,17 +3091,17 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
               </div>
 
               <style>
-                #col-1452201792 > .col-inner {
+                #col-550887786 > .col-inner {
                   padding: 50px 30px 0px 30px;
                   border-radius: 10px;
                 }
                 @media (min-width:550px) {
-                  #col-1452201792 > .col-inner {
+                  #col-550887786 > .col-inner {
                     padding: 30px 30px 0px 30px;
                   }
                 }
                 @media (min-width:850px) {
-                  #col-1452201792 > .col-inner {
+                  #col-550887786 > .col-inner {
                     padding: 7px 60px 0px 60px;
                   }
                 }
@@ -1283,769 +3114,38 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
         <style>
-          #section_446170149 {
-            padding-top: 37px;
-            padding-bottom: 37px;
-            background-color: rgb(245, 247, 251);
+          #section_2123530848 {
+            padding-top: 96px;
+            padding-bottom: 96px;
+            background-color: rgb(255, 255, 255);
           }
-          #section_446170149 .section-bg-overlay {
+          #section_2123530848 .section-bg-overlay {
             background-color: rgba(8, 34, 106, 0.663);
           }
-          #section_446170149 .section-bg.bg-loaded {
+          #section_2123530848 .section-bg.bg-loaded {
             background-image: url(https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/giai-phap-chuyen-doi-so-05.jpg);
           }
-          #section_446170149 .ux-shape-divider--top svg {
-            height: 23px;
+          #section_2123530848 .ux-shape-divider--top svg {
+            height: 70px;
             --divider-top-width: 100%;
           }
-          #section_446170149 .ux-shape-divider--bottom svg {
-            height: 150px;
-            --divider-width: 269%;
-          }
-        </style>
-      </section>
-
-
-      <section class="section" id="section_599044920">
-        <div class="bg section-bg fill bg-fill  bg-loaded" >
-
-
-          <div class="loading-spin centered"></div><button class="scroll-for-more z-5 icon absolute bottom h-center" aria-label="Scroll for more"><i class="icon-angle-down" style="font-size:42px;"></i></button>
-
-
-        </div>
-
-
-
-        <div class="section-content relative">
-
-          <div id="text-3707690586" class="text">
-
-            <h2 id="uu_diem">ƯU ĐIỂM CỦA HỢP ĐỒNG ĐIỆN TỬ</h2>
-
-            <style>
-              #text-3707690586 {
-                font-size: 1.25rem;
-                line-height: 0.75;
-                text-align: center;
-              }
-            </style>
-          </div>
-
-          <div class="row align-equal align-center"  id="row-2051014692">
-
-            <div id="col-1718456751" class="col medium-3 small-12 large-3"  data-animate="bounceInDown">
-              <div class="col-inner" style="background-color:rgb(255,255,255);" >
-
-
-
-                <div class="icon-box featured-box icon-box-center text-center"  >
-                  <div class="icon-box-img" style="width: 84px">
-                    <div class="icon">
-                      <div class="icon-inner" >
-                        <img width="300" height="300" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_eficiency2-300x300.jpg" class="attachment-medium size-medium" alt="icon eficiency2" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_eficiency2-300x300.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_eficiency2-150x150.jpg 150w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_eficiency2.jpg 546w" sizes="(max-width: 300px) 100vw, 300px" title="Hợp đồng điện tử - MobiFone Econtract 28">					</div>
-                    </div>
-                  </div>
-                  <div class="icon-box-text last-reset">
-
-                    <div id="gap-692679433" class="gap-element clearfix" style="display:block; height:auto;">
-
-                      <style>
-                        #gap-692679433 {
-                          padding-top: 10px;
-                        }
-                      </style>
-                    </div>
-
-                    <div id="text-2946032608" class="text">
-
-                      <h4>Hiệu quả</h4>
-                      <p><span style="font-size: 85%;">Số hoá quy trình ký hợp đồng giúp tiết kiệm thời gian, chi phí trình ký chuyển phát nhanh hợp đồng giấy</span><br />
-
-                        <style>
-                          #text-2946032608 {
-                            font-size: 1.2rem;
-                            line-height: 1.1;
-                          }
-                        </style>
-                    </div>
-
-                  </div>
-                </div>
-
-
-
-                <div class="icon-box featured-box icon-box-center text-center"  >
-                  <div class="icon-box-text last-reset">
-
-                    <div id="gap-419664322" class="gap-element clearfix" style="display:block; height:auto;">
-
-                      <style>
-                        #gap-419664322 {
-                          padding-top: 10px;
-                        }
-                      </style>
-                    </div>
-
-                  </div>
-                </div>
-
-
-              </div>
-            </div>
-
-
-
-            <div id="col-529910137" class="col medium-3 small-12 large-3"  data-animate="bounceInDown">
-              <div class="col-inner" style="background-color:rgb(255,255,255);" >
-
-
-
-                <div class="icon-box featured-box icon-box-center text-center"  >
-                  <div class="icon-box-img" style="width: 84px">
-                    <div class="icon">
-                      <div class="icon-inner" >
-                        <img width="225" height="225" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_thanThien.png" class="attachment-medium size-medium" alt="icon thanThien" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_thanThien.png 225w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_thanThien-150x150.png 150w" sizes="(max-width: 225px) 100vw, 225px" title="Hợp đồng điện tử - MobiFone Econtract 29">					</div>
-                    </div>
-                  </div>
-                  <div class="icon-box-text last-reset">
-
-                    <div id="gap-1618003412" class="gap-element clearfix" style="display:block; height:auto;">
-
-                      <style>
-                        #gap-1618003412 {
-                          padding-top: 10px;
-                        }
-                      </style>
-                    </div>
-
-                    <div id="text-3434337116" class="text">
-
-                      <h4>Thân Thiện</h4>
-                      <p><span style="font-size: 85%;">Giao diện thân thiện với người dùng thích hợp trên mọi thiết bị PC và mobile</span><br />
-
-                        <style>
-                          #text-3434337116 {
-                            font-size: 1.2rem;
-                            line-height: 1.1;
-                          }
-                        </style>
-                    </div>
-
-                  </div>
-                </div>
-
-
-              </div>
-            </div>
-
-
-
-            <div id="col-595475730" class="col medium-3 small-12 large-3"  data-animate="bounceInDown">
-              <div class="col-inner" style="background-color:rgb(255,255,255);" >
-
-
-
-                <div class="icon-box featured-box icon-box-center text-center"  >
-                  <div class="icon-box-img" style="width: 84px">
-                    <div class="icon">
-                      <div class="icon-inner" >
-                        <img width="225" height="225" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_shield3-removebg-preview-1.png" class="attachment-medium size-medium" alt="icon shield3 removebg preview 1" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_shield3-removebg-preview-1.png 225w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_shield3-removebg-preview-1-150x150.png 150w" sizes="(max-width: 225px) 100vw, 225px" title="Hợp đồng điện tử - MobiFone Econtract 30">					</div>
-                    </div>
-                  </div>
-                  <div class="icon-box-text last-reset">
-
-                    <div id="gap-285253860" class="gap-element clearfix" style="display:block; height:auto;">
-
-                      <style>
-                        #gap-285253860 {
-                          padding-top: 10px;
-                        }
-                      </style>
-                    </div>
-
-                    <div id="text-2882298448" class="text">
-
-                      <h4>Bảo mật</h4>
-                      <p><span style="font-size: 80%;">Hình thành kho lưu trữ hợp đồng được tổ chức khoa học có tính bảo mật cao tránh rủi ro mất mát thông tin</span><br />
-
-                        <style>
-                          #text-2882298448 {
-                            font-size: 1.2rem;
-                            line-height: 1.1;
-                            text-align: center;
-                          }
-                        </style>
-                    </div>
-
-                  </div>
-                </div>
-
-
-              </div>
-            </div>
-
-
-
-            <div id="col-1951013783" class="col medium-3 small-12 large-3"  data-animate="bounceInDown">
-              <div class="col-inner" style="background-color:rgb(255,255,255);" >
-
-
-
-                <div class="icon-box featured-box icon-box-center text-center"  style="margin:10px 0px 0px 20px;">
-                  <div class="icon-box-img" style="width: 84px">
-                    <div class="icon">
-                      <div class="icon-inner" >
-                        <img width="300" height="260" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_daphuongtien-300x260.png" class="attachment-medium size-medium" alt="icon daphuongtien" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_daphuongtien-300x260.png 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_daphuongtien-1024x886.png 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_daphuongtien-768x665.png 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/icon_daphuongtien.png 1040w" sizes="(max-width: 300px) 100vw, 300px" title="Hợp đồng điện tử - MobiFone Econtract 31">					</div>
-                    </div>
-                  </div>
-                  <div class="icon-box-text last-reset">
-
-                    <div id="gap-1132606133" class="gap-element clearfix" style="display:block; height:auto;">
-
-                      <style>
-                        #gap-1132606133 {
-                          padding-top: 10px;
-                        }
-                      </style>
-                    </div>
-
-                    <div id="text-686616337" class="text">
-
-                      <h4>Tiện lợi</h4>
-                      <p><span style="font-size: 85%;">Soạn thảo trình ký và ký kết hợp đồng mọi lúc mọi nơi trên điện thoại / app/ website</span><br />
-
-                        <style>
-                          #text-686616337 {
-                            font-size: 1.2rem;
-                            line-height: 1.1;
-                          }
-                        </style>
-                    </div>
-
-                  </div>
-                </div>
-
-
-              </div>
-            </div>
-
-
-
-            <style>
-              #row-2051014692 > .col > .col-inner {
-                padding: 20px 20px 20px 20px;
-              }
-            </style>
-          </div>
-          <div class="row"  id="row-839554753">
-
-            <div id="col-1093966618" class="col small-12 large-12"  >
-              <div class="col-inner text-center"  >
-
-
-                <a class="button primary is-underline lowercase"  >
-                  <span>Xem chi tiết</span>
-                </a>
-
-              </div>
-            </div>
-
-
-          </div>
-        </div>
-
-
-        <style>
-          #section_599044920 {
-            padding-top: 50px;
-            padding-bottom: 50px;
-            background-color: rgb(246, 246, 246);
-          }
-          #section_599044920 .ux-shape-divider--top svg {
-            height: 150px;
-            --divider-top-width: 100%;
-          }
-          #section_599044920 .ux-shape-divider--bottom svg {
+          #section_2123530848 .ux-shape-divider--bottom svg {
             height: 150px;
             --divider-width: 100%;
           }
-        </style>
-      </section>
-
-      <section class="section" id="section_704648666">
-        <div class="bg section-bg fill bg-fill  " >
-
-
-          <div class="section-bg-overlay absolute fill"></div>
-
-
-        </div>
-
-        <div class="ux-shape-divider ux-shape-divider--top ux-shape-divider--style-curve-opacity">
-          <svg viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-            <path class="ux-shape-fill" opacity="0.15" d="M0 14C0 14 88.64 17.48 300 50C560 90 814 77 1003 40L1015 68L1018 104H0V14Z"/>
-            <path class="ux-shape-fill" opacity="0.3" d="M0 45C0 45 271 90.13 500 77C657 68 830 30 1015 14V100H0V45Z"/>
-            <path class="ux-shape-fill" d="M0 58C0 58 188.29 90 508 90C798 90 1002 55 1002 55V100H0V58Z"/>
-          </svg>
-        </div>
-
-        <div class="ux-shape-divider ux-shape-divider--bottom ux-shape-divider--style-arrow-2-invert">
-          <svg viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-            <path class="ux-shape-fill" d="M1000 100H0V80H479.686C481.808 80 483.843 80.8429 485.343 82.3432L497.879 94.8787C499.05 96.0503 500.95 96.0503 502.121 94.8787L514.657 82.3431C516.157 80.8428 518.192 80 520.314 80H1000V100Z"/>
-          </svg>
-        </div>
-
-        <div class="section-content relative">
-
-          <div class="container section-title-container" ><h2 class="section-title section-title-center"><b></b><span class="section-title-main" style="font-size:128%;color:rgb(255, 255, 255);">TÍNH NĂNG HỢP ĐỒNG ĐIỆN TỬ</span><b></b></h2></div>
-          <div class="row row-small steps-simple-headline"  id="row-2008588674">
-
-            <div id="col-1183477900" class="col medium-4 small-12 large-5"  data-animate="bounceIn">
-              <div class="col-inner"  >
-
-
-                <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1548573199">
-                  <div class="img-inner dark" >
-                    <img width="500" height="500" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/5326010.png" class="attachment-large size-large" alt="5326010" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/5326010.png 500w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/5326010-300x300.png 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/5326010-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" title="Hợp đồng điện tử - MobiFone Econtract 32">
-                  </div>
-
-                  <style>
-                    #image_1548573199 {
-                      width: 100%;
-                    }
-                  </style>
-                </div>
-
-              </div>
-            </div>
-
-
-
-            <div id="col-968258393" class="col hide-for-small medium-8 small-12 large-7"  >
-              <div class="col-inner text-left"  >
-
-
-                <div class="row row-collapse"  id="row-1154250884">
-
-                  <div id="col-2124180746" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <p><span style="font-size: 180%;"><strong><span style="color: #ffffff;">01</span></strong></span></p>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-988667171" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-3692493505" class="text">
-
-                        <p><span style="color: #fafafa;">Xác thực hợp đồng và chữ ký điện tử</span><br />
-
-                          <style>
-                            #text-3692493505 {
-                              font-size: 1.4rem;
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-                <div class="row row-collapse"  id="row-1081119969">
-
-                  <div id="col-1187345047" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <h2><span style="color: #ffffff;">02</span></h2>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-666278989" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-2185623202" class="text">
-
-                        <p><span style="color: #fafafa;">Quản lý hợp đồng, tạo  lập hợp đồng mới </span><br />
-
-                          <style>
-                            #text-2185623202 {
-                              font-size: 1.4rem;
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-                <div class="row row-collapse align-middle"  id="row-214264571">
-
-                  <div id="col-1513019665" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <h2><span style="color: #ffffff;">03</span></h2>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-591451590" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-1458355696" class="text">
-
-                        <p><span style="font-size: 105%; color: #fafafa;">Quản lý tổ chức, đơn vị theo phân cấp</span><br />
-
-                          <style>
-                            #text-1458355696 {
-                              font-size: 1.4rem;
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-                <div class="row row-collapse align-middle"  id="row-1666915856">
-
-                  <div id="col-960048062" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <h2><span style="color: #ffffff;">04</span></h2>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-940263903" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-3096811709" class="text">
-
-                        <p><span style="color: #fafafa; font-size: 105%;">Quản lý người dùng trong tổ chức và đơn vị </span><br />
-
-                          <style>
-                            #text-3096811709 {
-                              font-size: 1.4rem;
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-                <div class="row row-collapse align-middle"  id="row-307070595">
-
-                  <div id="col-1504535773" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <h2><span style="color: #ffffff;">05</span></h2>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-1215319382" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-3313775949" class="text">
-
-                        <p><span style="color: #fafafa; font-size: 105%;">Quản lý vai trò của người dùng trong tổ chức</span><br />
-
-                          <style>
-                            #text-3313775949 {
-                              font-size: 1.4rem;
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-              </div>
-
-              <style>
-                #col-968258393 > .col-inner {
-                  padding: 43px 0px 0px 0px;
-                }
-              </style>
-            </div>
-
-
-
-            <div id="col-437589005" class="col show-for-small medium-8 small-12 large-7"  >
-              <div class="col-inner text-left"  >
-
-
-                <div class="row row-collapse"  id="row-1408544352">
-
-                  <div id="col-1244590127" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <h2><span style="color: #ffffff;">01</span></h2>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-650331937" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-892526685" class="text">
-
-                        <p><strong><span style="color: #fafafa;">Xác thực hợp đồng và chữ ký điện tử</span></strong><br />
-
-                          <style>
-                            #text-892526685 {
-                              font-size: 1rem;
-                            }
-                            @media (min-width:550px) {
-                              #text-892526685 {
-                                font-size: 1.4rem;
-                              }
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
-                <div class="row row-collapse"  id="row-951459371">
-
-                  <div id="col-1632584696" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <h2><span style="color: #ffffff;">02</span></h2>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-613273626" class="col medium-10 small-10 large-10"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-2104119923" class="text">
-
-                        <p><strong><span style="color: #fafafa;">Quản lý hợp đồng, tạo  lập hợp đồng mới </span></strong><br />
-
-                          <style>
-                            #text-2104119923 {
-                              font-size: 0.9rem;
-                            }
-                            @media (min-width:550px) {
-                              #text-2104119923 {
-                                font-size: 1.4rem;
-                              }
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
-                <div class="row row-collapse align-middle"  id="row-1452199954">
-
-                  <div id="col-1191964051" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <h2><span style="color: #ffffff;">03</span></h2>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-1504931945" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-1790672735" class="text">
-
-                        <p><strong><span style="font-size: 105%; color: #fafafa;">Quản lý tổ chức, đơn vị theo phân cấp</span></strong><br />
-
-                          <style>
-                            #text-1790672735 {
-                              font-size: 0.9rem;
-                            }
-                            @media (min-width:550px) {
-                              #text-1790672735 {
-                                font-size: 1.4rem;
-                              }
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
-                <div class="row row-collapse align-middle"  id="row-1158131163">
-
-                  <div id="col-525646885" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <h2><span style="color: #ffffff;">04</span></h2>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-203302666" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-2640332390" class="text">
-
-                        <p><strong><span style="color: #fafafa; font-size: 105%;">Quản lý người dùng trong tổ chức và đơn vị </span></strong><br />
-
-                          <style>
-                            #text-2640332390 {
-                              font-size: 0.9rem;
-                            }
-                            @media (min-width:550px) {
-                              #text-2640332390 {
-                                font-size: 1.4rem;
-                              }
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-                <div class="is-divider divider clearfix" style="margin-top:10px;margin-bottom:10px;max-width:100%;height:1px;"></div>
-                <div class="row row-collapse align-middle"  id="row-1147773775">
-
-                  <div id="col-283165457" class="col medium-1 small-2 large-1"  data-animate="fadeInLeft">
-                    <div class="col-inner"  >
-
-
-                      <h2><span style="color: #ffffff;">05</span></h2>
-                    </div>
-                  </div>
-
-
-
-                  <div id="col-1068117701" class="col medium-11 small-10 large-11"  data-animate="fadeInRight">
-                    <div class="col-inner"  >
-
-
-                      <div id="text-2602650746" class="text">
-
-                        <p><strong><span style="color: #fafafa; font-size: 105%;">Quản lý vai trò của người dùng trong tổ chức</span></strong><br />
-
-                          <style>
-                            #text-2602650746 {
-                              font-size: 0.9rem;
-                            }
-                            @media (min-width:550px) {
-                              #text-2602650746 {
-                                font-size: 1.4rem;
-                              }
-                            }
-                          </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-              </div>
-            </div>
-
-
-          </div>
-        </div>
-
-
-        <style>
-          #section_704648666 {
-            padding-top: 67px;
-            padding-bottom: 67px;
-            background-color: rgb(237, 237, 237);
-          }
-          #section_704648666 .section-bg-overlay {
-            background-color: rgba(21, 48, 125, 0.756);
-          }
-          #section_704648666 .section-bg.bg-loaded {
-            background-image: url(https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/giai-phap-chuyen-doi-so-05.jpg);
-          }
-          #section_704648666 .ux-shape-divider--top svg {
-            height: 81px;
-            --divider-top-width: 100%;
-          }
-          #section_704648666 .ux-shape-divider--bottom svg {
-            height: 150px;
-            --divider-width: 100%;
+          @media (min-width:550px) {
+            #section_2123530848 {
+              padding-top: 97px;
+              padding-bottom: 97px;
+            }
+            #section_2123530848 .ux-shape-divider--top svg {
+              height: 135px;
+            }
           }
         </style>
       </section>
 
-      <div class="row"  id="row-696697739">
-
-        <div id="col-1871517691" class="col small-12 large-12"  >
-          <div class="col-inner"  >
-
-
-            <div id="text-1887642031" class="text">
-
-              <h2 class="uppercase"><span style="font-size: 100%;">Lợi ích của hợp đồng điện tử</span></h2>
-              <p class="thin-font">Thay đổi phương thức ký kết truyền thống, xây dựng doanh nghiệp chuyển đổi số không giấy tờ</p>
-
-              <style>
-                #text-1887642031 {
-                  font-size: 1.25rem;
-                  text-align: center;
-                }
-              </style>
-            </div>
-
-          </div>
-        </div>
-
-
-      </div>
-      <section class="section" id="section_499013576">
+      <section class="section" id="section_1474637076">
         <div class="bg section-bg fill bg-fill  bg-loaded" >
 
 
@@ -2058,920 +3158,108 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
         <div class="section-content relative">
 
-          <div class="row row-small align-middle"  id="row-967515644">
+          <div class="row align-center"  id="row-222867990">
 
-            <div id="col-151839380" class="col medium-4 small-12 large-4"  >
-              <div class="col-inner"  >
-
-
-
-                <div class="banner has-hover" id="banner-2043315956">
-                  <div class="banner-inner fill">
-                    <div class="banner-bg fill" >
-                      <div class="bg fill bg-fill "></div>
-
-                    </div>
-
-                    <div class="banner-layers container">
-                      <div class="fill banner-link"></div>
-                    </div>
-                  </div>
-
-
-                  <style>
-                    #banner-2043315956 {
-                      padding-top: 350px;
-                      background-color: rgba(255, 255, 255, 0);
-                    }
-                    #banner-2043315956 .bg.bg-loaded {
-                      background-image: url(https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-6.jpg);
-                    }
-                    #banner-2043315956 .ux-shape-divider--top svg {
-                      height: 150px;
-                      --divider-top-width: 100%;
-                    }
-                    #banner-2043315956 .ux-shape-divider--bottom svg {
-                      height: 150px;
-                      --divider-width: 100%;
-                    }
-                    @media (min-width:850px) {
-                      #banner-2043315956 {
-                        padding-top: 400px;
-                      }
-                    }
-                  </style>
-                </div>
-
-
-              </div>
-            </div>
-
-
-
-            <div id="col-252560153" class="col medium-4 small-12 large-4"  >
+            <div id="col-1212653384" class="col medium-10 small-10 large-10"  >
               <div class="col-inner text-center"  >
 
 
-                <div id="gap-2138288365" class="gap-element clearfix" style="display:block; height:auto;">
+                <div id="text-746457750" class="text hide-for-small">
+
+                  <h6 data-text-color="success"></h6>
+                  <h3 style="font-size: 220%;"><span style="font-size: 120%;">Câu hỏi thường gặp</span></h3>
 
                   <style>
-                    #gap-2138288365 {
-                      padding-top: 30px;
+                    #text-746457750 {
+                      color: rgb(11, 78, 166);
+                    }
+                    #text-746457750 > * {
+                      color: rgb(11, 78, 166);
                     }
                   </style>
                 </div>
 
-                <h2>Ký mọi lúc, mọi nơi, mọi thiết bị</h2>
-                <p>MobiFone eContract cho phép ký hợp đồng điện tử ở nhiều định dạng (word, pdf, excel,…) và trên mọi thiết bị (máy tính, điện thoại thông minh, máy tính bảng,…).</p>
-                <a href="https://giaiphap.mobifone.vn/lien-he/" target="_self" class="button alert is-outline">
-                  <span>tư vấn ngay</span>
-                </a>
+                <div id="text-2921477355" class="text show-for-small">
+
+                  <h6 data-text-color="success"></h6>
+                  <h3 style="font-size: 220%;"><span style="font-size: 80%;">Câu hỏi thường gặp</span></h3>
+                </div>
 
               </div>
 
               <style>
-                #col-252560153 > .col-inner {
-                  padding: 40px 8% 50px 8%;
-                }
-                @media (min-width:550px) {
-                  #col-252560153 > .col-inner {
-                    padding: 0px 8% 0px 8%;
-                  }
-                }
-                @media (min-width:850px) {
-                  #col-252560153 > .col-inner {
-                    padding: 0px 15% 0px 15%;
-                  }
-                }
-              </style>
-            </div>
-
-
-
-            <div id="col-543372753" class="col medium-4 small-12 large-4"  >
-              <div class="col-inner"  >
-
-
-
-                <div class="banner has-hover" id="banner-1679422281">
-                  <div class="banner-inner fill">
-                    <div class="banner-bg fill" >
-                      <div class="bg fill bg-fill "></div>
-
-                    </div>
-
-                    <div class="banner-layers container">
-                      <div class="fill banner-link"></div>
-                    </div>
-                  </div>
-
-
-                  <style>
-                    #banner-1679422281 {
-                      padding-top: 350px;
-                      background-color: rgba(255, 255, 255, 0);
-                    }
-                    #banner-1679422281 .bg.bg-loaded {
-                      background-image: url(https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-08.jpg);
-                    }
-                    #banner-1679422281 .ux-shape-divider--top svg {
-                      height: 150px;
-                      --divider-top-width: 100%;
-                    }
-                    #banner-1679422281 .ux-shape-divider--bottom svg {
-                      height: 150px;
-                      --divider-width: 100%;
-                    }
-                    @media (min-width:850px) {
-                      #banner-1679422281 {
-                        padding-top: 400px;
-                      }
-                    }
-                  </style>
-                </div>
-
-
-              </div>
-            </div>
-
-
-          </div>
-          <div class="row row-small align-middle"  id="row-1758783012">
-
-            <div id="col-1426868157" class="col medium-4 small-12 large-4"  >
-              <div class="col-inner text-center"  >
-
-
-                <div id="gap-1231973538" class="gap-element clearfix" style="display:block; height:auto;">
-
-                  <style>
-                    #gap-1231973538 {
-                      padding-top: 30px;
-                    }
-                  </style>
-                </div>
-
-                <h2><strong>Ký kết không giấy tờ và hợp pháp</strong></h2>
-                <p>Doanh nghiệp có thể thực hiện soạn thảo, in ấn, gửi và phê duyệt hợp đồng ngay trên các thiết bị điện tử. Các hợp đồng này đảm bảo tính hợp pháp, giúp doanh nghiệp thay đổi phương thức ký kết truyền thống và hướng tới chuyển đổi số.</p>
-                <a href="https://giaiphap.mobifone.vn/lien-he/" target="_self" class="button alert is-outline">
-                  <span>Tư vấn ngay</span>
-                </a>
-
-              </div>
-
-              <style>
-                #col-1426868157 > .col-inner {
-                  padding: 40px 8% 50px 8%;
-                }
-                @media (min-width:550px) {
-                  #col-1426868157 > .col-inner {
-                    padding: 0px 8% 0px 8%;
-                  }
-                }
-                @media (min-width:850px) {
-                  #col-1426868157 > .col-inner {
-                    padding: 0px 15% 0px 15%;
-                  }
-                }
-              </style>
-            </div>
-
-
-
-            <div id="col-1848977134" class="col medium-4 small-12 large-4"  >
-              <div class="col-inner"  >
-
-
-
-                <div class="banner has-hover" id="banner-1113836488">
-                  <div class="banner-inner fill">
-                    <div class="banner-bg fill" >
-                      <div class="bg fill bg-fill "></div>
-
-                    </div>
-
-                    <div class="banner-layers container">
-                      <div class="fill banner-link"></div>
-                    </div>
-                  </div>
-
-
-                  <style>
-                    #banner-1113836488 {
-                      padding-top: 349px;
-                      background-color: rgba(255, 255, 255, 0);
-                    }
-                    #banner-1113836488 .bg.bg-loaded {
-                      background-image: url(https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/hop-dong-dien-tu-mobifone-econtract-07.jpg);
-                    }
-                    #banner-1113836488 .ux-shape-divider--top svg {
-                      height: 150px;
-                      --divider-top-width: 100%;
-                    }
-                    #banner-1113836488 .ux-shape-divider--bottom svg {
-                      height: 150px;
-                      --divider-width: 100%;
-                    }
-                    @media (min-width:850px) {
-                      #banner-1113836488 {
-                        padding-top: 400px;
-                      }
-                    }
-                  </style>
-                </div>
-
-
-              </div>
-            </div>
-
-
-
-            <div id="col-1921166052" class="col medium-4 small-12 large-4"  >
-              <div class="col-inner text-center"  >
-
-
-                <div id="gap-1369356261" class="gap-element clearfix" style="display:block; height:auto;">
-
-                  <style>
-                    #gap-1369356261 {
-                      padding-top: 30px;
-                    }
-                  </style>
-                </div>
-
-                <h2><strong>Tiết kiệm thời gian và chi phí</strong></h2>
-                <p>MobiFone eContract hỗ trợ doanh nghiệp ký kết hợp đồng không phụ thuộc vào không gian và thời gian. Từ đó rút bớt được thời gian, chi phí đi lại, gặp gỡ khách hàng, tiết kiệm chi phí in ấn, vận chuyển, lưu trữ, quản lý hợp đồng giấy,…</p>
-                <a href="https://giaiphap.mobifone.vn/lien-he/" target="_self" class="button alert is-outline">
-                  <span>Tư vấn ngay</span>
-                </a>
-
-              </div>
-
-              <style>
-                #col-1921166052 > .col-inner {
-                  padding: 40px 8% 50px 8%;
-                }
-                @media (min-width:550px) {
-                  #col-1921166052 > .col-inner {
-                    padding: 0px 8% 0px 8%;
-                  }
-                }
-                @media (min-width:850px) {
-                  #col-1921166052 > .col-inner {
-                    padding: 0px 15% 0px 15%;
-                  }
+                #col-1212653384 > .col-inner {
+                  padding: 21px 0px 0px 0px;
                 }
               </style>
             </div>
 
 
           </div>
-        </div>
-
-
-        <style>
-          #section_499013576 {
-            padding-top: 41px;
-            padding-bottom: 41px;
-          }
-          #section_499013576 .ux-shape-divider--top svg {
-            height: 150px;
-            --divider-top-width: 100%;
-          }
-          #section_499013576 .ux-shape-divider--bottom svg {
-            height: 150px;
-            --divider-width: 100%;
-          }
-        </style>
-      </section>
-
-      <section class="section" id="section_1482831728">
-        <div class="bg section-bg fill bg-fill  " >
-
-
-          <div class="section-bg-overlay absolute fill"></div>
-
-
-        </div>
-
-        <div class="ux-shape-divider ux-shape-divider--top ux-shape-divider--style-curve-opacity">
-          <svg viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-            <path class="ux-shape-fill" opacity="0.15" d="M0 14C0 14 88.64 17.48 300 50C560 90 814 77 1003 40L1015 68L1018 104H0V14Z"/>
-            <path class="ux-shape-fill" opacity="0.3" d="M0 45C0 45 271 90.13 500 77C657 68 830 30 1015 14V100H0V45Z"/>
-            <path class="ux-shape-fill" d="M0 58C0 58 188.29 90 508 90C798 90 1002 55 1002 55V100H0V58Z"/>
-          </svg>
-        </div>
-
-        <div class="ux-shape-divider ux-shape-divider--bottom ux-shape-divider--style-waves-opacity-2">
-          <svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-            <path class="ux-shape-fill" opacity="0.15" d="M0 299L-2 19.9998C153 -16.0002 308 155 413 184C515.64 212.35 562 152 645 153C725 154 787 206 874 233C939.54 253.34 975 248 1000 244.61V299H0Z"/>
-            <path class="ux-shape-fill" opacity="0.3" d="M0 300L-2 34C155 -9.00003 300 178 403 212C504.11 245.38 562 165 645 166C725 167 790.09 220.07 874 253C939.21 278.59 978.07 269.72 1000 263.61V300H0Z"/>
-            <path class="ux-shape-fill" d="M0 300L-1 69.7099C216 56.9999 299.47 198.86 403 226C506 253 577 196 660 197C740 198 790.09 234.07 874 267C935.23 291 982 282.61 1000 277.61V300H0Z"/>
-          </svg>
-        </div>
-
-        <div class="section-content relative">
-
-          <div class="row"  id="row-1512656446">
-
-            <div id="col-801354" class="col small-12 large-12"  >
-              <div class="col-inner text-center"  >
-
-
-                <div id="text-3582916051" class="text">
-
-                  <h2><span style="font-size: 100%; color: #ffffff;">QUY TRÌNH KÝ KẾT HỢP ĐỒNG ĐIỆN TỬ</span></h2>
-                  <p style="text-align: center;"><span style="color: #ffffff;">Khởi tạo và giao kết hợp đồng thông minh, không chạm. Giúp doanh nghiệp vượt trội so với đối thủ cạnh tranh</span></p>
-
-                  <style>
-                    #text-3582916051 {
-                      font-size: 1.25rem;
-                      text-align: center;
-                    }
-                  </style>
-                </div>
-
-              </div>
-            </div>
-
-
-          </div>
-          <div class="row align-equal align-center"  id="row-317927980">
-
-            <div id="col-910208878" class="col medium-8 small-12 large-3"  >
-              <div class="col-inner text-left box-shadow-3"  >
-
-
-
-                <div class="icon-box featured-box icon-box-top text-left"  >
-                  <div class="icon-box-img" style="width: 60px">
-                    <div class="icon">
-                      <div class="icon-inner" >
-                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/1-3.png" class="attachment-medium size-medium" alt="buoc-1" decoding="async" loading="lazy" title="Hợp đồng điện tử - MobiFone Econtract 33">					</div>
-                    </div>
-                  </div>
-                  <div class="icon-box-text last-reset">
-
-                    <h3><strong>Tạo hợp đồng</strong></h3>
-                  </div>
-                </div>
-
-
-                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                <div id="gap-637446918" class="gap-element clearfix" style="display:block; height:auto;">
-
-                  <style>
-                    #gap-637446918 {
-                      padding-top: 10px;
-                    }
-                  </style>
-                </div>
-
-                <div class="row mb-2">
-                  <ul>
-                    <li>Upload file hợp đồng</li>
-                    <li><span style="color: #333333;">Thiết kế thông tin hợp đồng</span></li>
-                    <li>Xác định vị trí ký</li>
-                    <li>Gửi hợp đồng</li>
-                  </ul>
-                </div>
-                <div class="row"  id="row-481062281">
-
-                  <div id="col-781982749" class="col small-12 large-12"  >
-                    <div class="col-inner"  >
-
-
-                      <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1285419761">
-                        <div class="img-inner dark" >
-                          <img width="840" height="595" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-Organized-1.png" class="attachment-large size-large" alt="Get Organized 1" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-Organized-1.png 840w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-Organized-1-300x213.png 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-Organized-1-768x544.png 768w" sizes="(max-width: 840px) 100vw, 840px" title="Hợp đồng điện tử - MobiFone Econtract 34">
-                        </div>
-
-                        <style>
-                          #image_1285419761 {
-                            width: 100%;
-                          }
-                        </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-              </div>
-
-              <style>
-                #col-910208878 > .col-inner {
-                  border-radius: 10px;
-                }
-              </style>
-            </div>
-
-
-
-            <div id="col-631963302" class="col medium-8 small-12 large-3"  >
-              <div class="col-inner text-left box-shadow-3"  >
-
-
-
-                <div class="icon-box featured-box icon-box-top text-left"  >
-                  <div class="icon-box-img" style="width: 60px">
-                    <div class="icon">
-                      <div class="icon-inner" >
-                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/2-2.png" class="attachment-medium size-medium" alt="2 2" decoding="async" loading="lazy" title="Hợp đồng điện tử - MobiFone Econtract 35">					</div>
-                    </div>
-                  </div>
-                  <div class="icon-box-text last-reset">
-
-                    <h3 class="text-center" style="text-align: left;">Người xem xét</h3>
-                  </div>
-                </div>
-
-
-                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                <div id="gap-1289940343" class="gap-element clearfix" style="display:block; height:auto;">
-
-                  <style>
-                    #gap-1289940343 {
-                      padding-top: 10px;
-                    }
-                  </style>
-                </div>
-
-                <div class="row mb-2">
-                  <ul>
-                    <li>Nhận email thông báo tự động</li>
-                    <li>Duyệt trước nội dung hợp đồng</li>
-                  </ul>
-                </div>
-                <div class="row"  id="row-1230259374">
-
-                  <div id="col-1032681978" class="col small-12 large-12"  >
-                    <div class="col-inner"  >
-
-
-                      <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1455996454">
-                        <div class="img-inner dark" >
-                          <img width="864" height="701" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/answer-chat-in-mobile-c.png" class="attachment-large size-large" alt="answer chat in mobile c" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/answer-chat-in-mobile-c.png 864w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/answer-chat-in-mobile-c-300x243.png 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/answer-chat-in-mobile-c-768x623.png 768w" sizes="(max-width: 864px) 100vw, 864px" title="Hợp đồng điện tử - MobiFone Econtract 36">
-                        </div>
-
-                        <style>
-                          #image_1455996454 {
-                            width: 100%;
-                          }
-                        </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-              </div>
-
-              <style>
-                #col-631963302 > .col-inner {
-                  border-radius: 10px;
-                }
-              </style>
-            </div>
-
-
-
-            <div id="col-177223515" class="col medium-8 small-12 large-3"  >
-              <div class="col-inner text-left box-shadow-3"  >
-
-
-
-                <div class="icon-box featured-box icon-box-top text-left"  >
-                  <div class="icon-box-img" style="width: 60px">
-                    <div class="icon">
-                      <div class="icon-inner" >
-                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/3.png" class="attachment-medium size-medium" alt="3" decoding="async" loading="lazy" title="Hợp đồng điện tử - MobiFone Econtract 37">					</div>
-                    </div>
-                  </div>
-                  <div class="icon-box-text last-reset">
-
-                    <h3 class="text-center" style="text-align: left;">Ký số hợp đồng</h3>
-                  </div>
-                </div>
-
-
-                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                <div id="gap-765980104" class="gap-element clearfix" style="display:block; height:auto;">
-
-                  <style>
-                    #gap-765980104 {
-                      padding-top: 10px;
-                    }
-                  </style>
-                </div>
-
-                <div class="row mb-2">
-                  <ul>
-                    <li>Gửi Email/SMS cho các bên tham gia ký</li>
-                    <li>Các bên  thực hiện ký hợp đồng bằng: USB Token, HSM&#8230;</li>
-                  </ul>
-                </div>
-                <div class="row"  id="row-957703672">
-
-                  <div id="col-158300627" class="col small-12 large-12"  >
-                    <div class="col-inner"  >
-
-
-                      <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1810691928">
-                        <div class="img-inner dark" >
-                          <img width="842" height="595" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-Close.png" class="attachment-large size-large" alt="Get Close" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-Close.png 842w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-Close-300x212.png 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-Close-768x543.png 768w" sizes="(max-width: 842px) 100vw, 842px" title="Hợp đồng điện tử - MobiFone Econtract 38">
-                        </div>
-
-                        <style>
-                          #image_1810691928 {
-                            width: 100%;
-                          }
-                        </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-              </div>
-
-              <style>
-                #col-177223515 > .col-inner {
-                  border-radius: 10px;
-                }
-              </style>
-            </div>
-
-
-
-            <div id="col-552618856" class="col medium-8 small-12 large-3"  >
-              <div class="col-inner text-left box-shadow-3"  >
-
-
-
-                <div class="icon-box featured-box icon-box-top text-left"  >
-                  <div class="icon-box-img" style="width: 60px">
-                    <div class="icon">
-                      <div class="icon-inner" >
-                        <img width="100" height="100" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/4.png" class="attachment-medium size-medium" alt="4" decoding="async" loading="lazy" title="Hợp đồng điện tử - MobiFone Econtract 39">					</div>
-                    </div>
-                  </div>
-                  <div class="icon-box-text last-reset">
-
-                    <h3 class="text-center" style="text-align: left;">Lưu trữ và quản lý</h3>
-                  </div>
-                </div>
-
-
-                <div class="is-divider divider clearfix" style="margin-top:5px;margin-bottom:5px;max-width:100%;height:2px;background-color:rgb(111, 166, 212);"></div>
-                <div id="gap-598612949" class="gap-element clearfix" style="display:block; height:auto;">
-
-                  <style>
-                    #gap-598612949 {
-                      padding-top: 10px;
-                    }
-                  </style>
-                </div>
-
-                <div class="row mb-2">
-                  <ul>
-                    <li class="">Hệ thống gửi thông báo hoàn tất ký hợp đồng đến các bên</li>
-                    <li class="">Hợp đồng được lưu trữ và mã hoá</li>
-                  </ul>
-                </div>
-                <div class="row"  id="row-156494877">
-
-                  <div id="col-1698409301" class="col small-12 large-12"  >
-                    <div class="col-inner"  >
-
-
-                      <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_650542961">
-                        <div class="img-inner dark" >
-                          <img width="842" height="595" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-in-Front.png" class="attachment-large size-large" alt="Get in Front" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-in-Front.png 842w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-in-Front-300x212.png 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/Get-in-Front-768x543.png 768w" sizes="(max-width: 842px) 100vw, 842px" title="Hợp đồng điện tử - MobiFone Econtract 40">
-                        </div>
-
-                        <style>
-                          #image_650542961 {
-                            width: 100%;
-                          }
-                        </style>
-                      </div>
-
-                    </div>
-                  </div>
-
-
-                </div>
-              </div>
-
-              <style>
-                #col-552618856 > .col-inner {
-                  border-radius: 10px;
-                }
-              </style>
-            </div>
-
-
-
-            <style>
-              #row-317927980 > .col > .col-inner {
-                padding: 30px 30px 0px 30px;
-                background-color: rgb(255,255,255);
-              }
-            </style>
-          </div>
-          <div class="row row-full-width align-center"  id="row-1878133504">
-          </div>
-        </div>
-
-
-        <style>
-          #section_1482831728 {
-            padding-top: 37px;
-            padding-bottom: 37px;
-            background-color: rgb(245, 247, 251);
-          }
-          #section_1482831728 .section-bg-overlay {
-            background-color: rgba(8, 34, 106, 0.663);
-          }
-          #section_1482831728 .section-bg.bg-loaded {
-            background-image: url(https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/giai-phap-chuyen-doi-so-05.jpg);
-          }
-          #section_1482831728 .ux-shape-divider--top svg {
-            height: 23px;
-            --divider-top-width: 100%;
-          }
-          #section_1482831728 .ux-shape-divider--bottom svg {
-            height: 144px;
-            --divider-width: 269%;
-          }
-        </style>
-      </section>
-
-      <section class="section" id="section_1809087942">
-        <div class="bg section-bg fill bg-fill  bg-loaded" >
-
-
-          <div class="section-bg-overlay absolute fill"></div>
-
-
-        </div>
-
-
-
-        <div class="section-content relative">
-
-          <div class="row align-center"  id="row-1598900646">
-
-            <div id="col-859975185" class="col small-12 large-12"  >
-              <div class="col-inner text-left"  >
-
-
-                <div id="text-676681834" class="text">
-
-                  <h2 class="uppercase">Áp dụng ngay với mọi loại hợp đồng/tài liệu/<br />
-                    chứng nhận điện tử</h2>
-                  <h3 class="thin-font"></h3>
-
-                  <style>
-                    #text-676681834 {
-                      text-align: center;
-                    }
-                  </style>
-                </div>
-
-                <div class="row align-center"  id="row-580772263">
-
-                  <div id="col-896625417" class="col show-for-small small-11 large-12"  >
-                    <div class="col-inner text-left"  >
-
-
-                      <p>MobiFone eContract có thể áp dụng linh hoạt với hầu hết tất cả loại hợp đồng trên thị trường hiện nay như:</p>
-                      <ul>
-                        <li aria-level="1">Hợp đồng lao động giữa doanh nghiệp và người lao động</li>
-                        <li aria-level="1">Hợp đồng trao đổi/mua bán thiết bị, nguyên liệu sản xuất,..</li>
-                        <li aria-level="1">Hợp đồng thuê khoán dịch vụ, thiết bị,…</li>
-                        <li aria-level="1">Hợp đồng cung cấp dịch vụ</li>
-                        <li aria-level="1">Hợp đồng xây dựng nhà xưởng, nhà máy, tòa nhà,…</li>
-                        <li aria-level="1">Hợp đồng đại lý</li>
-                        <li aria-level="1">Hợp đồng dịch vụ thương mại</li>
-                      </ul>
-                    </div>
-                  </div>
-
-
-                </div>
-
-                <div class="tabbed-content hide-for-small">
-
-                  <ul class="nav nav-tabs nav-normal nav-size-xlarge nav-center"><li class="tab active has-icon"><a href="#tab_tài-chính-–-ngân-hàng"><span>Tài chính – Ngân hàng</span></a></li>
-                    <li class="tab has-icon"><a href="#tab_bảo-hiểm"><span>Bảo hiểm</span></a></li>
-                    <li class="tab has-icon"><a href="#tab_hợp-đồng-lao-động"><span>Hợp đồng lao động</span></a></li>
-                    <li class="tab has-icon"><a href="#tab_Đa-ngànnh"><span>Đa ngànnh</span></a></li></ul><div class="tab-panels"><div class="panel active entry-content" id="tab_tài-chính-–-ngân-hàng">
-                  <div id="text-1668830358" class="text">
-
-                    <table style="border-collapse: collapse; width: 100%;">
+          <div class="row align-center"  id="row-911234290">
+
+            <div id="col-192478046" class="col medium-10 small-12 large-11"  >
+              <div class="col-inner text-left" style="background-color:rgb(255,255,255);" >
+
+
+                <div class="accordion" rel="">
+                  <div class="accordion-item"><a href="#" class="accordion-title plain"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hóa đơn điện tử MobiFone Invoice là gì?</span></a><div class="accordion-inner">
+                    <p><strong><a href="https://it.mobifone.vn/giai_phap/mobifone-invoice" target="_blank" rel="noopener">MobiFone Invoice</a></strong> là giải pháp hóa đơn điện tử được cung cấp bởi MobiFone – đơn vị hàng đầu về cung cấp các dịch vụ viễn thông di động và chuyển đổi số. Giải pháp được phát triển nhằm hỗ trợ cho các cơ quan, doanh nghiệp, tổ chức, hộ kinh doanh tạo lập, xuất và quản lý phát hành hoá đơn điện tử hiệu quả, đúng pháp luật.</p>
+                  </div></div>
+                  <div class="accordion-item"><a href="#" class="accordion-title plain"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Muốn mua số lượng hoá đơn MobiFone Invoice không có trong bảng giá được không</span></a><div class="accordion-inner">
+                    <p>Khách hàng có thể mua nhiều gói khác nhau nếu có nhu cầu sử dụng dịch vụ với số lượng hóa hơn nhiều hơn các gói hiện có trong bảng giá.</p>
+                  </div></div>
+                  <div class="accordion-item"><a href="#" class="accordion-title plain"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Khách hàng đang sử dụng giải pháp của nhà cung cấp khác, muốn chuyển sang giải pháp hóa đơn điện tử của MobiFone thì làm thế nào?</span></a><div class="accordion-inner">
+                    <table width="0">
                       <tbody>
                       <tr>
-                        <td style="width: 50%;">
-                          <ul>
-                            <li>Mở tài khoản tại nhà</li>
-                          </ul>
-                        </td>
-                        <td style="width: 50%;">
-                          <ul>
-                            <li>Thông báo thay đổi thỏa thuận dịch vụ</li>
-                          </ul>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td style="width: 50%;">
-                          <ul>
-                            <li>Làm thủ tục vay từ xa</li>
-                          </ul>
-                        </td>
-                        <td style="width: 50%;"></td>
+                        <td>Đại lý cho KH ký hợp đồng theo mẫu của MBF, gửi bản scan hợp đồng về đầu mối hỗ trợ, trong vòng 4 giờ làm việc, MobiFone sẽ cấp tài khoản cho khách hàng, hợp đồng bản cứng tập hợp gửi về MBF theo tháng</td>
                       </tr>
                       </tbody>
                     </table>
-
-                    <style>
-                      #text-1668830358 {
-                        font-size: 1.4rem;
-                      }
-                    </style>
-                  </div>
-
+                  </div></div>
+                  <div class="accordion-item"><a href="#" class="accordion-title plain"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Dịch vụ hóa đơn điện tử - MobiFone Invoice có kết nối được với các phần mềm kế toán hay phần mềm bán hàng không?</span></a><div class="accordion-inner">
+                    <p>Có hỗ trợ kết nối theo 2 hình thức:<br />
+                      &#8211; Kết nối trực tiếp qua API với phần mềm kế toán, bán hàng<br />
+                      &#8211; Kết nối gián tiếp qua import excel<br />
+                      Tùy nhu cầu của DN để lựa chọn 1 trong 2 hình thức trên</p>
+                  </div></div>
+                  <div class="accordion-item"><a href="#" class="accordion-title plain"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Trường hợp mất hóa đơn chuyển đổi, có bị phạt hay không?</span></a><div class="accordion-inner">
+                    <p>Chưa có quy định xử phạt hành vi làm mất hóa đơn chuyển đổi.</p>
+                  </div></div>
                 </div>
-                  <div class="panel entry-content" id="tab_bảo-hiểm">
-                    <div id="text-1361754016" class="text">
-
-                      <table style="border-collapse: collapse; width: 100%;">
-                        <tbody>
-                        <tr>
-                          <td style="width: 50%;">
-                            <ul>
-                              <li>Mở hợp đồng bảo hiểm</li>
-                            </ul>
-                          </td>
-                          <td style="width: 50%;">
-                            <ul>
-                              <li>Ký kết Chứng từ thay đổi hạn mức</li>
-                            </ul>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td style="width: 50%;">
-                            <ul>
-                              <li>Ký kết Chứng từ đóng phí,  làm mới</li>
-                            </ul>
-                          </td>
-                          <td style="width: 50%;">
-                            <ul>
-                              <li>Ký kết Chứng từ gia hạn hợp đồng</li>
-                            </ul>
-                          </td>
-                        </tr>
-                        </tbody>
-                      </table>
-
-                      <style>
-                        #text-1361754016 {
-                          font-size: 1.4rem;
-                        }
-                      </style>
-                    </div>
-
-                  </div>
-                  <div class="panel entry-content" id="tab_hợp-đồng-lao-động">
-                    <div id="text-1862655739" class="text">
-
-                      <table style="border-collapse: collapse; width: 100%;">
-                        <tbody>
-                        <tr>
-                          <td style="width: 50%;">
-                            <ul>
-                              <li>Ký hợp đồng dịch vụ nhân sự đối với các vị trí thời vụ</li>
-                            </ul>
-                          </td>
-                          <td style="width: 50%;">
-                            <ul>
-                              <li>Ký hợp đồng lao động cho các nhà máy, tổ chức số lượng nhân công lớn</li>
-                            </ul>
-                          </td>
-                        </tr>
-                        </tbody>
-                      </table>
-
-                      <style>
-                        #text-1862655739 {
-                          font-size: 1.4rem;
-                        }
-                      </style>
-                    </div>
-
-                  </div>
-                  <div class="panel entry-content" id="tab_Đa-ngànnh">
-                    <div id="text-3408898885" class="text">
-
-                      <table style="border-collapse: collapse; width: 100%;">
-                        <tbody>
-                        <tr>
-                          <td style="width: 50%;">
-                            <ul>
-                              <li>Hợp đồng mua bán</li>
-                              <li>Hợp đồng môi giới</li>
-                            </ul>
-                          </td>
-                          <td style="width: 50%;">
-                            <ul>
-                              <li>Đơn đặt hàng</li>
-                              <li>Biên bản nghiệm thu</li>
-                            </ul>
-                          </td>
-                        </tr>
-                        </tbody>
-                      </table>
-
-                      <style>
-                        #text-3408898885 {
-                          font-size: 1.4rem;
-                        }
-                      </style>
-                    </div>
-
-                  </div></div></div>
               </div>
             </div>
 
 
+
+            <style>
+              #row-911234290 > .col > .col-inner {
+                padding: 40px 40px 40px 40px;
+              }
+            </style>
           </div>
         </div>
 
 
         <style>
-          #section_1809087942 {
+          #section_1474637076 {
             padding-top: 30px;
             padding-bottom: 30px;
+            background-color: rgb(247, 245, 244);
           }
-          #section_1809087942 .section-bg-overlay {
-            background-color: rgba(255, 255, 255, 0.5);
-          }
-          #section_1809087942 .ux-shape-divider--top svg {
+          #section_1474637076 .ux-shape-divider--top svg {
             height: 150px;
             --divider-top-width: 100%;
           }
-          #section_1809087942 .ux-shape-divider--bottom svg {
+          #section_1474637076 .ux-shape-divider--bottom svg {
             height: 150px;
             --divider-width: 100%;
           }
         </style>
       </section>
 
-      <div class="row row-large align-middle align-center" style="max-width:" id="row-1862831953">
-
-        <div id="col-276060769" class="col medium-10 small-12 large-10"  >
-          <div class="col-inner text-left"  >
-
-
-            <div id="text-1846903792" class="text">
-
-              <h3 style="text-align: center;"><span style="color: #003366;">Câu Hỏi Thường Gặp</span></h3>
-
-              <style>
-                #text-1846903792 {
-                  font-size: 1.5rem;
-                }
-                @media (min-width:550px) {
-                  #text-1846903792 {
-                    font-size: 2.22rem;
-                  }
-                }
-              </style>
-            </div>
-
-            <div class="accordion" rel="">
-              <div class="accordion-item"><a href="#" class="accordion-title plain"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Đối tác ký Hợp Đồng có cần phải có tài khoản eContract Không ?</span></a><div class="accordion-inner">
-                <p>Đối tác ký hợp đồng điện tử không cần phải có tài khoản eContract. Khi ký hệ thống sẽ cung cấp một tài khoản qua email để người dùng đăng nhập và thực hiện ký số</p>
-              </div></div>
-              <div class="accordion-item"><a href="#" class="accordion-title plain"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hợp Đồng điện tử MobiFone eContract có thời hạn lưu trữ bao lâu?</span></a><div class="accordion-inner">
-                <p>Hợp đồng điện tử sau khi được ký kết sẽ được lưu trữ trên hệ thống của <a href="http://mobifone.vn" target="_blank" rel="noopener">MobiFone</a> trong 10 năm.</p>
-              </div></div>
-              <div class="accordion-item"><a href="#" class="accordion-title plain"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Đối tác là cá nhân không có chữ ký số thì ký hợp đồng bằng cách nào ?</span></a><div class="accordion-inner">
-                <p>Đối tác là cá nhân có thể ký hợp đồng với các công cụ ký điện tử như : usb token, sim PKI, ký ảnh OTP, eKYC.</p>
-              </div></div>
-            </div>
-          </div>
-        </div>
-
-
-      </div>
-
-      <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;"></div>
-      <section class="section" id="section_457818432">
+      <section class="section" id="section_687809174">
         <div class="bg section-bg fill bg-fill  bg-loaded" >
 
 
@@ -2985,9 +3273,9 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
         <div class="section-content relative">
 
           <div class="container section-title-container" ><h3 class="section-title section-title-center"><b></b><span class="section-title-main" style="font-size:183%;">TIN TỨC</span><b></b></h3></div>
-          <div class="row row-small"  id="row-966596410">
+          <div class="row row-small"  id="row-1777356689">
 
-            <div id="col-589831408" class="col small-12 large-12"  >
+            <div id="col-2145430994" class="col small-12 large-12"  >
               <div class="col-inner"  >
 
 
@@ -2996,19 +3284,19 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                 <div class="row large-columns-3 medium-columns- small-columns-1 has-shadow row-box-shadow-1 row-box-shadow-1-hover">
                   <div class="col post-item" >
                     <div class="col-inner">
-                      <a href="https://giaiphap.mobifone.vn/hoa-don-chuyen-doi-tu-hoa-don-dien-tu/" class="plain">
+                      <a href="https://giaiphap.mobifone.vn/huong-dan-cap-nhat-chu-ky-so-tren-he-thong-bhxh/" class="plain">
                         <div class="box box-text-bottom box-blog-post has-hover">
                           <div class="box-image" >
                             <div class="image-zoom image-cover" style="padding-top:56.25%;">
-                              <img width="300" height="158" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1-300x158.jpg" class="attachment-medium size-medium wp-post-image" alt="Hóa đơn chuyển đổi từ hóa đơn điện tử là gì" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1-300x158.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1-1024x538.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1-768x403.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" title="Hóa đơn chuyển đổi từ hóa đơn điện tử là gì? MobiFone 2023 1">  							  							  						</div>
+                              <img width="300" height="183" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/tuyen-kinh-doanh-300x183.jpg" class="attachment-medium size-medium wp-post-image" alt="tuyen kinh doanh" decoding="async" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/tuyen-kinh-doanh-300x183.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/tuyen-kinh-doanh.jpg 646w" sizes="(max-width: 300px) 100vw, 300px" title="Hướng dẫn cập nhật chữ ký số trên hệ thống BHXH 1">  							  							  						</div>
                           </div>
                           <div class="box-text text-center" >
                             <div class="box-text-inner blog-post-inner">
 
 
-                              <h5 class="post-title is-large ">Hóa đơn chuyển đổi từ hóa đơn điện tử là gì? MobiFone 2023</h5>
+                              <h5 class="post-title is-large ">Hướng dẫn cập nhật chữ ký số trên hệ thống BHXH</h5>
                               <div class="is-divider"></div>
-                              <p class="from_the_blog_excerpt ">Hóa đơn chuyển đổi từ hóa đơn điện tử là gì? Hóa đơn chuyển đổi từ..... [ xem tiếp >> ]					</p>
+                              <p class="from_the_blog_excerpt ">Khi nào bạn cần cập nhật chữ ký số trên hệ thống BHXH ? Khi bạn..... [ xem tiếp >> ]					</p>
 
 
 
@@ -3016,7 +3304,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                           </div>
                           <div class="badge absolute top post-date badge-outline">
                             <div class="badge-inner">
-                              <span class="post-date-day">23</span><br>
+                              <span class="post-date-day">12</span><br>
                               <span class="post-date-month is-xsmall">Th12</span>
                             </div>
                           </div>
@@ -3025,19 +3313,19 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                     </div>
                   </div><div class="col post-item" >
                   <div class="col-inner">
-                    <a href="https://giaiphap.mobifone.vn/bang-gia-chu-ky-so-to-chuc-doanh-nghiep/" class="plain">
+                    <a href="https://giaiphap.mobifone.vn/hoa-don-chuyen-doi-tu-hoa-don-dien-tu/" class="plain">
                       <div class="box box-text-bottom box-blog-post has-hover">
                         <div class="box-image" >
                           <div class="image-zoom image-cover" style="padding-top:56.25%;">
-                            <img width="300" height="158" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/bang-gia-chu-ky-so-2-300x158.jpg" class="attachment-medium size-medium wp-post-image" alt="bang-gia-chu-ky-so.jpg" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/bang-gia-chu-ky-so-2-300x158.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/bang-gia-chu-ky-so-2-1024x538.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/bang-gia-chu-ky-so-2-768x403.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/bang-gia-chu-ky-so-2.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" title="Bảng giá chữ ký số cá nhân và tổ chức doanh nghiệp 5">  							  							  						</div>
+                            <img width="300" height="158" src="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1-300x158.jpg" class="attachment-medium size-medium wp-post-image" alt="Hóa đơn chuyển đổi từ hóa đơn điện tử là gì" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1-300x158.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1-1024x538.jpg 1024w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1-768x403.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2022/12/HOA-DON-CHUYEN-DOI-LA-GI-1.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" title="Hóa đơn chuyển đổi từ hóa đơn điện tử là gì? MobiFone 2023 11">  							  							  						</div>
                         </div>
                         <div class="box-text text-center" >
                           <div class="box-text-inner blog-post-inner">
 
 
-                            <h5 class="post-title is-large ">Bảng giá chữ ký số cá nhân và tổ chức doanh nghiệp</h5>
+                            <h5 class="post-title is-large ">Hóa đơn chuyển đổi từ hóa đơn điện tử là gì? MobiFone 2023</h5>
                             <div class="is-divider"></div>
-                            <p class="from_the_blog_excerpt ">Chữ ký số MobiFone?  là một dạng chữ ký điện tử do Tổng Công Ty Dịch..... [ xem tiếp >> ]					</p>
+                            <p class="from_the_blog_excerpt ">Hóa đơn chuyển đổi từ hóa đơn điện tử là gì? Hóa đơn chuyển đổi từ..... [ xem tiếp >> ]					</p>
 
 
 
@@ -3045,7 +3333,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                         </div>
                         <div class="badge absolute top post-date badge-outline">
                           <div class="badge-inner">
-                            <span class="post-date-day">05</span><br>
+                            <span class="post-date-day">23</span><br>
                             <span class="post-date-month is-xsmall">Th12</span>
                           </div>
                         </div>
@@ -3054,19 +3342,19 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                   </div>
                 </div><div class="col post-item" >
                   <div class="col-inner">
-                    <a href="https://giaiphap.mobifone.vn/dang-ky-chu-ky-so/" class="plain">
+                    <a href="https://giaiphap.mobifone.vn/tinh-nang-tong-dai-di-dong-3c-mobifone/" class="plain">
                       <div class="box box-text-bottom box-blog-post has-hover">
                         <div class="box-image" >
                           <div class="image-zoom image-cover" style="padding-top:56.25%;">
-                            <img width="300" height="157" src="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/thue-dien-tu-300x157.jpg" class="attachment-medium size-medium wp-post-image" alt="đăng ký chữ ký số" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/thue-dien-tu-300x157.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/thue-dien-tu.jpg 460w" sizes="(max-width: 300px) 100vw, 300px" title="Hướng dẫn đăng ký chữ ký số với dịch vụ cơ quan nhà nước 2023 6">  							  							  						</div>
+                            <img width="300" height="155" src="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/tinh-nang-tong-dai-di-dong-300x155.jpg" class="attachment-medium size-medium wp-post-image" alt="Tính năng tổng đài đi động 3C" decoding="async" loading="lazy" srcset="https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/tinh-nang-tong-dai-di-dong-300x155.jpg 300w, https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/tinh-nang-tong-dai-di-dong-800x413.jpg 800w, https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/tinh-nang-tong-dai-di-dong-768x397.jpg 768w, https://giaiphap.mobifone.vn/wp-content/uploads/2023/01/tinh-nang-tong-dai-di-dong.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" title="Tính năng tổng đài di động 3C MobiFone - tổng đài tốt nhất 2023 15">  							  							  						</div>
                         </div>
                         <div class="box-text text-center" >
                           <div class="box-text-inner blog-post-inner">
 
 
-                            <h5 class="post-title is-large ">Hướng dẫn đăng ký chữ ký số với dịch vụ cơ quan nhà nước 2023</h5>
+                            <h5 class="post-title is-large ">Tính năng tổng đài di động 3C MobiFone &#8211; tổng đài tốt nhất 2023</h5>
                             <div class="is-divider"></div>
-                            <p class="from_the_blog_excerpt ">Hiện nay, hầu hết các doanh nghiệp đều đăng ký chữ ký số MobiCA để thực..... [ xem tiếp >> ]					</p>
+                            <p class="from_the_blog_excerpt ">Tính năng tổng đài di động 3C MobiFone có những điểm gì vượt trội so với..... [ xem tiếp >> ]					</p>
 
 
 
@@ -3074,7 +3362,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
                         </div>
                         <div class="badge absolute top post-date badge-outline">
                           <div class="badge-inner">
-                            <span class="post-date-day">16</span><br>
+                            <span class="post-date-day">18</span><br>
                             <span class="post-date-month is-xsmall">Th1</span>
                           </div>
                         </div>
@@ -3087,9 +3375,9 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
           </div>
-          <div class="row"  id="row-675164696">
+          <div class="row"  id="row-1166971706">
 
-            <div id="col-518081482" class="col medium-4 small-12 large-4"  >
+            <div id="col-688550140" class="col medium-4 small-12 large-4"  >
               <div class="col-inner"  >
 
 
@@ -3098,7 +3386,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-            <div id="col-830258809" class="col medium-4 small-12 large-4"  >
+            <div id="col-935881399" class="col medium-4 small-12 large-4"  >
               <div class="col-inner text-center"  >
 
 
@@ -3111,7 +3399,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-            <div id="col-1941812495" class="col medium-4 small-12 large-4"  >
+            <div id="col-1055784216" class="col medium-4 small-12 large-4"  >
               <div class="col-inner"  >
 
 
@@ -3124,22 +3412,22 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
         <style>
-          #section_457818432 {
+          #section_687809174 {
             padding-top: 30px;
             padding-bottom: 30px;
           }
-          #section_457818432 .ux-shape-divider--top svg {
+          #section_687809174 .ux-shape-divider--top svg {
             height: 150px;
             --divider-top-width: 100%;
           }
-          #section_457818432 .ux-shape-divider--bottom svg {
+          #section_687809174 .ux-shape-divider--bottom svg {
             height: 150px;
             --divider-width: 100%;
           }
         </style>
       </section>
 
-      <section class="section dark" id="section_1366567898">
+      <section class="section dark" id="section_292774879">
         <div class="bg section-bg fill bg-fill  " >
 
 
@@ -3159,18 +3447,18 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
         <div class="section-content relative">
 
-          <div class="row"  id="row-540645977">
+          <div class="row"  id="row-288872696">
 
-            <div id="col-1731807471" class="col medium-8 small-12 large-8"  >
+            <div id="col-40869087" class="col medium-8 small-12 large-8"  >
               <div class="col-inner text-center"  >
 
 
-                <div class="video video-fit mb" style="padding-top:56.25%;"><p><iframe loading="lazy" title="Giới thiệu MobiFone Econtract" width="1020" height="574" src="https://www.youtube.com/embed/v-5jcCjGWP8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                <div class="video video-fit mb" style="padding-top:56.25%;"><p><iframe loading="lazy" title="Giải pháp Hóa đơn điện tử - MobiFone- Invoice" width="1020" height="574" src="https://www.youtube.com/embed/42d2gNPFWGQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
                 </div>
               </div>
 
               <style>
-                #col-1731807471 > .col-inner {
+                #col-40869087 > .col-inner {
                   margin: 33px 0px -33px 1px;
                 }
               </style>
@@ -3178,14 +3466,14 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
 
-            <div id="col-1971864037" class="col medium-12 small-12 large-4"  >
+            <div id="col-1720465165" class="col medium-12 small-12 large-4"  >
               <div class="col-inner text-center"  >
 
 
-                <div id="gap-1270657344" class="gap-element clearfix" style="display:block; height:auto;">
+                <div id="gap-425625663" class="gap-element clearfix" style="display:block; height:auto;">
 
                   <style>
-                    #gap-1270657344 {
+                    #gap-425625663 {
                       padding-top: 30px;
                     }
                   </style>
@@ -3200,16 +3488,16 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
               </div>
 
               <style>
-                #col-1971864037 > .col-inner {
+                #col-1720465165 > .col-inner {
                   padding: 50px 10% 0px 10%;
                 }
                 @media (min-width:550px) {
-                  #col-1971864037 > .col-inner {
+                  #col-1720465165 > .col-inner {
                     padding: 50px 10% 70px 10%;
                   }
                 }
                 @media (min-width:850px) {
-                  #col-1971864037 > .col-inner {
+                  #col-1720465165 > .col-inner {
                     padding: 114px 10% 0px 10%;
                   }
                 }
@@ -3222,33 +3510,33 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
 
         <style>
-          #section_1366567898 {
+          #section_292774879 {
             padding-top: 66px;
             padding-bottom: 66px;
           }
-          #section_1366567898 .section-bg-overlay {
+          #section_292774879 .section-bg-overlay {
             background-color: rgba(5, 14, 63, 0.802);
           }
-          #section_1366567898 .section-bg.bg-loaded {
+          #section_292774879 .section-bg.bg-loaded {
             background-image: url(https://giaiphap.mobifone.vn/wp-content/uploads/2022/11/Digital-Leadership_1-1-1.jpeg);
           }
-          #section_1366567898 .ux-shape-divider--top svg {
+          #section_292774879 .ux-shape-divider--top svg {
             height: 46px;
             --divider-top-width: 116%;
           }
-          #section_1366567898 .ux-shape-divider--bottom svg {
+          #section_292774879 .ux-shape-divider--bottom svg {
             height: 150px;
             --divider-width: 100%;
           }
           @media (min-width:550px) {
-            #section_1366567898 .section-bg-overlay {
+            #section_292774879 .section-bg-overlay {
               background-color: rgba(17, 27, 85, 0.535);
             }
           }
         </style>
       </section>
 
-      <section class="section" id="section_1911245766">
+      <section class="section" id="section_534865000">
         <div class="bg section-bg fill bg-fill  bg-loaded" >
 
 
@@ -3261,24 +3549,24 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 
         <div class="section-content relative">
 
-          <div id="gap-1068045672" class="gap-element clearfix" style="display:block; height:auto;">
+          <div id="gap-1122821337" class="gap-element clearfix" style="display:block; height:auto;">
 
             <style>
-              #gap-1068045672 {
+              #gap-1122821337 {
                 padding-top: 80px;
               }
             </style>
           </div>
 
-          <div class="row"  id="row-365935196">
+          <div class="row"  id="row-295831819">
 
-            <div id="col-1655811677" class="col medium-6 small-12 large-4 medium-col-first"  >
+            <div id="col-1431658422" class="col medium-6 small-12 large-4 medium-col-first"  >
               <div class="col-inner"  >
 
 
                 <h5><strong><span style="color: #333399;">MOBIFONE CÔNG NGHỆ SỐ</span></strong></h5>
-                <p><strong><span style="color: #333333; font-size: 100%;">Địa chỉ: Toà nhà MobiFone<br />
-MM18 Trường Sơn, P.14, Quận 10, TP.HCM</span></strong></p>
+                <p><span style="color: #333333; font-size: 100%;">Địa chỉ: Toà nhà MobiFone<br />
+MM18 Trường Sơn, P.14, Quận 10, TP.HCM</span></p>
                 <p><span style="color: #333333;">Hotline: 0938 82 82 82</span></p>
                 <p><span style="color: #333333;">Email: giaiphap@mobifone.vn </span></p>
                 <div class="social-icons follow-icons" ><a href="https://www.facebook.com/TTKDMobiFoneGPS" target="_blank" data-label="Facebook" rel="noopener noreferrer nofollow" class="icon primary button circle facebook tooltip" title="Follow on Facebook" aria-label="Follow on Facebook"><i class="icon-facebook" ></i></a><a href="https://www.tiktok.com/@mobifone.cns" target="_blank" rel="noopener noreferrer nofollow" data-label="TikTok" class="icon primary button circle tiktok tooltip" title="Follow on TikTok" aria-label="Follow on TikTok"><i class="icon-tiktok" ></i></a><a href="https://www.youtube.com/@MobiFoneCNS" target="_blank" rel="noopener noreferrer nofollow" data-label="YouTube" class="icon primary button circle  youtube tooltip" title="Follow on YouTube" aria-label="Follow on YouTube"><i class="icon-youtube" ></i></a></div>
@@ -3287,13 +3575,13 @@ MM18 Trường Sơn, P.14, Quận 10, TP.HCM</span></strong></p>
 
 
 
-            <div id="col-665479376" class="col medium-12 small-12 large-5"  >
+            <div id="col-1808395027" class="col medium-12 small-12 large-5"  >
               <div class="col-inner"  >
 
 
-                <div class="row row-small"  id="row-852468080">
+                <div class="row row-small"  id="row-1197937294">
 
-                  <div id="col-1089628621" class="col medium-6 small-12 large-6"  >
+                  <div id="col-877309979" class="col medium-6 small-12 large-6"  >
                     <div class="col-inner"  >
 
 
@@ -3309,7 +3597,7 @@ MM18 Trường Sơn, P.14, Quận 10, TP.HCM</span></strong></p>
 
 
 
-                  <div id="col-1113819572" class="col medium-6 small-12 large-6"  >
+                  <div id="col-1484893294" class="col medium-6 small-12 large-6"  >
                     <div class="col-inner"  >
 
 
@@ -3330,20 +3618,20 @@ MM18 Trường Sơn, P.14, Quận 10, TP.HCM</span></strong></p>
 
 
 
-            <div id="col-1262897623" class="col medium-6 small-12 large-3 medium-col-first"  >
+            <div id="col-1795862920" class="col medium-6 small-12 large-3 medium-col-first"  >
               <div class="col-inner"  >
 
 
                 <h5>LIÊN HỆ VỚI CHÚNG TÔI</h5>
-                <div id="cf7cstmzr-form" class="cf7cstmzr-form-706 cf7cstmzr-form"><div role="form" class="wpcf7" id="wpcf7-f706-p10-o4" lang="vi" dir="ltr">
+                <div id="cf7cstmzr-form" class="cf7cstmzr-form-706 cf7cstmzr-form"><div role="form" class="wpcf7" id="wpcf7-f706-p161-o2" lang="vi" dir="ltr">
                   <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-                  <form action="/hop-dong-dien-tu-mobifone-econtract/#wpcf7-f706-p10-o4" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+                  <form action="/hoa-don-dien-tu-mobifone-invoice/#wpcf7-f706-p161-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
                     <div style="display: none;">
                       <input type="hidden" name="_wpcf7" value="706" />
                       <input type="hidden" name="_wpcf7_version" value="5.6.4" />
                       <input type="hidden" name="_wpcf7_locale" value="vi" />
-                      <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f706-p10-o4" />
-                      <input type="hidden" name="_wpcf7_container_post" value="10" />
+                      <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f706-p161-o2" />
+                      <input type="hidden" name="_wpcf7_container_post" value="161" />
                       <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
                     </div>
                     <p><label> Your email<br />
@@ -3359,22 +3647,20 @@ MM18 Trường Sơn, P.14, Quận 10, TP.HCM</span></strong></p>
 
 
         <style>
-          #section_1911245766 {
+          #section_534865000 {
             padding-top: 0px;
             padding-bottom: 0px;
           }
-          #section_1911245766 .ux-shape-divider--top svg {
+          #section_534865000 .ux-shape-divider--top svg {
             height: 150px;
             --divider-top-width: 100%;
           }
-          #section_1911245766 .ux-shape-divider--bottom svg {
+          #section_534865000 .ux-shape-divider--bottom svg {
             height: 150px;
             --divider-width: 100%;
           }
         </style>
       </section>
-
-      <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;"></div>
 
 
 
@@ -3410,7 +3696,7 @@ MM18 Trường Sơn, P.14, Quận 10, TP.HCM</span></strong></p>
             <li id="menu-item-1185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1185"><a href="https://giaiphap.mobifone.vn/giai-phap-dich-vu/">GIẢI PHÁP &#038; DỊCH VỤ</a></li>
             <li id="menu-item-2498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2498"><a href="https://giaiphap.mobifone.vn/tong-dai-di-dong-cloud-contact-center/">Giải pháp tổng đài di động &#8211; Cloud Contact Center 2023</a></li>
           </ul></div>            <div class="copyright-footer">
-          Copyright 2023 &copy; <strong>Flatsome Theme</strong>      </div>
+          Copyright 2023 © <strong>MobiFone Công Nghệ Số</strong>      </div>
         </div>
       </div>
     </div>
@@ -3447,9 +3733,9 @@ MM18 Trường Sơn, P.14, Quận 10, TP.HCM</span></strong></p>
       <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1004"><a href="https://giaiphap.mobifone.vn/giai-phap-dich-vu-so/">SẢN PHẨM</a>
         <ul class="sub-menu nav-sidebar-ul children">
           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2584"><a href="https://giaiphap.mobifone.vn/tong-dai-di-dong-cloud-contact-center/">Tổng đài di động – Cloud Contact Center</a></li>
-          <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-157"><a href="https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/" aria-current="page">Hợp đồng điện tử – MobiFone Econtract</a></li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://giaiphap.mobifone.vn/hop-dong-dien-tu-mobifone-econtract/">Hợp đồng điện tử – MobiFone Econtract</a></li>
           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://giaiphap.mobifone.vn/chu-ky-so-mobica/">Chữ ký số – MobiCA</a></li>
-          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/">Hóa đơn điện tử – MobiFone Invoice</a></li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-161 current_page_item menu-item-166"><a href="https://giaiphap.mobifone.vn/hoa-don-dien-tu-mobifone-invoice/" aria-current="page">Hóa đơn điện tử – MobiFone Invoice</a></li>
         </ul>
       </li>
       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3571"><a href="https://giaiphap.mobifone.vn/blog/">BLOG</a>
@@ -3624,7 +3910,7 @@ MM18 Trường Sơn, P.14, Quận 10, TP.HCM</span></strong></p>
 var cf7cstmzrJsObj = {"ajaxurl":"https:\/\/giaiphap.mobifone.vn\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://giaiphap.mobifone.vn/wp-content/plugins/cf7-styler/public/js/cf7-customizer-public.js?ver=1.0.01675064368' id='cf7-styler-js'></script>
+<script type='text/javascript' src='https://giaiphap.mobifone.vn/wp-content/plugins/cf7-styler/public/js/cf7-customizer-public.js?ver=1.0.01675648599' id='cf7-styler-js'></script>
 <script type='text/javascript' src='https://giaiphap.mobifone.vn/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4' id='swv-js'></script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
 /* <![CDATA[ */
@@ -3685,7 +3971,7 @@ var flatsomeVars = {"theme":{"version":"3.15.6"},"ajaxurl":"https:\/\/giaiphap.m
 <![endif]-->
 <script type='text/javascript' id='cf7-extras-js-extra'>
 /* <![CDATA[ */
-var cf7_extras = {"events":{"track-ga":[],"redirect-success":[285]},"forms":{"3491":{"title":"Form b\u00e0i vi\u1ebft","redirect_url":""},"285":{"title":"Gi\u1ea3i ph\u00e1p s\u1ed1","redirect_url":"https:\/\/giaiphap.mobifone.vn\/thank-you\/"},"706":{"title":"Form Ng\u1eafn Trang Ch\u1ee7","redirect_url":""}}};
+var cf7_extras = {"events":{"track-ga":[],"redirect-success":[285]},"forms":{"285":{"title":"Gi\u1ea3i ph\u00e1p s\u1ed1","redirect_url":"https:\/\/giaiphap.mobifone.vn\/thank-you\/"},"706":{"title":"Form Ng\u1eafn Trang Ch\u1ee7","redirect_url":""}}};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://giaiphap.mobifone.vn/wp-content/plugins/contact-form-7-extras/assets/js/controls.js?ver=0.8.0' id='cf7-extras-js'></script>
@@ -3693,4 +3979,4 @@ var cf7_extras = {"events":{"track-ga":[],"redirect-success":[285]},"forms":{"34
 </body>
 </html>
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1675064369 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1675648599 -->
