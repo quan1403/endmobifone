@@ -3,7 +3,7 @@
 
 <div class="prdBanner banner pageBanner">
         <div class="featured bannerItem"
-             style="background-image:url(https://giaiphap.mobifone5.vn/wp-content/uploads/2020/02/29.jpg);">
+             style="background-image:url(img/29.jpg);">
             <div class="bannerItemDesc">
                 <div class="container">
                     <div class="row justify-content-center">
@@ -53,7 +53,7 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="desc col-md-5">
-                    <img class="intro-1-logo" alt="">
+                    <img class="intro-1-logo"  src="img/invoice.png" alt="">
                     <div class="sectionTitle">
                         <span>Giới thiệu</span>
                         <h1>Giải pháp Hóa đơn điện tử MobiFone Invoice </h1></div>
@@ -82,7 +82,7 @@
                 </div>
                 <div class="featured col-md-6">
                     <div class="thumbnail"
-                         style="background-image:url(/html/img/0411-03-1.png);"></div>
+                         style="background-image:url(img/0411-03-1.png);"></div>
                 </div>
             </div>
         </div>
@@ -294,70 +294,57 @@
             </div>
         </div>
     </div>
-    <div class="prdBlk boxScreen-1 prdTemp--screenshot-1">
-        <div class="sectionTitle">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-9">
-                        <span>MobiFone Invoice</span>
-                        <h2>Sản phẩm đạt danh hiệu Sao Khuê 2022 </h2></div>
-                </div>
-            </div>
-        </div>
-        <div class="sectionMain">
-            <div class="boxScreen1Bg"
-                 style="background-image:url(/html/img/mac.png);"></div>
-            <div class="listing slider " tabindex="0">
+<%--    <div class="prdBlk boxScreen-1 prdTemp--screenshot-1">--%>
+<%--        <div class="sectionTitle">--%>
+<%--            <div class="container">--%>
+<%--                <div class="row justify-content-center">--%>
+<%--                    <div class="col-md-9">--%>
+<%--                        <span>MobiFone Invoice</span>--%>
+<%--                        <h2>Sản phẩm đạt danh hiệu Sao Khuê 2022 </h2></div>--%>
+<%--                </div>--%>
+<%--            </div>--%>
+<%--        </div>--%>
+<%--        <div class="sectionMain">--%>
+<%--            <div class="boxScreen1Bg"--%>
+<%--                 style="background-image:url(/html/img/mac.png);"></div>--%>
+<%--            <div class="listing slider " tabindex="0">--%>
 
-                <!--        <div class="flickity-viewport" style="height: 413px; touch-action: pan-y;">-->
-                <div class="flickity-slider" style="left: 0px; transform: translateX(0%);"><a data-fancybox="prdScreen1"
-                                                                                              href="../html/img/GDD_5856-scaled.jpg"
-                                                                                              class="boxScreen1Item item is-selected"
-                                                                                              style="background-image: url(https://giaiphap.mobifone5.vn/wp-content/uploads/GDD_5856-scaled.jpg); position: absolute; left: 0%;">
-                    <i class="icon fal fa-plus"></i>
-                </a></div>
-                <!--        </div>-->
-                <!--        <button class="flickity-button flickity-prev-next-button previous" type="button" disabled=""-->
-                <!--                aria-label="Previous">-->
-                <!--          <svg class="flickity-button-icon" viewBox="0 0 100 100">-->
-                <!--            <path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path>-->
-                <!--          </svg>-->
-                <!--        </button>-->
-                <!--        <button class="flickity-button flickity-prev-next-button next" type="button" disabled="" aria-label="Next">-->
-                <!--          <svg class="flickity-button-icon" viewBox="0 0 100 100">-->
-                <!--            <path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"-->
-                <!--                  transform="translate(100, 100) rotate(180) "></path>-->
-                <!--          </svg>-->
-                <!--        </button>-->
-                <!--        <ol class="flickity-page-dots">-->
-                <!--          <li class="dot is-selected" aria-label="Page dot 1" aria-current="step"></li>-->
-                <!--        </ol>-->
+<%--                <!--        <div class="flickity-viewport" style="height: 413px; touch-action: pan-y;">-->--%>
+<%--                <div class="flickity-slider" style="left: 0px; transform: translateX(0%);"><a data-fancybox="prdScreen1"--%>
+<%--                                                                                              href="../html/img/GDD_5856-scaled.jpg"--%>
+<%--                                                                                              class="boxScreen1Item item is-selected"--%>
+<%--                                                                                              style="background-image: url(https://giaiphap.mobifone5.vn/wp-content/uploads/GDD_5856-scaled.jpg); position: absolute; left: 0%;">--%>
+<%--                    <i class="icon fal fa-plus"></i>--%>
+<%--                </a></div>--%>
+<%--                <!--        </div>-->--%>
+<%--                <!--        <button class="flickity-button flickity-prev-next-button previous" type="button" disabled=""-->--%>
+<%--                <!--                aria-label="Previous">-->--%>
+<%--                <!--          <svg class="flickity-button-icon" viewBox="0 0 100 100">-->--%>
+<%--                <!--            <path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path>-->--%>
+<%--                <!--          </svg>-->--%>
+<%--                <!--        </button>-->--%>
+<%--                <!--        <button class="flickity-button flickity-prev-next-button next" type="button" disabled="" aria-label="Next">-->--%>
+<%--                <!--          <svg class="flickity-button-icon" viewBox="0 0 100 100">-->--%>
+<%--                <!--            <path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"-->--%>
+<%--                <!--                  transform="translate(100, 100) rotate(180) "></path>-->--%>
+<%--                <!--          </svg>-->--%>
+<%--                <!--        </button>-->--%>
+<%--                <!--        <ol class="flickity-page-dots">-->--%>
+<%--                <!--          <li class="dot is-selected" aria-label="Page dot 1" aria-current="step"></li>-->--%>
+<%--                <!--        </ol>-->--%>
+<%--            </div>--%>
+<%--        </div>--%>
+<%--    </div>--%>
+<div class="prdBlk prdTemp--pricing-2">
+    <div class="sectionTitle">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-9">
+                    <span> MobiFone Invoice</span>
+                    <h2> Bảng giá </h2></div>
             </div>
         </div>
     </div>
-    <div class="prdBlk prdTemp--pricing-2">
-        <div class="section-content relative">
-
-            <div class="row"  id="row-1834453987">
-
-                <div id="col-1049611916" class="col small-12 large-12"  >
-                    <div class="col-inner text-center"  >
-
-
-                        <div id="text-2723576121" class="text">
-
-                            <h2><span style="font-size: 100%; color: #ffffff;">BẢNG GIÁ HOÁ ĐƠN ĐIỆN TỬ</span></h2>
-                            <p><span style="color: #ffffff;">Rất nhiều gói phù hợp với nhu cầu của doanh nghiệp bạn</span><br />
-
-                                <style>
-                                    #text-2723576121 {
-                                        font-size: 1.25rem;
-                                        text-align: center;
-                                    }
-                                </style>
-                        </div>
-
-                    </div>
 
                     <style>
                         #col-1049611916 > .col-inner {
@@ -399,7 +386,7 @@
                     <div class="row row-small align-equal align-center"  id="row-505182213">
 
                         <div id="col-763150884" class="col medium-8 small-12 large-4"  >
-                            <div class="col-inner text-left box-shadow-3"  >
+                            <div class="col-inner text-left box-shadow-3"  style="background-color:rgb(208, 10, 10);"  >
 
 
                                 <h3 style="text-align: center;">E300</h3>
@@ -421,7 +408,7 @@
                                     <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
                                     <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                                 </ul>
-                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">270.000<br />
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">270.000</span><br />
 </span>VNĐ/ GÓI</p>
 
 
@@ -475,7 +462,7 @@
 
 
                         <div id="col-1991587957" class="col medium-8 small-12 large-4"  >
-                            <div class="col-inner text-left box-shadow-3"  >
+                            <div class="col-inner text-left box-shadow-3"  style="background-color:rgb(208, 10, 10);" >
 
 
                                 <h3 style="text-align: center;">E700</h3>
@@ -497,7 +484,7 @@
                                     <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
                                     <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                                 </ul>
-                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">400.000<br />
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">400.000</span><br />
 </span>VNĐ/ GÓI</p>
 
 
@@ -522,7 +509,7 @@
                     <div class="row row-small align-equal align-center"  id="row-106892367">
 
                         <div id="col-405666932" class="col medium-8 small-12 large-4"  >
-                            <div class="col-inner text-left box-shadow-3"  >
+                            <div class="col-inner text-left box-shadow-3"  style="background-color:rgb(208, 10, 10);"  >
 
 
                                 <h3 style="text-align: center;">E1500</h3>
@@ -544,7 +531,7 @@
                                     <li class="bullet-checkmark">Phí khởi tạo : 500.000vnd</li>
                                     <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                                 </ul>
-                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">780.000<br />
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color:#333399;"> <span style="color: #ffffff;">780.000</span><br />
 </span>VNĐ/ GÓI</p>
 
 
@@ -598,7 +585,7 @@
 
 
                         <div id="col-1745883172" class="col medium-8 small-12 large-4"  >
-                            <div class="col-inner text-left box-shadow-3"  >
+                            <div class="col-inner text-left box-shadow-3"  style="background-color:rgb(208, 10, 10);"  >
 
 
                                 <h3 style="text-align: center;">E4500</h3>
@@ -620,7 +607,7 @@
                                     <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
                                     <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                                 </ul>
-                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">1.800.000<br />
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">1.800.000</span><br />
 </span>VNĐ/ GÓI</p>
 
 
@@ -645,7 +632,7 @@
                     <div class="row row-small align-equal align-center"  id="row-609349653">
 
                         <div id="col-1704222438" class="col medium-8 small-12 large-4"  >
-                            <div class="col-inner text-left box-shadow-3"  >
+                            <div class="col-inner text-left box-shadow-3"  style="background-color:rgb(208, 10, 10);" >
 
 
                                 <h3 style="text-align: center;">E7500</h3>
@@ -667,11 +654,9 @@
                                     <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
                                     <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                                 </ul>
-                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">2.900.000<br />
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">2.900.000</span><br />
 </span>VNĐ/ GÓI</p>
-                                <a class="button primary is-small lowercase expand"  style="border-radius:9px;">
-                                    <i class="icon-shopping-basket" ></i>  <span>Đăng ký sử dụng</span>
-                                </a>
+
 
                             </div>
 
@@ -723,7 +708,7 @@
 
 
                         <div id="col-1371324257" class="col medium-8 small-12 large-4"  >
-                            <div class="col-inner text-left box-shadow-3"  >
+                            <div class="col-inner text-left box-shadow-3"  style="background-color:rgb(208, 10, 10);" >
 
 
                                 <h3 style="text-align: center;">E30000</h3>
@@ -745,7 +730,7 @@
                                     <li class="bullet-checkmark">Phí khởi tạo : miễn phí</li>
                                     <li class="bullet-checkmark">Phần mềm: đã có thuế VAT</li>
                                 </ul>
-                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">8.500.000<br />
+                                <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;"><span style="color: #ffffff;">8.500.000</span><br />
 </span>VNĐ/ GÓI</p>
 
 

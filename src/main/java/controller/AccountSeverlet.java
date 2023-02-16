@@ -1,8 +1,7 @@
 package controller;
 
 import DAO.AccountDao;
-import model.Account;
-import sun.rmi.server.Dispatcher;
+import model.LDAccount;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -61,7 +60,6 @@ public class AccountSeverlet extends HttpServlet {
         switch (action) {
             case "create":
                 createAccount(req, resp);
-//                req.getRequestDispatcher("/html/admin.jsp");
                 break;
             case "edit":
                 updateAccount(req, resp);
@@ -75,7 +73,7 @@ public class AccountSeverlet extends HttpServlet {
                 if (searchName==""){
                     showAccount(req, resp);
                 }else {
-                    List<Account> accounts = accountDao.getSearch(searchName);
+                    List<LDAccount> accounts = accountDao.getSearch(searchName);
                     req.setAttribute("accounts", accounts);
                     RequestDispatcher dispatcher = req.getRequestDispatcher("/html/admin.jsp");
                     dispatcher.forward(req, resp);
@@ -87,23 +85,24 @@ public class AccountSeverlet extends HttpServlet {
     }
 
     public void showAccount(HttpServletRequest request, HttpServletResponse response) {
-     String indexPage = request.getParameter("index");
+    String indexPage = request.getParameter("index");
 
-        if (indexPage == null){
-            indexPage = "1";
+      if (indexPage == null){
+          indexPage = "1";
 
-        }
-        int index = Integer.parseInt(indexPage);
-        AccountDao accountDao = new AccountDao();
-        int count = accountDao.getTotalAccount();
-        int endPage = count/3;
-        if (count % 3 != 0){
+       }
+     int index = Integer.parseInt(indexPage);
+    AccountDao accountDao = new AccountDao();
+      int count = accountDao.getTotalAccount();
+      int endPage = count/3;
+       if (count % 3 != 0){
             endPage++;
-        }
-        request.setAttribute("page",endPage);
-        List<Account> accounts = accountDao.pagingAccount(index);
+       }
+       request.setAttribute("page",endPage);
+        List<LDAccount> accounts = accountDao.pagingAccount(index);
+//        List<LDAccount> accounts = accountDao.getAll();
         request.setAttribute("accounts", accounts);
-        request.setAttribute("tag",index);
+       request.setAttribute("tag",index);
         RequestDispatcher dispatcher = request.getRequestDispatcher("/html/admin.jsp");
         try {
             dispatcher.forward(request, response);
@@ -116,7 +115,7 @@ public class AccountSeverlet extends HttpServlet {
     }
 
     public void showCreate(HttpServletRequest request, HttpServletResponse response) {
-        List<Account> accounts = accountDao.getAll();
+        List<LDAccount> accounts = accountDao.getAll();
         request.setAttribute("accounts", accounts);
         RequestDispatcher dispatcher = request.getRequestDispatcher("/html/create.jsp");
         try {
@@ -130,7 +129,7 @@ public class AccountSeverlet extends HttpServlet {
 
     private void showEditForm(HttpServletRequest request, HttpServletResponse response) {
         int id = Integer.parseInt(request.getParameter("id"));
-        Account account = accountDao.findById(id);
+        LDAccount account = accountDao.findById(id);
         RequestDispatcher dispatcher;
         if (account == null) {
             dispatcher = request.getRequestDispatcher("/html/error-404.jsp");
@@ -149,7 +148,7 @@ public class AccountSeverlet extends HttpServlet {
 
     private void showDelete(HttpServletRequest request, HttpServletResponse response) {
         int id = Integer.parseInt(request.getParameter("id"));
-        Account account = accountDao.findById(id);
+        LDAccount account = accountDao.findById(id);
         RequestDispatcher dispatcher;
         if (account == null) {
             dispatcher = request.getRequestDispatcher("/html/error-404.jsp");
@@ -168,14 +167,14 @@ public class AccountSeverlet extends HttpServlet {
 
     public void createAccount(HttpServletRequest request, HttpServletResponse response) {
 //       int id = Integer.parseInt(request.getParameter("id"));
-        String UserName = request.getParameter("userName");
-        String passWord = request.getParameter("passWord");
-        String role = request.getParameter("role");
+        String userName = request.getParameter("userName");
+        String pasWord = request.getParameter("pasWord");
+        String role_acc = request.getParameter("role_acc");
         String status = request.getParameter("status");
         if (status == null){
             status = "normal";
         }
-        Account ac = new Account( UserName, passWord,role,status);
+        LDAccount ac = new LDAccount( userName, pasWord,role_acc,status);
             accountDao.create(ac);
             RequestDispatcher dispatcher = request.getRequestDispatcher("/html/create.jsp");
             request.setAttribute("message", "New account was created");
@@ -190,10 +189,10 @@ public class AccountSeverlet extends HttpServlet {
     public void updateAccount(HttpServletRequest request, HttpServletResponse response) {
        int id = Integer.parseInt(request.getParameter("id"));
         String userName = request.getParameter("userName");
-        String passWord = request.getParameter("passWord");
-        String role = request.getParameter("role");
+        String pasWord = request.getParameter("pasWord");
+        String role_acc = request.getParameter("role_acc");
         String status = request.getParameter("status");
-        Account account = new Account(id, userName, passWord, role,status);
+        LDAccount account = new LDAccount(id, userName, pasWord, role_acc,status);
         RequestDispatcher dispatcher;
         if (account == null) {
             dispatcher = request.getRequestDispatcher("error-404.jsp");
@@ -216,7 +215,7 @@ public class AccountSeverlet extends HttpServlet {
     public void deleteAccount(HttpServletRequest request, HttpServletResponse response) {
         int id = Integer.parseInt(request.getParameter("id"));
 
-        Account account = accountDao.findById(id);
+        LDAccount account = accountDao.findById(id);
         if (account == null) {
             request.getRequestDispatcher("error-404.jsp");
         } else {

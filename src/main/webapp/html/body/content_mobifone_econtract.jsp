@@ -2,7 +2,7 @@
 <link rel='stylesheet' href="css/econtract.css"  />
 <div class="prdBanner banner pageBanner">
     <div class="featured bannerItem"
-         style="background-image:url(https://giaiphap.mobifone5.vn/wp-content/uploads/2020/02/29.jpg);">
+         style="background-image:url(img/mobifoneEcontract.jpg);">
         <div class="bannerItemDesc">
             <div class="container">
                 <div class="row justify-content-center">
@@ -12,10 +12,10 @@
                         </div>
                         <!-- <h1 class="bannerItemTitle">cyber security services</h1> -->
                         <h1 class="bannerItemTitle">
-                            MobiFone Econtract</h1>
+                            MobiFone eContract</h1>
                         <div class="bannerItemTxt">
 
-                            <p>Hợp đồng điện tử MobiFone Econtract</p>
+                            <p>Hợp đồng điện tử MobiFone eContract</p>
                         </div>
 
                         <nav aria-label="breadcrumb">
@@ -28,7 +28,7 @@
                                         Doanh nghiệp số </a>
 
                                 </li>
-                                <li class="breadcrumb-item active" aria-current="page">MobiFone Econtract</li>
+                                <li class="breadcrumb-item active" aria-current="page">MobiFone eContract</li>
                             </ol>
                         </nav>
                     </div>
@@ -52,10 +52,10 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="desc col-md-5">
-                <img class="intro-1-logo" alt="">
+                <img class="intro-1-logo" src="img/econtract.jpg" width="150" height="50" alt="">
                 <div class="sectionTitle">
                     <span>Giới thiệu</span>
-                    <h1>Hợp đồng điện tử MobiFone Econtract </h1></div>
+                    <h1>Hợp đồng điện tử MobiFone eContract </h1></div>
                 <div class="sectionMain">
                     <article>
                         <p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span
@@ -75,7 +75,7 @@
             </div>
             <div class="featured col-md-6">
                 <div class="thumbnail"
-                     style="background-image:url(/html/img/hop-dong-dien-tu-mobifone-econtract-05-1024x761.jpg);"></div>
+                     style="background-image:url(img/hop-dong-dien-tu-mobifone-econtract-05-1024x761.jpg);"></div>
             </div>
         </div>
     </div>
@@ -179,7 +179,7 @@
 <div class="container">
     <div class="prdBlk prdTemp--feature-4">
         <div class="sectionTitle align--center">
-            <span>MobiFone Econtract</span>
+            <span>MobiFone eContract</span>
             <h2>Tính năng của giải pháp </h2></div>
         <div class="sectionMain align--center">
             <div class="listing row">
@@ -295,7 +295,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <span> MobiFone Econtract</span>
+                    <span> MobiFone eContract</span>
                     <h2> Bảng giá </h2></div>
             </div>
         </div>
@@ -325,7 +325,7 @@
         <div class="row align-equal align-center"  id="row-680425198">
 
             <div id="col-74389205" class="col medium-8 small-12 large-4"  >
-                <div class="col-inner text-left box-shadow-3"  >
+                <div class="col-inner text-left box-shadow-3" style="background-color:rgb(208, 10, 10);" >
 
 
                     <h3 style="text-align: center;">eContract_100</h3>
@@ -346,7 +346,7 @@
                         <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
                         <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">550.000<br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #ffffff;">550.000<br />
 </span>VNĐ/ GÓI</p>
 
 
@@ -399,7 +399,7 @@
 
 
             <div id="col-1872597541" class="col medium-8 small-12 large-4"  >
-                <div class="col-inner text-left box-shadow-3"  >
+                <div class="col-inner text-left box-shadow-3" style="background-color:rgb(208, 10, 10);" >
 
 
                     <h3 style="text-align: center;">eContract_500</h3>
@@ -420,7 +420,7 @@
                         <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
                         <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">2.550.000<br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #ffffff;">2.550.000<br />
 </span>VNĐ/ GÓI</p>
 
                 </div>
@@ -444,7 +444,7 @@
         <div class="row align-equal align-center"  id="row-1648294006">
 
             <div id="col-788150800" class="col medium-8 small-12 large-4"  >
-                <div class="col-inner text-left box-shadow-3"  >
+                <div class="col-inner text-left box-shadow-3" style="background-color:rgb(208, 10, 10);" >
 
 
                     <h3 style="text-align: center;">eContract_1000</h3>
@@ -465,7 +465,7 @@
                         <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
                         <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">4.700.000<br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #ffffff;">4.700.000<br />
 </span>VNĐ/ GÓI</p>
 
 
@@ -518,7 +518,7 @@
 
 
             <div id="col-121894930" class="col medium-8 small-12 large-4"  >
-                <div class="col-inner text-left box-shadow-3"  >
+                <div class="col-inner text-left box-shadow-3" style="background-color:rgb(208, 10, 10);" >
 
 
                     <h3 style="text-align: center;">eContract_5000</h3>
@@ -539,7 +539,7 @@
                         <li class="bullet-checkmark">Phí duy trì: 1.000.000đ /năm</li>
                         <li class="bullet-checkmark">Phần mềm: ko chịu thuế VAT</li>
                     </ul>
-                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">20.000.000<br />
+                    <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #ffffff;">20.000.000<br />
 </span>VNĐ/ GÓI</p>
 
 

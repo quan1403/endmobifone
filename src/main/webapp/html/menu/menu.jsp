@@ -17,7 +17,7 @@
                 </div>
                 <div class="headerMenu">
                     <div class="headerMenuItem mainMenuItem"><a href="home.jsp">Trang chủ</a></div>
-                    <div class="headerMenuItem mainMenuItem"><a href="vechungtoi.jsp">Về chúng tôi</a></div>
+<%--                    <div class="headerMenuItem mainMenuItem"><a href="vechungtoi.jsp">Về chúng tôi</a></div>--%>
                     <div class="headerMenuItem mainMenuItem">
                         <span>Giải pháp &amp; dịch vụ</span>
                         <div class="headerSubMenu">
@@ -214,7 +214,7 @@
                            10 </span>
                            </a> -->
                     </div>
-                    <div class="headerMenuItem mainMenuItem"><a href="news.jsp">Tin tức</a></div>
+<%--                    <div class="headerMenuItem mainMenuItem"><a href="news.jsp">Tin tức</a></div>--%>
                     <div class="headerMenuItem mainMenuItem"><a href="lienhe.jsp">Liên hệ</a></div>
                 </div>
                 <div class="lang">

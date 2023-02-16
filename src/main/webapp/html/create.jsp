@@ -28,13 +28,14 @@
 <%--        <td>Id:</td>--%>
 <%--        <td><input type="text" name="id" > </td>--%>
 <%--      </tr>--%>
+
       <tr>
         <td>userName:</td>
         <td><input type="text" name="userName" ></td>
       </tr>
       <tr>
         <td>passWord:</td>
-        <td><input type="text" name="passWord" ></td>
+        <td><input type="text" name="pasWord" ></td>
       </tr>
 <%--      <tr>--%>
 <%--        <td>passWord:</td>--%>
@@ -42,7 +43,7 @@
 <%--      </tr>--%>
       <tr>
         <td>role:</td>
-        <td><select name="role">
+        <td><select name="role_acc">
           <option value="user">user</option>
           <option value="admin">admin</option>
         </select></td>

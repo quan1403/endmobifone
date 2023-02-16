@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
 <div class="prdBanner banner pageBanner">
         <div class="featured bannerItem"
-             style="background-image:url(https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/621477-PNUCBO-999.jpg);">
+             style="background-image:url(img/621477-PNUCBO-999.jpg);">
             <div class="bannerItemDesc">
                 <div class="container">
                     <div class="row justify-content-center">
@@ -51,7 +51,7 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="desc col-md-5">
-                    <img class="intro-1-logo" src="../html/img/3C.png" alt="">
+                    <img class="intro-1-logo" src="img/3C.png" alt="">
                     <div class="sectionTitle">
                         <span>Giới thiệu</span>
                         <h2> Giải pháp tổng đài di động trên nền tảng điện toán đám mây </h2></div>
@@ -75,7 +75,7 @@
                 </div>
                 <div class="featured col-md-6">
                     <div class="thumbnail"
-                         style="background-image:url(https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/cartoon-man-woman-headphone-answer-client-call_82574-6860.jpg);"></div>
+                         style="background-image:url(img/cartoon-man-woman-headphone-answer-client-call_82574-6860.jpg);"></div>
                 </div>
             </div>
         </div>
@@ -289,23 +289,23 @@
                 <div class="flickity-slider" style="left: 0px; transform: translateX(0%);">
                     <iframe class="boxScreen1Item is-selected" src="https://www.youtube.com/embed/mLDCdT3aphA" frameborder="0"
                             style="position: absolute; left: 0%;"></iframe>
-                    <a data-fancybox="prdScreen1" href="../html/img/Picture1.png"
+                    <a data-fancybox="prdScreen1" href="img/Picture1.png"
                        class="boxScreen1Item item"
                        style="background-image: url(/html/img/Picture1.png); position: absolute; left: 100%;"
                        aria-hidden="true">
                         <i class="icon fal fa-plus"></i>
                     </a><a data-fancybox="prdScreen1"
-                           href="../html/img/Picture2.png"
+                           href="img/Picture2.png"
                            class="boxScreen1Item item"
                            style="background-image: url(https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/Picture2.png); position: absolute; left: 200%;"
                            aria-hidden="true">
                     <i class="icon fal fa-plus"></i>
-                </a><a data-fancybox="prdScreen1" href="../html/img/Picture3.png"
+                </a><a data-fancybox="prdScreen1" href="img/Picture3.png"
                        class="boxScreen1Item item"
                        style="background-image: url(https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/Picture3.png); position: absolute; left: 300%;"
                        aria-hidden="true">
                     <i class="icon fal fa-plus"></i>
-                </a><a data-fancybox="prdScreen1" href="../html/img/Picture4.png"
+                </a><a data-fancybox="prdScreen1" href="img/Picture4.png"
                        class="boxScreen1Item item"
                        style="background-image: url(https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/Picture4.png); position: absolute; left: 400%;"
                        aria-hidden="true">
@@ -345,7 +345,7 @@
                             liên hệ:</h5>
                     </article>
                 </div>
-                <a href="../html/pdf/bang_gia_3c.pdf"
+                <a href="pdf/bang_gia_3c.pdf"
                    class="btn btnTheme type-white downloadPriceDoc" target="_blank">
                     <i class="fa fa-file" style="font-size:24px"></i> Tải bảng giá
                 </a>

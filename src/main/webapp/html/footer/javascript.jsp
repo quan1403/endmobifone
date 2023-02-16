@@ -35,13 +35,15 @@
         <!-- v3 -->
         <!-- contact form -->
         <div id="contact-form-vr" class="button-contact">
-            <%--               <div class="phone-vr">--%>
-            <%--                  <div class="phone-vr-circle-fill"></div>--%>
-            <%--                  <div class="phone-vr-img-circle">--%>
-            <button type="button" class="btn btn-danger">Đăng ký ngay</button>
-            <%--                  </div>--%>
-            <%--               </div>--%>
+            <div class="phone-vr" >
+                    <div class="phone-vr-circle-fill" >
+                        <button  type="button" class="btn btn-danger">Đăng ký ngay</button>
+                    </div>
+
+
+            </div>
         </div>
+
         <!-- end contact form -->
         <!-- showroom -->
         <!-- end showroom -->
@@ -55,7 +57,7 @@
                 <div class="phone-vr-circle-fill"></div>
                 <div class="phone-vr-img-circle">
                     <a target="_blank" href="https://zalo.me/0936001090">
-                        <img src="../html/img/zalo.png"/>
+                        <img src="img/zalo.png"/>
                     </a>
                 </div>
             </div>
@@ -92,23 +94,23 @@
 
                     <form action="/customer?action=register" method="post">
                         <div class="form-group">
-                            <input type="text" placeholder="Tên công ty,doanh nghiệp, tổ chức" name="nameCompany"
+                            <input required type="text" placeholder="Tên công ty,doanh nghiệp, tổ chức" name="nameCompany"
                                    class="form-control">
                         </div>
                         <div class="form-group">
-                            <input type="text" placeholder="Tên người liên hệ" name="fullName" class="form-control">
+                            <input required type="text" placeholder="Tên người liên hệ" name="fullName" class="form-control">
 
                         </div>
                         <div class="form-group">
-                            <input type="text" placeholder="Số điện thoại" name="phoneNumber" class="form-control">
+                            <input required type="text" placeholder="Số điện thoại" name="phoneNumber" class="form-control">
 
                         </div>
                         <div class="form-group">
-                            <input type="text" placeholder="Email" name="email" class="form-control">
+                            <input required type="text" placeholder="Email" name="email" class="form-control">
 
                         </div>
                         <div class="form-group">
-                            <select name="product" id="product-option" class="form-control">
+                            <select  name="product" id="product-option" class="form-control">
                                 <option  value="" disabled selected>Sản phẩm quan tâm</option>
                                 <%--                                        <option value="MobiFone Smart Sales">MobiFone Smart Sales</option>--%>
                                 <%--                                        <option value="MobiFone Smart Office">MobiFone Smart Office</option>--%>
@@ -121,10 +123,6 @@
                                 <option value="MobiCA">MobiCA</option>
                                 </option>
                             </select>
-                        </div>
-                        <div class="form-group">
-                            <input type="date" name="date" class="form-control">
-
                         </div>
                         <tr>
                             <td>
@@ -252,9 +250,8 @@
     if(currentPage ==="mobifone-econtract.jsp"){
       $("#product-option").val('MobiFone Econtract')
     }
-
-
 </script>
+
 <script>
     function getCurrent1URL() {
         return window.location.href

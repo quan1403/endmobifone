@@ -23,11 +23,11 @@
             </tr>
             <tr>
                 <td>PassWord </td>
-                <td><input type="text" name="passWord"  value="${requestScope["accounts"].getPassWord()}"></td>
+                <td><input type="text" name="pasWord"  value="${requestScope["accounts"].getPasWord()}"></td>
             </tr>
             <tr>
                 <td>Role: </td>
-                <td><input type="text" name="role" readonly value="${requestScope["accounts"].getRole()}"></td>
+                <td><input type="text" name="role_acc" readonly value="${requestScope["accounts"].getRole_acc()}"></td>
             </tr>
             <tr>
                 <td></td>

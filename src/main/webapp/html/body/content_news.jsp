@@ -7,7 +7,7 @@
             <div class="bannerItem item" style="position: absolute; left: 0%;" aria-hidden="true">
 
                 <div class="bannerItemImg thumbnail"
-                     style="background-image:url(/html/img/Digital-transformation.png);"></div>
+                     style="background-image:url(img/Digital-transformation.png);"></div>
 
                 <div class="container">
 
@@ -1589,7 +1589,7 @@
                         <a
                                 href="https://giaiphap.mobifone5.vn/ceo-cua-meta-thong-bao-rang-cong-nghe-nft-se-som-co-mat-tren-ung-dung-instagram.html"
                                 class="boxPostThumbnail"
-                                style="background-image:url(/html/img/275186715_792191771741464_7660865289976479835_n.png);">
+                                style="background-image:url(img/275186715_792191771741464_7660865289976479835_n.png);">
 
                         </a>
 
@@ -1811,7 +1811,7 @@
                         <a
                                 href="https://giaiphap.mobifone5.vn/facebook-bi-cao-buoc-2-3-ty-bang-anh-vi-da-su-dung-du-lieu-cua-nguoi-dung-tai-anh.html"
                                 class="boxPostThumbnail"
-                                style="background-image:url(/html/img/272391274_1023653804856438_4239458896738693071_n.png);">
+                                style="background-image:url(img/272391274_1023653804856438_4239458896738693071_n.png);">
 
                         </a>
 
@@ -1843,7 +1843,7 @@
                         <a
                                 href="https://giaiphap.mobifone5.vn/vodafone-hop-tac-cung-nen-tang-dam-may-oracle-de-nang-cap-loi-5g.html"
                                 class="boxPostThumbnail"
-                                style="background-image:url(/html/img/vodafonexoracle.png);">
+                                style="background-image:url(img/vodafonexoracle.png);">
 
                         </a>
 
@@ -1998,7 +1998,7 @@
 
                         <a href="https://giaiphap.mobifone5.vn/google-quyet-dinh-dau-tu-1-ti-usd-vao-bharti-airtel.html"
                            class="boxPostThumbnail"
-                           style="background-image:url(/html/img/270862925_811162860282050_238316825993607800_n-3.png);">
+                           style="background-image:url(img/270862925_811162860282050_238316825993607800_n-3.png);">
 
                         </a>
 
@@ -2349,7 +2349,7 @@
                         <a
                                 href="https://giaiphap.mobifone5.vn/mobifone-ket-hop-voi-cmc-telecom-ra-mat-san-pham-mobicloud-dich-vu-cung-cap-luu-tru-cloud-cho-khach-hang-ca-nhan.html"
                                 class="boxPostThumbnail"
-                                style="background-image:url(/html/img/MobiCloud-505x324-33.png);">
+                                style="background-image:url(img/MobiCloud-505x324-33.png);">
 
                         </a>
 
@@ -2413,7 +2413,7 @@
                         <a
                                 href="https://giaiphap.mobifone5.vn/chuyen-doi-so-tu-chu-truong-cua-chinh-phu-den-hanh-dong-cua-doanh-nghiep.html"
                                 class="boxPostThumbnail"
-                                style="background-image:url(/html/img/b1.png);">
+                                style="background-image:url(img/b1.png);">
 
                         </a>
 
@@ -2603,7 +2603,7 @@
                     <div class="boxPost">
 
                         <a href="https://giaiphap.mobifone5.vn/phan-mem-hop-truc-tuyen.html" class="boxPostThumbnail"
-                           style="background-image:url(/html/img/Phan-mem-hop-truc-tuyen-1-1.png);">
+                           style="background-image:url(img/Phan-mem-hop-truc-tuyen-1-1.png);">
 
                         </a>
 
@@ -2690,7 +2690,7 @@
                     <div class="boxPost">
 
                         <a href="https://giaiphap.mobifone5.vn/chung-thu-so-la-gi.html" class="boxPostThumbnail"
-                           style="background-image:url(/html/img/Chung-thu-so-1.png);">
+                           style="background-image:url(img/Chung-thu-so-1.png);">
 
                         </a>
 
@@ -2719,7 +2719,7 @@
                     <div class="boxPost">
 
                         <a href="https://giaiphap.mobifone5.vn/phan-mem-ke-toan-ban-hang-gia-re.html" class="boxPostThumbnail"
-                           style="background-image:url(/html/img/Phan-mem-ke-toan-3.png);">
+                           style="background-image:url(img/Phan-mem-ke-toan-3.png);">
 
                         </a>
 
@@ -3410,7 +3410,7 @@
 
                         <a href="https://giaiphap.mobifone5.vn/chuyen-doi-so-va-nhung-thach-thuc-dat-ra.html"
                            class="boxPostThumbnail"
-                           style="background-image:url(/html/img/Digital-transformation.png);">
+                           style="background-image:url(img/Digital-transformation.png);">
 
                         </a>
 
@@ -3503,7 +3503,7 @@
 
                         <a href="https://giaiphap.mobifone5.vn/chinh-phu-dien-tu-va-nhung-loi-ich-dem-lai.html"
                            class="boxPostThumbnail"
-                           style="background-image:url(/html/img/11.png);">
+                           style="background-image:url(img/11.png);">
 
                         </a>
 
@@ -3723,7 +3723,7 @@
                         <a
                                 href="https://giaiphap.mobifone5.vn/bi-hack-bat-phai-tra-tien-chuoc-nan-nhan-quyet-tam-hack-lai-may-chu-cua-nhom-lua-dao-va-thanh-cong.html"
                                 class="boxPostThumbnail"
-                                style="background-image:url(/html/img/screenshot-2019-10-08-at-145513-15711358758231138131257.png);">
+                                style="background-image:url(img/screenshot-2019-10-08-at-145513-15711358758231138131257.png);">
 
                         </a>
 
@@ -3851,7 +3851,7 @@
                         <a
                                 href="https://giaiphap.mobifone5.vn/nhin-nhung-buc-anh-phi-thuong-tu-pixel-4-it-nguoi-nghi-do-la-anh-chup-bang-dien-thoai.html"
                                 class="boxPostThumbnail"
-                                style="background-image:url(/html/img/zoooming-1571171231439865737700.png);">
+                                style="background-image:url(img/zoooming-1571171231439865737700.png);">
 
                         </a>
 

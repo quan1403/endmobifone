@@ -3,7 +3,7 @@
 
 <div class="prdBanner banner pageBanner">
         <div class="featured bannerItem"
-             style="background-image:url(/html/img/ruka.png);">
+             style="background-image:url(img/ruka.png);">
             <div class="bannerItemDesc">
                 <div class="container">
                     <div class="row justify-content-center">
@@ -53,7 +53,7 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="desc col-md-5">
-                    <img class="intro-1-logo" src="../html/img/Asset-1@4x.png"
+                    <img class="intro-1-logo" src="img/Asset-1@4x.png"
                          alt="">
                     <div class="sectionTitle">
                         <span>Giới thiệu MobiCA</span>
@@ -68,7 +68,7 @@
                 </div>
                 <div class="featured col-md-6">
                     <div class="thumbnail"
-                         style="background-image:url(/html/img/businessman-hand-sign-digital-signature-tablet_169241-195.jpg);"></div>
+                         style="background-image:url(img/businessman-hand-sign-digital-signature-tablet_169241-195.jpg);"></div>
                 </div>
             </div>
         </div>
@@ -263,7 +263,7 @@
             <div class="row align-equal align-center"  id="row-756207352">
 
                 <div id="col-2014918767" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
-                    <div class="col-inner text-left box-shadow-3"  >
+                    <div class="col-inner text-left box-shadow-3" style="background-color:rgb(208, 10, 10);" >
 
 
                         <h3 style="text-align: center;">Gói 1 năm</h3>
@@ -284,7 +284,7 @@
                             <li class="bullet-checkmark">Gía gia hạn dịch vụ: 467.500 vnđ</li>
                             <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
                         </ul>
-                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">748.000<br />
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #ffffff;">748.000<br />
 </span>VNĐ/ GÓI</p>
 
 
@@ -337,7 +337,7 @@
 
 
                 <div id="col-1199355938" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
-                    <div class="col-inner text-left box-shadow-3"  >
+                    <div class="col-inner text-left box-shadow-3" style="background-color:rgb(208, 10, 10);" >
 
 
                         <h3 style="text-align: center;">Gói 3 năm</h3>
@@ -358,7 +358,7 @@
                             <li class="bullet-checkmark">Gía gia hạn dịch vụ: 1.210.000 vnđ</li>
                             <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
                         </ul>
-                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">1.028.500<br />
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #ffffff;">1.028.500<br />
 </span>VNĐ/ GÓI</p>
 
 
@@ -407,7 +407,7 @@
             <div class="row align-equal align-center"  id="row-617731636">
 
                 <div id="col-296208528" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
-                    <div class="col-inner text-left box-shadow-3"  >
+                    <div class="col-inner text-left box-shadow-3" style="background-color:rgb(208, 10, 10);" >
 
 
                         <h3 style="text-align: center;">Gói 1 năm</h3>
@@ -428,7 +428,7 @@
                             <li class="bullet-checkmark">Gía gia hạn dịch vụ: 1.084.600 vnđ</li>
                             <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
                         </ul>
-                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">1.552.100<br />
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #ffffff;">1.552.100<br />
 </span>VNĐ/ GÓI</p>
 
 
@@ -481,7 +481,7 @@
 
 
                 <div id="col-1882941231" class="col medium-8 small-12 large-4"  data-animate="bounceIn">
-                    <div class="col-inner text-left box-shadow-3"  >
+                    <div class="col-inner text-left box-shadow-3" style="background-color:rgb(208, 10, 10);" >
 
 
                         <h3 style="text-align: center;">Gói 3 năm</h3>
@@ -502,7 +502,7 @@
                             <li class="bullet-checkmark">Gía gia hạn dịch vụ: 2.472.650 vnđ</li>
                             <li class="bullet-checkmark">Phần mềm: đã bao gồm thuế VAT</li>
                         </ul>
-                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold; color: #333399;">2.642.650<br />
+                        <p style="text-align: center;"><span style="font-size: 250%; font-weight: bold;color: #ffffff;">2.642.650<br />
 </span>VNĐ/ GÓI</p>
 
 

@@ -2,7 +2,7 @@
  <div class="homeBanner banner">
 	<div class="homeBanner-slider slider" tabindex="0">
 	   <div class="bannerItem lazyloaded"
-		  style="background-image: url(https://giaiphap.mobifone5.vn/wp-content/uploads/112-4320x1185px-02.png);">
+		  style="background-image: url(img/112-4320x1185px-02.png);">
 		  <div class="bannerItem-content">
 			 <div class="container">
 				<div class="bannerItem-desc">
@@ -17,7 +17,7 @@
 		  </div>
 	   </div>
 	   <div class="bannerItem lazyloaded"
-		  style="background-image: url(/html/img/hop-dong-dien-tu-mobifone-econtract-05-1024x761.jpg);">
+		  style="background-image: url(img/hop-dong-dien-tu-mobifone-econtract-05-1024x761.jpg);">
 		  <div class="bannerItem-content">
 			 <div class="container">
 				<div class="bannerItem-desc">
@@ -31,7 +31,7 @@
 		  </div>
 	   </div>
 	   <div class="bannerItem lazyloaded"
-		  style="background-image: url(/html/img/3c.jpg);">
+		  style="background-image: url(img/3c.jpg);">
 		  <div class="bannerItem-content">
 			 <div class="container">
 				<div class="bannerItem-desc">
@@ -44,14 +44,14 @@
 		  </div>
 	   </div>
 	   <div class="bannerItem lazyloaded"
-		  style="background-image: url(/html/img/mobica-10-20220303024118.jpg);">
+		  style="background-image: url(img/mobica-10-20220303024118.jpg);">
 		  <div class="bannerItem-content">
 			 <div class="container">
 				<div class="bannerItem-desc">
 				   <h1>MobiCA</h1>
 				   <p>Hệ thống cung cấp dịch vụ ký số, xác thực điện tử và mã hoá giao dịch cho khách hàng
 				   </p>
-				   <a href="mobica.jsp.jsp"
+				   <a href="mobica.jsp"
 					  class="bannerItem-link btn btnTheme type-transparent">Tìm hiểu thêm</a>
 				</div>
 			 </div>
@@ -83,8 +83,8 @@
 	</div>
 	<div class="listing xl-slider flickity-enabled is-draggable" tabindex="0">
 	   <div class="item homeIntro--box-1 col-md-8 lazyloaded"
-		  data-bg="../html/img/399-Converted.png"
-		  style="position: absolute; left: 0%; background-image: url(https://giaiphap.mobifone5.vn/wp-content/uploads/2020/01/399-Converted.png);"
+		  data-bg="img/399-Converted.png"
+		  style="position: absolute; left: 0%; background-image: url(img/399-Converted.png);"
 		  aria-hidden="true">
 		  <div class="row">
 			 <div class="blk-1 align--right col-md-6">
@@ -94,38 +94,38 @@
 				   <p>Không ngừng nỗ lực phát triển và đem tới những giải pháp ứng dụng công nghệ tiên tiến nhất phục vụ
 					  công tác chuyển đổi số quốc gia
 				   </p>
-				   <a href="vechungtoi.jsp" class="btn btnTheme">Giới thiệu trung tâm</a>
+<%--				   <a href="vechungtoi.jsp" class="btn btnTheme">Giới thiệu trung tâm</a>--%>
 				</div>
 			 </div>
 		  </div>
 	   </div>
 	   <div class="item homeIntro--box-2 align--center col-md-8 lazyloaded is-selected"
-		  data-bg="../html/img/Asset-1.jpg"
-		  style="position: absolute; left: 94.62%; background-image: url(/html/img/Asset-1.jpg);">
+		  data-bg="img/Asset-1.jpg"
+		  style="position: absolute; left: 94.62%; background-image: url(/img/Asset-1.jpg);">
 		  <div class="row m-slider">
 			 <div class="blk blk-1 align--center col-md-4">
 				<img class=" ls-is-cached lazyloaded"
-				   src="../html/img/Artboard.png" alt="">
+				   src="img/Artboard.png" alt="">
 				<span class="h2">10+</span>
 				<p>Giải thưởng lớn</p>
 			 </div>
 			 <div class="blk blk-1 align--center col-md-4">
 				<img class=" ls-is-cached lazyloaded"
-				   src="../html/img/Artboard-Copy.png" alt="">
+				   src="img/Artboard-Copy.png" alt="">
 				<span class="h2">300+</span>
 				<p>Chuyên viên là các kỹ sư có tay nghề từ 5 năm kinh nghiệm</p>
 			 </div>
 			 <div class="blk blk-1 align--center col-md-4">
 				<img class=" ls-is-cached lazyloaded"
-				   src="../html/img/Artboard-Copy-2.png" alt="">
+				   src="img/Artboard-Copy-2.png" alt="">
 				<span class="h2">50+</span>
 				<p>Chứng chỉ Chuyên gia được cấp bởi Cisco, Oracle, IBM...</p>
 			 </div>
 		  </div>
 	   </div>
 	   <div class="item homeIntro--box-3 col-md-8 lazyloaded"
-		  data-bg="../html/img/Asset-2.jpg"
-		  style="position: absolute; left: 189.23%; background-image: url(/html/img/Asset-2.jpg);"
+		  data-bg="img/Asset-2.jpg"
+		  style="position: absolute; left: 189.23%; background-image: url(img/Asset-2.jpg);"
 		  aria-hidden="true">
 		  <div class="row">
 			 <!-- <div class="blk-1 align--right col-md-6">
@@ -136,8 +136,8 @@
 				<p>Mang tới những giải pháp Công nghệ kết nối trong một hệ sinh thái toàn diện giúp đẩy mạnh thực hiện
 				   chuyển đổi số, khơi dậy những giá trị thiết thực trong các doanh nghiệp, cơ quan và tổ chức
 				</p>
-				<a
-				   href="../html/vechungtoi.jsp" class="btn btnTheme type-transparent">Giới thiệu trung tâm</a>
+<%--				<a--%>
+<%--				   href="vechungtoi.jsp" class="btn btnTheme type-transparent">Giới thiệu trung tâm</a>--%>
 			 </div>
 		  </div>
 	   </div>
@@ -314,40 +314,40 @@
 	   <div class="row m-slider">
 		  <!-- <div class="slider"> -->
 		  <a href="https://www.homecredit.vn/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/logo-hc-main.png" alt="" src="../html/img/logo-hc-main.png">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/logo-hc-main.png" alt="" src="img/logo-hc-main.png">
 		  </a>
 		  <a href="https://www.sendo.vn/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/Sen-do.png" alt="" src="../html/img/Sen-do.png">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/Sen-do.png" alt="" src="img/Sen-do.png">
 		  </a>
 		  <a href="https://jobsgo.vn/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/Jobs-Go.jpg" alt="" src="../html/img/Jobs-Go.jpg">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/Jobs-Go.jpg" alt="" src="img/Jobs-Go.jpg">
 		  </a>
 		  <a href="https://suachualaptop24h.com/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/Laptop-24h.png" alt="" src="../html/img/Laptop-24h.png">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/Laptop-24h.png" alt="" src="img/Laptop-24h.png">
 		  </a>
 		  <a href="https://fptshop.com.vn/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/fpt-shop-coupons-logo-e1571368182738.png" alt="" src="../html/img/fpt-shop-coupons-logo-e1571368182738.png">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/fpt-shop-coupons-logo-e1571368182738.png" alt="" src="img/fpt-shop-coupons-logo-e1571368182738.png">
 		  </a>
 		  <a href="https://www.thegioididong.com/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/the-gioi-di-dong-logo.png" alt="" src="../html/img/the-gioi-di-dong-logo.png">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/10/the-gioi-di-dong-logo.png" alt="" src="img/the-gioi-di-dong-logo.png">
 		  </a>
 		  <a href="https://summit.edu.vn/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/summit.jpg" alt="" src="../html/img/summit.jpg">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/summit.jpg" alt="" src="img/summit.jpg">
 		  </a>
 		  <a href="https://doctordong.vn/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/lgc.png" alt="" src="../html/img/lgc.png">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/lgc.png" alt="" src="img/lgc.png">
 		  </a>
 		  <a href="https://hanotour.com.vn/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/222.png" alt="" src="../html/img/222.png">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/222.png" alt="" src="img/222.png">
 		  </a>
 		  <a href="https://tima.vn/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/hướng-dẫn-chi-tiết-cách-vay-tiền-tại-tima-10.jpg" alt="" src="../html/img/hướng-dẫn-chi-tiết-cách-vay-tiền-tại-tima-10.jpg">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/hướng-dẫn-chi-tiết-cách-vay-tiền-tại-tima-10.jpg" alt="" src="img/hướng-dẫn-chi-tiết-cách-vay-tiền-tại-tima-10.jpg">
 		  </a>
 		  <a href="https://thammyvienngocdung.com/" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/71076_vi.png" alt="" src="../html/img/71076_vi.png">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/71076_vi.png" alt="" src="img/71076_vi.png">
 		  </a>
 		  <a href="" target="_blank" class="partnerItem col-md-2">
-		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/logo-hmore-vuong-300x300.png" alt="" src="../html/img/logo-hmore-vuong-300x300.png">
+		  <img class=" lazyloaded" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/logo-hmore-vuong-300x300.png" alt="" src="img/logo-hmore-vuong-300x300.png">
 		  </a>
 		  <!-- </div> -->
 	   </div>

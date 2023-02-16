@@ -1,5 +1,5 @@
 <%@ page import="java.util.List" %>
-<%@ page import="model.Account" %>
+<%@ page import="model.LDAccount" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
@@ -232,9 +232,22 @@ $(document).ready(function(){
                 </div>
             </div>
             <form action=/customer?action=search method="post">
+                <p>Tìm tên công ty</p>
                 <input type="text" name="searchName">
                 <button type="submit">Search</button>
 
+            </form>
+            <form action=/customer?action=searchProduct method="post">
+                <p>Tìm sản phẩm</p>
+                <input type="text" name="searchProduct">
+                <button type="submit">Search</button>
+
+            </form>
+
+            <form action=/customer?action=searchDate method="post">'
+                <p>Tìm theo ngày</p>
+                <input type="date" name="searchDate1"> to <input type="date" name="searchDate2">
+                <button type="submit">Search</button>
             </form>
             <table class="table table-striped table-hover">
                 <thead>
@@ -256,6 +269,7 @@ $(document).ready(function(){
                         <td>${customer.getPhoneNumber()}</td>
                         <td>${customer.getEmail()}</td>
                         <td>${customer.getProduct()}</td>
+                        <td>${customer.getDatedk()}</td>
 
                     </tr>
                 </c:forEach>

@@ -12,7 +12,7 @@
                      <li><a href="vechungtoi.jsp">Về chúng tôi</a></li>
                      <!-- <li><a href="">Giải pháp / Dịch vụ</a></li> -->
                      <!-- <li><a href="">Sản phẩm</a></li> -->
-                     <li><a href="news.jsp">Tin tức</a></li>
+<%--                     <li><a href="news.jsp">Tin tức</a></li>--%>
                      <!--                     <li><a href="/tuyen-dung">Tuyển dụng</a></li> -->
                      <li><a href="lienhe.jsp">Liên hệ</a></li>
                   </ul>
@@ -28,22 +28,22 @@
                            Doanh nghiệp số                        
                         </a>
                      </li>
-                     <li>
-                        <a href="chinhphuso.jsp">
-                           <div class="footerLink-itemIcon">
-                              <img class="lazyload" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2020/03/gov.svg" alt="">
-                           </div>
-                           Chính phủ số                        
-                        </a>
-                     </li>
-                     <li>
-                        <a href="cong-nghe-4.0.jsp">
-                           <div class="footerLink-itemIcon">
-                              <img class="lazyload" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2020/03/book.svg" alt="">
-                           </div>
-                           Công nghệ 4.0 (AI - IoT - Big Data)                        
-                        </a>
-                     </li>
+<%--                     <li>--%>
+<%--                        <a href="chinhphuso.jsp">--%>
+<%--                           <div class="footerLink-itemIcon">--%>
+<%--                              <img class="lazyload" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2020/03/gov.svg" alt="">--%>
+<%--                           </div>--%>
+<%--                           Chính phủ số                        --%>
+<%--                        </a>--%>
+<%--                     </li>--%>
+<%--                     <li>--%>
+<%--                        <a href="cong-nghe-4.0.jsp">--%>
+<%--                           <div class="footerLink-itemIcon">--%>
+<%--                              <img class="lazyload" data-src="https://giaiphap.mobifone5.vn/wp-content/uploads/2020/03/book.svg" alt="">--%>
+<%--                           </div>--%>
+<%--                           Công nghệ 4.0 (AI - IoT - Big Data)                        --%>
+<%--                        </a>--%>
+<%--                     </li>--%>
                   </ul>
                </div>
                <div class="contactBox offset-md-1 col-md-4">

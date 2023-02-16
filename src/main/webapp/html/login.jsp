@@ -42,7 +42,7 @@
             <input type="text" class="form-control" placeholder="Username" name="userName" required="required">
         </div>
         <div class="form-group">
-            <input type="password" class="form-control" placeholder="Password" name="passWord" required="required">
+            <input type="password" class="form-control" placeholder="Password" name="pasWord" required="required">
         </div>
         <div class="form-group">
             <button type="submit" class="btn btn-primary btn-block">Log in</button>

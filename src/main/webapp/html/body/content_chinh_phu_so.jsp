@@ -25,21 +25,21 @@
         <div class="catePrdList container">
             <div class="row">
                 <a href="giaiphapql.jsp" class="catePrd-item item col-md-4">
-                    <div class="catePrd-itemImg thumbnail lazyloaded" data-bg="../html/img/smart-farming-with-agriculture-iot-scaled.jpg" style="background-image: url(&quot;https://giaiphap.mobifone5.vn/wp-content/uploads/smart-farming-with-agriculture-iot-scaled.jpg&quot;);"></div>
+                    <div class="catePrd-itemImg thumbnail lazyloaded" data-bg="img/smart-farming-with-agriculture-iot-scaled.jpg" style="background-image: url(img/smart-farming-with-agriculture-iot-scaled.jpg);"></div>
                     <div class="catePrd-itemDesc desc">
                         <h2 class="catePrd-itemTitle">Giải pháp quản lý thông tin Nguồn thông minh</h2>
                         <p class="catePrd-itemTxt"></p>
                     </div>
                 </a>
                 <a href="ai-social.jsp" class="catePrd-item item col-md-4">
-                    <div class="catePrd-itemImg thumbnail lazyloaded" data-bg="../html/img/01.jpg" style="background-image: url(&quot;https://giaiphap.mobifone5.vn/wp-content/uploads/2020/08/01.jpg&quot;);"></div>
+                    <div class="catePrd-itemImg thumbnail lazyloaded" data-bg="img/01.jpg" style="background-image: url(img/01.jpg);"></div>
                     <div class="catePrd-itemDesc desc">
                         <h2 class="catePrd-itemTitle">AI Social Monitoring</h2>
                         <p class="catePrd-itemTxt">Giải pháp Giám sát trật tự đô thị</p>
                     </div>
                 </a>
                 <a href="truyenthanhthongminh.jsp" class="catePrd-item item col-md-4">
-                    <div class="catePrd-itemImg thumbnail lazyloaded" data-bg="../html/img/Innovation-future-technology.jpg" style="background-image: url(&quot;https://giaiphap.mobifone5.vn/wp-content/uploads/2019/09/Innovation-future-technology.jpg&quot;);"></div>
+                    <div class="catePrd-itemImg thumbnail lazyloaded" data-bg="img/Innovation-future-technology.jpg" style="background-image: url(img/Innovation-future-technology.jpg  );"></div>
                     <div class="catePrd-itemDesc desc">
                         <h2 class="catePrd-itemTitle">Truyền thanh thông minh</h2>
                         <p class="catePrd-itemTxt">Giải pháp truyền thanh kỹ thuật số trên nền tảng 4.0</p>

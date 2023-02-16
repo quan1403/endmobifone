@@ -1,7 +1,7 @@
 package controller;
 
 import DAO.CustomerDao;
-import model.Customer;
+import model.LDCustomer;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -10,11 +10,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.sql.Date;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
+import java.time.LocalDate;
 import java.util.List;
 
 @WebServlet(urlPatterns = "/customer")
@@ -52,18 +49,43 @@ public class CustomerServlet extends HttpServlet {
                 break;
             case "register":
                 createCustome(req, resp);
+
                 break;
             case "search":
                 String searchName = req.getParameter("searchName");
                 if (searchName==""){
                     showCustomer(req, resp);
                 }else {
-                    List<Customer> customers = customerDao.getSearch(searchName);
+                    List<LDCustomer> customers = customerDao.getSearch(searchName);
                     req.setAttribute("customers", customers);
                     RequestDispatcher dispatcher = req.getRequestDispatcher("/html/customer.jsp");
                     dispatcher.forward(req, resp);
                 }
                 break;
+            case "searchProduct":
+                String searchProduct = req.getParameter("searchProduct");
+                if (searchProduct==""){
+                    showCustomer(req, resp);
+                }else {
+                    List<LDCustomer> customers = customerDao.getSearchProduct(searchProduct);
+                    req.setAttribute("customers", customers);
+                    RequestDispatcher dispatcher = req.getRequestDispatcher("/html/customer.jsp");
+                    dispatcher.forward(req, resp);
+                }
+                break;
+            case "searchDate":
+                String searchDate1 = req.getParameter("searchDate1");
+                String searchDate2 = req.getParameter("searchDate2");
+                if (searchDate1=="" && searchDate2==""){
+                    showCustomer(req, resp);
+                }else {
+                    List<LDCustomer> customers =customerDao.getSearchDate(searchDate1,searchDate2) ;
+                    req.setAttribute("customers", customers);
+                    RequestDispatcher dispatcher = req.getRequestDispatcher("/html/customer.jsp");
+                    dispatcher.forward(req, resp);
+                }
+                break;
+
             default:
                 break;
         }
@@ -76,9 +98,11 @@ public class CustomerServlet extends HttpServlet {
         String phoneNumber = request.getParameter("phoneNumber");
         String email = request.getParameter("email");
         String product = request.getParameter("product");
-        Date date = new Date();
-        Customer cus = new Customer(nameCompany, fullName, phoneNumber, email, product,date);
+        LocalDate now = LocalDate.now();
+        Date datedk =java.sql.Date.valueOf(now);
+        LDCustomer cus = new LDCustomer(nameCompany, fullName, phoneNumber, email, product,datedk);
         customerDao.create(cus);
+        customerDao.sendSms(cus);
         RequestDispatcher dispatcher = request.getRequestDispatcher("/html/thanks.jsp");
         try {
             dispatcher.forward(request, response);
@@ -104,7 +128,7 @@ public class CustomerServlet extends HttpServlet {
             endPage++;
         }
         request.setAttribute("page",endPage);
-        List<Customer> customers = customerDao.pagingCustomer(index);
+        List<LDCustomer> customers = customerDao.pagingCustomer(index);
         request.setAttribute("customers", customers);
         request.setAttribute("tag",index);
         RequestDispatcher dispatcher = request.getRequestDispatcher("/html/customer.jsp");

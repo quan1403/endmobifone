@@ -1,7 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <div class="container">
-        <img src="../html/img/Annotation 2022-12-14 193056.png" class="prdRegister-featured ls-is-cached lazyloaded" alt="">
+        <img src="img/Annotation 2022-12-14 193056.png" class="prdRegister-featured ls-is-cached lazyloaded" alt="">
         <div class="row justify-content-center">
             <div class="txt col-md-6">
                 <!-- <h3>Doanh nghiệp của bạn đã sẵn sàng tiếp cận tối đa 60% Khách hàng đang bỏ lỡ bởi hệ thống tổng đài truyền thống chưa?</h3>

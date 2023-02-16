@@ -1,5 +1,5 @@
 <%@ page import="java.util.List" %>
-<%@ page import="model.Account" %>
+<%@ page import="model.LDAccount" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
@@ -261,8 +261,8 @@ $(document).ready(function(){
                     <tr>
                         <td>${account.getId()}</td>
                         <td href="/customer?action=show">${account.getUserName()}</td>
-                        <td>${account.getPassWord()}</td>
-                        <td>${account.getRole()}</td>
+                        <td>${account.getPasWord()}</td>
+                        <td>${account.getRole_acc()}</td>
                         <td>${account.getStatus()}</td>
                         <td>
                             <button type="button" class="btn btn-warning"><a

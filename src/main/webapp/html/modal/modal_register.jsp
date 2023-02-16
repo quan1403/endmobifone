@@ -1,5 +1,4 @@
 <%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8" %>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <link rel="stylesheet" href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
 
 <link rel="stylesheet" href="css/style.css">
@@ -23,20 +22,20 @@
                             </div>
                             <form name="myForm" action="/customer?action=register" method="post">
                                 <div class="form-group">
-                                    <input type="text" placeholder="Tên công ty,doanh nghiệp, tổ chức" name="nameCompany" class="form-control">
+                                    <input required  type="text" placeholder="Tên công ty,doanh nghiệp, tổ chức" name="nameCompany" class="form-control">
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" placeholder="Tên người liên hệ" name="fullName" class="form-control">
+                                    <input required type="text" placeholder="Tên người liên hệ" name="fullName" class="form-control">
 
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" placeholder="Số điện thoại" onkeyup=" Validate()" name="phoneNumber" class="form-control">
+                                    <input required type="text" placeholder="Số điện thoại" onkeyup=" Validate()" name="phoneNumber" class="form-control">
                                 </div>
                                 <div class="form-group">
                                     <p id="errorPhone"></p>
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" placeholder="Email" name="email" class="form-control">
+                                    <input required type="text" placeholder="Email" name="email" class="form-control">
 
                                 </div>
                                 <div class="form-group">
@@ -74,10 +73,6 @@
 <%--                                        <option value="Cổng dịch vụ công mức độ 3, 4">Cổng dịch vụ công mức độ 3, 4</option>--%>
 <%--                                        <option value="Hệ thống Quản lý cán bộ công chức, viên chức">Hệ thống Quản lý cán bộ công chức, viên chức</option>--%>
                                     </select>
-
-                                </div>
-                                <div>
-                                    <input type="date"  name="date"  class="form-control" >
 
                                 </div>
                                 <tr>

@@ -23,7 +23,7 @@
 
 
 <div  class="page catePrd">
-  <%@include file="body/content_chinh_phu_so.jsp" %>
+  <%@include file="body/content_cong_nghe_4.0.jsp" %>
 </div>
 
 <%@include file="footer/footer.jsp" %>

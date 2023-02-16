@@ -19,11 +19,11 @@
             </tr>
             <tr>
                 <td>PassWord: </td>
-                <td>${requestScope["accounts"].getPassWord()}</td>
+                <td>${requestScope["accounts"].getPasWord()}</td>
             </tr>
             <tr>
                 <td>Role: </td>
-                <td>${requestScope["accounts"].getRole()}</td>
+                <td>${requestScope["accounts"].getRole_acc()}</td>
             </tr>
             <tr>
                 <td><input type="submit" value="Delete account"></td>

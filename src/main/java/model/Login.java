@@ -1,5 +1,5 @@
 package model;
 
 public class Login {
-    public static Account account;
+    public static LDAccount account;
 }

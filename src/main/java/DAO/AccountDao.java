@@ -1,32 +1,32 @@
 package DAO;
 
 import connect.Connect_MySQL;
-import model.Account;
+import connect.Connect_Oracle;
+import model.LDAccount;
 
 import java.sql.*;
-import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public class AccountDao implements CRUD<Account> {
-    String sql = "select * from account where userName = ? and passWord =? ";
-    private static final String INSERT_ACCOUNT_SQL = "insert into account value (?,?,?,?,?);";
+public class AccountDao implements CRUD<LDAccount> {
 
-    public Account getAccount(String username, String password) {
-        try (Connection connection = Connect_MySQL.getConnect()) {
+
+    public LDAccount getAccount(String username, String pasword) {
+        String sql = "select * from LDAccount where userName = ? and pasWord =? ";
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement statement = connection.prepareStatement(sql);
             statement.setString(1, username);
-            statement.setString(2, password);
+            statement.setString(2, pasword);
             ResultSet resultSet = statement.executeQuery();
 
             resultSet.next();
             int id = resultSet.getInt("id");
             String userName = resultSet.getString("userName");
-            String passWord = resultSet.getString("passWord");
-            String role = resultSet.getString("role");
+            String passWord = resultSet.getString("pasWord");
+            String role_acc = resultSet.getString("role_acc");
            String status = resultSet.getString("status");
 
-            return new Account(id, userName, passWord, role, status);
+            return new LDAccount(id, userName, passWord, role_acc, status);
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }
@@ -34,13 +34,14 @@ public class AccountDao implements CRUD<Account> {
     }
 
     @Override
-    public boolean create(Account account) {
-        try (Connection connection = Connect_MySQL.getConnect()) {
-            PreparedStatement preparedStatement = connection.prepareStatement(INSERT_ACCOUNT_SQL);
+    public boolean create(LDAccount account) {
+        String sql = "insert into mfsoft.LDAccount values (?,?,?,?,?)";
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
+            PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(1, account.getId());
             preparedStatement.setString(2, account.getUserName());
-            preparedStatement.setString(3, account.getPassWord());
-            preparedStatement.setString(4, account.getRole());
+            preparedStatement.setString(3, account.getPasWord());
+            preparedStatement.setString(4, account.getRole_acc());
             preparedStatement.setString(5,account.getStatus());
             return preparedStatement.execute();
         } catch (SQLException throwables) {
@@ -50,19 +51,19 @@ public class AccountDao implements CRUD<Account> {
     }
 
     @Override
-    public Account findById(int id) {
-        String sql = "select * from account where id = " + id;
-        try (Connection connection = Connect_MySQL.getConnect()) {
+    public LDAccount findById(int id) {
+        String sql = "select * from LDAccount where id = " + id;
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery(sql);
 
             resultSet.next();
            int idS = resultSet.getInt("id");
             String userName = resultSet.getString("userName");
-            String passWord = resultSet.getString("passWord");
-            String role = resultSet.getString("role");
+            String passWord = resultSet.getString("pasWord");
+            String role = resultSet.getString("role_acc");
             String status = resultSet.getString("status");
-            return new Account(idS, userName, passWord, role, status);
+            return new LDAccount(idS, userName, passWord, role, status);
 
         } catch (SQLException throwables) {
             throwables.printStackTrace();
@@ -71,20 +72,20 @@ public class AccountDao implements CRUD<Account> {
     }
 
     @Override
-    public List<Account> getAll() {
-        String sql = "select * from account";
-        List<Account> accounts = new ArrayList<>();
-        try (Connection connection = Connect_MySQL.getConnect()) {
+    public List<LDAccount> getAll() {
+        String sql = "select * from LDAccount order by rownum desc";
+        List<LDAccount> accounts = new ArrayList<>();
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery(sql);
 
             while (resultSet.next()) {
                 int id = resultSet.getInt("id");
                 String userName = resultSet.getString("userName");
-                String passWord = resultSet.getString("passWord");
-                String role = resultSet.getString("role");
+                String passWord = resultSet.getString("pasWord");
+                String role_acc = resultSet.getString("role_acc");
                 String status = resultSet.getString("status");
-                accounts.add(new Account(id, userName, passWord, role, status));
+                accounts.add(new LDAccount(id, userName, passWord, role_acc, status));
             }
         } catch (SQLException throwables) {
             throwables.printStackTrace();
@@ -93,14 +94,14 @@ public class AccountDao implements CRUD<Account> {
     }
 
     @Override
-    public boolean edit(int id, Account account) {
-        String sql = "UPDATE `demo5`.`account` SET `userName` = ?, `passWord`= ?,`role`  = ? WHERE (`id` = ?); ";
-        try (Connection connection = Connect_MySQL.getConnect()) {
+    public boolean edit(int id, LDAccount account) {
+        String sql = "update LDAccount set userName = ?, pasWord =  ? , role_acc  = ? WHERE ( id  = ? ) ";
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(4, account.getId());
             preparedStatement.setString(1, account.getUserName());
-            preparedStatement.setString(2, account.getPassWord());
-            preparedStatement.setString(3, account.getRole());
+            preparedStatement.setString(2, account.getPasWord());
+            preparedStatement.setString(3, account.getRole_acc());
             return preparedStatement.execute();
         } catch (SQLException throwables) {
             throwables.printStackTrace();
@@ -110,8 +111,8 @@ public class AccountDao implements CRUD<Account> {
 
     @Override
     public boolean delete(int id) {
-        String sql = "delete from account WHERE id = ?";
-        try (Connection connection = Connect_MySQL.getConnect()) {
+        String sql = "delete from LDAccount WHERE id = ?";
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(1, id);
             return preparedStatement.execute();
@@ -121,21 +122,21 @@ public class AccountDao implements CRUD<Account> {
         }
     }
 
-    public List<Account> getSearch(String searchName) {
-        String sql = "select * from account where userName like concat('%',?,'%')";
-        List<Account> accountList = new ArrayList<>();
-        try (Connection connection = Connect_MySQL.getConnect()) {
+    public List<LDAccount> getSearch(String searchName) {
+        String sql = "select * from LDAccount where userName like ? ";
+        List<LDAccount> accountList = new ArrayList<>();
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setString(1, searchName);
+            preparedStatement.setString(1, "%"+ searchName + "%");
             ResultSet resultSet = preparedStatement.executeQuery();
 
             while (resultSet.next()) {
                 int id = resultSet.getInt("id");
                 String userName = resultSet.getString("userName");
-                String passWord = resultSet.getString("passWord");
-                String role = resultSet.getString("role");
+                String pasWord = resultSet.getString("pasWord");
+                String role_acc = resultSet.getString("role_acc");
                 String status = resultSet.getString("status");
-                accountList.add(new Account(id, userName, passWord, role, status));
+                accountList.add(new LDAccount(id, userName, pasWord, role_acc, status));
             }
         } catch (SQLException throwables) {
             throwables.printStackTrace();
@@ -144,8 +145,8 @@ public class AccountDao implements CRUD<Account> {
     }
 
     public int getTotalAccount() {
-        String sql = "select count(*) from demo5.account";
-        try (Connection connection = Connect_MySQL.getConnect()) {
+        String sql = "select count(*) from LDAccount";
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             ResultSet resultSet = preparedStatement.executeQuery();
             while (resultSet.next()) {
@@ -161,31 +162,38 @@ public class AccountDao implements CRUD<Account> {
     }
 
     @Override
-    public List<Account> pagingAccount(int index) {
-        List<Account> list = new ArrayList<>();
-        String sql = "select * from demo5.account limit 3 OFFSET ?;";
-        try (Connection connection = Connect_MySQL.getConnect()) {
+    public List<LDAccount> pagingAccount(int index) {
+        List<LDAccount> list = new ArrayList<>();
+        String sql = "SELECT * FROM (\n" +
+                "         SELECT ldaccount.*,\n" +
+                "                row_number() over (partition by 1 order by 1) as rnum\n" +
+                "         from ldaccount\n order by id desc" +
+                "     )\n" +
+                "where  rnum <= ?--limit\n" +
+                "  and rnum > ? --offset ";
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setInt(1, (index - 1) * 3);
+            preparedStatement.setInt(1, (index *3));
+            preparedStatement.setInt(2, (index - 1) * 3);
             ResultSet resultSet = preparedStatement.executeQuery();
             while (resultSet.next()) {
                 int id = resultSet.getInt("id");
                 String userName = resultSet.getString("userName");
-                String passWord = resultSet.getString("passWord");
-                String role = resultSet.getString("role");
+                String pasWord = resultSet.getString("pasWord");
+                String role_acc = resultSet.getString("role_acc");
                 String status = resultSet.getString("status");
-                list.add(new Account(id, userName, passWord, role, status));
+                list.add(new LDAccount(id, userName, pasWord, role_acc, status));
             }
-        } catch (SQLException ex) {
-            throw new RuntimeException(ex);
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
         }
         return list;
     }
 
     @Override
     public boolean lock(int id ,String status) {
-        String sql = "UPDATE `demo5`.`account` SET `status` = ? WHERE (`id` = ?); ";
-        try (Connection connection = Connect_MySQL.getConnect()) {
+        String sql = "UPDATE LDAccount SET status = ? WHERE (id = ?) ";
+        try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
 //            preparedStatement.setString(1, id);
             preparedStatement.setInt(2, id);
