@@ -92,8 +92,8 @@ public class CustomerDao {
                 "  and rnum > ?   --offset ";
         try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setInt(1, (index  * 3));
-            preparedStatement.setInt(2, (index -1) * 3);
+            preparedStatement.setInt(1, (index  * 10));
+            preparedStatement.setInt(2, (index -1) * 10);
             ResultSet resultSet = preparedStatement.executeQuery();
             while (resultSet.next()) {
                 int idCustomer = resultSet.getInt("idCustomer");

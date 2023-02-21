@@ -73,7 +73,7 @@ public class AccountDao implements CRUD<LDAccount> {
 
     @Override
     public List<LDAccount> getAll() {
-        String sql = "select * from LDAccount order by rownum desc";
+        String sql = "select * from LDAccount order by rownum desc ";
         List<LDAccount> accounts = new ArrayList<>();
         try (Connection connection = Connect_Oracle.getConnectOracle()) {
             Statement statement = connection.createStatement();
@@ -145,7 +145,7 @@ public class AccountDao implements CRUD<LDAccount> {
     }
 
     public int getTotalAccount() {
-        String sql = "select count(*) from LDAccount";
+        String sql = "select count(*) from LDAccount ";
         try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             ResultSet resultSet = preparedStatement.executeQuery();
@@ -160,7 +160,7 @@ public class AccountDao implements CRUD<LDAccount> {
         return 0;
 
     }
-
+//
     @Override
     public List<LDAccount> pagingAccount(int index) {
         List<LDAccount> list = new ArrayList<>();
@@ -173,8 +173,8 @@ public class AccountDao implements CRUD<LDAccount> {
                 "  and rnum > ? --offset ";
         try (Connection connection = Connect_Oracle.getConnectOracle()) {
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setInt(1, (index *3));
-            preparedStatement.setInt(2, (index - 1) * 3);
+            preparedStatement.setInt(1, (index *10));
+            preparedStatement.setInt(2, (index - 1) * 10);
             ResultSet resultSet = preparedStatement.executeQuery();
             while (resultSet.next()) {
                 int id = resultSet.getInt("id");

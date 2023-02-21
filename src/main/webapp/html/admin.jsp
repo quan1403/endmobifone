@@ -235,8 +235,12 @@ $(document).ready(function(){
                         </button>
                     </div>
                     <div class="col-sm-5">
-                        <h2 type="button" class="btn btn-success"><a href="/customer" >Customer Management</a>
+                        <h2 type="button" class="btn btn-success"><a href="/customer?action=show" >Customer Management</a>
                         </h2>
+                    </div>
+                    <div class="col-sm-7">
+                        <button type="button" class="btn btn-success"><a href="/account?action=logOut" methods="post">Logout</a>
+                        </button>
                     </div>
                 </div>
             </div>

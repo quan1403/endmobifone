@@ -9,6 +9,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.sql.Date;
 import java.time.LocalDate;
@@ -28,9 +29,16 @@ public class CustomerServlet extends HttpServlet {
             action = "";
         }
         switch (action){
-            default:
+            case "logOut":
+            HttpSession session=req.getSession();
+            session.invalidate();
+            RequestDispatcher dispatcher = req.getRequestDispatcher("/login");
+            dispatcher.forward(req, resp);
+            break;
+            case "show":
                 showCustomer(req,resp);
                 break;
+
 
         }
     }
@@ -85,7 +93,6 @@ public class CustomerServlet extends HttpServlet {
                     dispatcher.forward(req, resp);
                 }
                 break;
-
             default:
                 break;
         }
@@ -103,7 +110,7 @@ public class CustomerServlet extends HttpServlet {
         LDCustomer cus = new LDCustomer(nameCompany, fullName, phoneNumber, email, product,datedk);
         customerDao.create(cus);
         customerDao.sendSms(cus);
-        RequestDispatcher dispatcher = request.getRequestDispatcher("/html/thanks.jsp");
+        RequestDispatcher dispatcher = request.getRequestDispatcher("/html/body/thanks.jsp");
         try {
             dispatcher.forward(request, response);
         } catch (ServletException e) {
@@ -123,8 +130,8 @@ public class CustomerServlet extends HttpServlet {
         int index = Integer.parseInt(indexPage);
         CustomerDao customerDao = new CustomerDao();
         int count = customerDao.getTotalCustomer();
-        int endPage = count/3;
-        if (count % 3 != 0){
+        int endPage = count/10;
+        if (count % 10 != 0){
             endPage++;
         }
         request.setAttribute("page",endPage);

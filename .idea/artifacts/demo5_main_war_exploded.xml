@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="demo5.main:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/demo5_main_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="demo5.main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.jetbrains:annotations:20.1.0" />
+          <element id="library" level="project" name="Gradle: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:8.0.28" />
+          <element id="library" level="project" name="Gradle: com.oracle.database.jdbc:ojdbc8:21.1.0.0" />
+          <element id="library" level="project" name="Gradle: com.google.protobuf:protobuf-java:3.11.4" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="demo5.main/web/Web Gradle : demo5-1.0-SNAPSHOT.war" />
+    </root>
+  </artifact>
+</component>

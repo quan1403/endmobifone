@@ -229,6 +229,10 @@ $(document).ready(function(){
                     <div class="col-sm-5">
                         <h2>Customer <b>Management</b></h2>
                     </div>
+                    <div class="col-sm-7">
+                        <button type="button" class="btn btn-success"><a href="/customer?action=logOut">LogOut</a>
+                        </button>
+                    </div>
                 </div>
             </div>
             <form action=/customer?action=search method="post">

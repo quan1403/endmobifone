@@ -2,7 +2,8 @@ package model;
 
 import java.sql.Date;
 
-public class LDCustomer {
+public class LDCustomer implements java.io.Serializable {
+    private static final long serialVersionUID = 1L;
    private int idCustomer;
    private String nameCompany;
    private String fullName;
@@ -70,7 +71,6 @@ public class LDCustomer {
     public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
     }
-
     public String getEmail() {
         return email;
     }

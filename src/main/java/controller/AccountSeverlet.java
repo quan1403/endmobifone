@@ -9,6 +9,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.util.List;
 
@@ -23,7 +24,6 @@ public class AccountSeverlet extends HttpServlet {
         if (action == null) {
             action = "";
         }
-
         switch (action) {
             case "create":
                 showCreate(req,resp);
@@ -37,11 +37,16 @@ public class AccountSeverlet extends HttpServlet {
                 showDelete(req,resp);
                 req.getRequestDispatcher("/html/admin.jsp");
                 break;
-
             case "lock":
                 lockAccount(req,resp);
                 break;
+            case "logOut":
 
+                HttpSession session=req.getSession();
+                session.invalidate();
+                RequestDispatcher dispatcher = req.getRequestDispatcher("/login");
+                dispatcher.forward(req, resp);
+                break;
             default:
                 showAccount(req,resp);
                 break;
@@ -79,10 +84,12 @@ public class AccountSeverlet extends HttpServlet {
                     dispatcher.forward(req, resp);
                 }
                 break;
+
             default:
                 break;
         }
     }
+
 
     public void showAccount(HttpServletRequest request, HttpServletResponse response) {
     String indexPage = request.getParameter("index");
@@ -94,8 +101,8 @@ public class AccountSeverlet extends HttpServlet {
      int index = Integer.parseInt(indexPage);
     AccountDao accountDao = new AccountDao();
       int count = accountDao.getTotalAccount();
-      int endPage = count/3;
-       if (count % 3 != 0){
+      int endPage = count/10;
+       if (count % 10 != 0){
             endPage++;
        }
        request.setAttribute("page",endPage);

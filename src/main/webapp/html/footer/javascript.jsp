@@ -92,25 +92,33 @@
                         Xin mời Quý khách điền thông tin theo mẫu dưới đây, chúng tôi sẽ liên hệ lại trong vòng 24
                         giờ.</p>
 
-                    <form action="/customer?action=register" method="post">
-                        <div class="form-group">
-                            <input required type="text" placeholder="Tên công ty,doanh nghiệp, tổ chức" name="nameCompany"
-                                   class="form-control">
+                    <form  action="/customer?action=register" method="post" >
+                        <div class="form-group" >
+                            <label for="nameCompanys">Tên Công ty <span style="color: red;" id="errorNameCompanys">(*)</span></label>
+                            <input type="text" onblur="checkNameCompany1();" name="nameCompany" class="form-control" id="nameCompanys" />
+
                         </div>
-                        <div class="form-group">
-                            <input required type="text" placeholder="Tên người liên hệ" name="fullName" class="form-control">
+                        <div class="form-group" >
+                            <label for="fullNames">Họ và tên <span style="color: red;" id="errorFullNames">(*)</span></label>
+                            <input type="text" onblur="checkFullName1();" name="fullName" class="form-control" id="fullNames" />
+
+                        </div>
+                        <div class="form-group" >
+                            <label for="phoneNumbers">Phone <span style="color: red;" id="errorPhoneNumbers">(*)</span></label>
+                            <input type="text" onblur="checkPhoneNumber1();" name="phoneNumber" class="form-control" id="phoneNumbers" />
+
+                        </div>
+                        <%--                                <div class="form-group">--%>
+                        <%--                                   --%>
+                        <%--                                </div>--%>
+                        <div class="form-group" >
+                            <label for="emails">Email <span style="color: red;" id="errorEmails">(*)</span></label>
+                            <input type="text" onblur="checkEmail1();" name="email" class="form-control" id="emails" />
 
                         </div>
                         <div class="form-group">
-                            <input required type="text" placeholder="Số điện thoại" name="phoneNumber" class="form-control">
 
-                        </div>
-                        <div class="form-group">
-                            <input required type="text" placeholder="Email" name="email" class="form-control">
-
-                        </div>
-                        <div class="form-group">
-                            <select  name="product" id="product-option" class="form-control">
+                            <select   name="product" id="option-product" class="form-control">
                                 <option  value="" disabled selected>Sản phẩm quan tâm</option>
                                 <%--                                        <option value="MobiFone Smart Sales">MobiFone Smart Sales</option>--%>
                                 <%--                                        <option value="MobiFone Smart Office">MobiFone Smart Office</option>--%>
@@ -121,14 +129,33 @@
                                 <option  value="MobiFone Econtract">MobiFone Econtract</option>
                                 <option value="3C (Cloud Contact Center)">3C (Cloud Contact Center)</option>
                                 <option value="MobiCA">MobiCA</option>
-                                </option>
+
+                                <%--                                        <option value="mTracker">mTracker</option>--%>
+                                <%--                                        <option value="Giải pháp quản lý thông tin Nguồn thông minh">Giải pháp quản lý thông tin Nguồn thông minh</option>--%>
+                                <%--                                        <option value="AI Social Monitoring">AI Social Monitoring</option>--%>
+                                <%--                                        <option value="Truyền thanh thông minh">Truyền thanh thông minh</option>--%>
+                                <%--                                        <option value="Hệ thống quản lý tài liệu điện tử">Hệ thống quản lý tài liệu điện tử</option>--%>
+                                <%--                                        <option value="Hệ thống Cổng thông tin điện tử">Hệ thống Cổng thông tin điện tử</option>--%>
+                                <%--                                        <option value="Hệ thống cơ sở dữ liệu thông tin KT – XH">Hệ thống cơ sở dữ liệu thông tin KT – XH</option>--%>
+                                <%--                                        <option value="Hệ thống Giám sát điện thoại viên">Hệ thống Giám sát điện thoại viên</option>--%>
+                                <%--                                        <option value="Giải pháp phần mềm một cửa điện tử liên thông e-Gate">Giải pháp phần mềm một cửa điện tử liên thông e-Gate</option>--%>
+                                <%--                                        <option value="MobiFone BMCC gateway">MobiFone BMCC gateway</option>--%>
+                                <%--                                        <option value="MobiFone Smart Travel">MobiFone Smart Travel</option>--%>
+                                <%--                                        <option value="MobiFone Spam Call Prevention">MobiFone Spam Call Prevention</option>--%>
+                                <%--                                        <option value="mAI Call Center">mAI Call Center</option>--%>
+                                <%--                                        <option value="MOBIFONE.AI – Trợ lý ảo">MOBIFONE.AI – Trợ lý ảo</option>--%>
+                                <%--                                        <option value="AI Camera">AI Camera</option>--%>
+                                <%--                                        <option value="AIOCR">AIOCR</option>--%>
+                                <%--                                        <option value="Lưu trữ số hóa điện tử tập trung trên nền tảng Big Data">Lưu trữ số hóa điện tử tập trung trên nền tảng Big Data</option>--%>
+                                <%--                                        <option value="Nền tảng tích hợp, chia sẻ dữ liệu cấp Bộ, cấp tỉnh">Nền tảng tích hợp, chia sẻ dữ liệu cấp Bộ, cấp tỉnh</option>--%>
+                                <%--                                        <option value="Cổng dịch vụ công mức độ 3, 4">Cổng dịch vụ công mức độ 3, 4</option>--%>
+                                <%--                                        <option value="Hệ thống Quản lý cán bộ công chức, viên chức">Hệ thống Quản lý cán bộ công chức, viên chức</option>--%>
                             </select>
+
                         </div>
                         <tr>
-                            <td>
-                                <button type="submit" class="btn btn-success">Đăng ký ngay</button>
-                            </td>
-                            <%--                              <td> <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button></td>--%>
+                            <td><button type="submit"  data-toggle="modal"  class="btn btn-success" >Đăng ký ngay</button></td>
+                            <td> <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button></td>
                     </form>
                 </div>
             </div>
@@ -273,6 +300,71 @@
       $("#option-product").val('MobiFone Econtract')
     }
 
+
+</script>
+<script type="text/javascript">
+     function checkNameCompany1(){
+		 	var nameCompanys = document.getElementById('nameCompanys').value;
+			var errorNameCompanys = document.getElementById('errorNameCompanys');
+		var regexNameCompanys= /^[A-Za-z0-9'\.\-\s\,]*$/;
+
+		 	if (nameCompanys == '' || nameCompanys == null) {
+				errorNameCompanys.innerHTML = "Tên công ty không được để trống!";
+		 	}else if(!regexNameCompanys.test(nameCompanys)){
+				errorNameCompanys.innerHTML = "Tên công ty không hợp lệ!";
+		 	}else{
+		 		errorNameCompanys.innerHTML = '';
+		 		return nameCompanys;
+			}
+		 }
+
+
+	function checkFullName1(){
+		 	var fullNames= document.getElementById('fullNames').value;
+			var errorFullNames = document.getElementById('errorFullNames');
+		    var regexFullNames= /^[^\d+]*[\d+]{0}[^\d+]*$/;
+
+		 	if (fullNames == '' || fullNames == null) {
+				errorFullNames.innerHTML = "Họ tên không được để trống!";
+		 	}else if(!regexFullNames.test(fullNames)){
+				errorFullNames.innerHTML = "Họ tên không hợp lệ!";
+		 	}else{
+		 		errorFullNames.innerHTML = '';
+		 		return fullNames;
+			}
+		 }
+
+	function checkPhoneNumber1(){
+		 	var phoneNumbers = document.getElementById('phoneNumbers').value;
+			var errorPhoneNumbers = document.getElementById('errorPhoneNumbers');
+			var regexPhoneNumbers = /^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im;
+
+		    if (phoneNumbers == '' || phoneNumbers == null) {
+				errorPhoneNumbers.innerHTML = "Số điện thoại không được để trống!";
+			}else if(!regexPhoneNumbers.test(phoneNumbers)){
+				errorPhoneNumbers.innerHTML = "SĐT không hợp lệ!";
+				return false;
+			}else{
+				errorPhoneNumbers.innerHTML = '';
+			}
+
+		 }
+    function checkEmail1(){
+	        var emails = document.getElementById('emails').value;
+			var errorEmails = document.getElementById('errorEmails');
+			var regexEmails = /[A-Z0-9._%+-]+@[A-Z0-9-]+.+.[A-Z]{2,4}/igm;
+
+			if (emails == '' || emails == null) {
+				errorEmails.innerHTML = "Email không được để trống!";
+			}else if(!regexEmails.test(emails)){
+				errorEmails.innerHTML = "Email không hợp lệ!";
+				email = '';
+			}else{
+				errorEmails.innerHTML = '';
+			}
+
+
+			}
 
 </script>
 

@@ -20,27 +20,33 @@
                             <div class="image-holder">
                                 <img src="images/registration-form-1.jpg" alt="">
                             </div>
-                            <form name="myForm" action="/customer?action=register" method="post">
-                                <div class="form-group">
-                                    <input required  type="text" placeholder="Tên công ty,doanh nghiệp, tổ chức" name="nameCompany" class="form-control">
+                            <form name="myForm" action="/customer?action=register" method="post" >
+                                <div class="form-group" >
+                                    <label for="nameCompany">Tên Công ty <span style="color: red;" id="errorNameCompany">(*)</span></label>
+                                    <input type="text" onblur="checkNameCompany();" name="nameCompany" class="form-control" id="nameCompany" />
+
                                 </div>
-                                <div class="form-group">
-                                    <input required type="text" placeholder="Tên người liên hệ" name="fullName" class="form-control">
+                                <div class="form-group" >
+                                    <label for="fullName">Họ và tên <span style="color: red;" id="errorFullName">(*)</span></label>
+                                    <input type="text" onblur="checkFullName();" name="fullName" class="form-control" id="fullName" />
+
+                                </div>
+                                <div class="form-group" >
+                                    <label for="phoneNumber">Phone <span style="color: red;" id="errorPhoneNumber">(*)</span></label>
+                                    <input type="text" onblur="checkPhoneNumber();" name="phoneNumber" class="form-control" id="phoneNumber" />
+
+                                </div>
+<%--                                <div class="form-group">--%>
+<%--                                   --%>
+<%--                                </div>--%>
+                                <div class="form-group" >
+                                    <label for="email">Email <span style="color: red;" id="errorEmail">(*)</span></label>
+                                    <input type="text" onblur="checkEmail();" name="email" class="form-control" id="email" />
 
                                 </div>
                                 <div class="form-group">
-                                    <input required type="text" placeholder="Số điện thoại" onkeyup=" Validate()" name="phoneNumber" class="form-control">
-                                </div>
-                                <div class="form-group">
-                                    <p id="errorPhone"></p>
-                                </div>
-                                <div class="form-group">
-                                    <input required type="text" placeholder="Email" name="email" class="form-control">
 
-                                </div>
-                                <div class="form-group">
-
-                                    <select name="product" id="option-product" class="form-control">
+                                    <select   name="product" id="option-product" class="form-control">
                                         <option  value="" disabled selected>Sản phẩm quan tâm</option>
 <%--                                        <option value="MobiFone Smart Sales">MobiFone Smart Sales</option>--%>
 <%--                                        <option value="MobiFone Smart Office">MobiFone Smart Office</option>--%>
@@ -76,7 +82,7 @@
 
                                 </div>
                                 <tr>
-                                    <td><button type="submit" data-toggle="modal"  class="btn btn-success" >Đăng ký ngay</button></td>
+                                    <td><button type="submit"  data-toggle="modal"  class="btn btn-success" >Đăng ký ngay</button></td>
                                    <td> <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button></td>
                             </form>
                         </div>
@@ -128,13 +134,68 @@
 </div>
 
 <script type="text/javascript">
-    function Validate() {
-    var phoneNumber = document.myForm.phoneNumber.value;
-    if(phoneNumber == ""){
-    document.getElementById("errorPhone").innerHTML = "không để trống";
-    {
-    }
+     function checkNameCompany(){
+		 	var nameCompany = document.getElementById('nameCompany').value;
+			var errorNameCompany = document.getElementById('errorNameCompany');
+		var regexNameCompany= /^[A-Za-z0-9'\.\-\s\,]*$/;
 
+		 	if (nameCompany == '' || nameCompany == null) {
+				errorNameCompany.innerHTML = "Tên công ty không được để trống!";
+		 	}else if(!regexNameCompany.test(nameCompany)){
+				errorNameCompany.innerHTML = "Tên công ty không hợp lệ!";
+		 	}else{
+		 		errorNameCompany.innerHTML = '';
+		 		return nameCompany;
+			}
+		 }
+
+
+	function checkFullName(){
+		 	var fullName= document.getElementById('fullName').value;
+			var errorFullName = document.getElementById('errorFullName');
+		    var regexFullName= /^[^\d+]*[\d+]{0}[^\d+]*$/;
+
+		 	if (fullName == '' || fullName == null) {
+				errorFullName.innerHTML = "Họ tên không được để trống!";
+		 	}else if(!regexFullName.test(fullName)){
+				errorFullName.innerHTML = "Họ tên không hợp lệ!";
+		 	}else{
+		 		errorFullName.innerHTML = '';
+		 		return fullName;
+			}
+		 }
+
+	function checkPhoneNumber(){
+		 	var phoneNumber = document.getElementById('phoneNumber').value;
+			var errorPhoneNumber = document.getElementById('errorPhoneNumber');
+			var regexPhoneNumber = /^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im;
+
+		    if (phoneNumber == '' || phoneNumber == null) {
+				errorPhoneNumber.innerHTML = "Số điện thoại không được để trống!";
+			}else if(!regexPhoneNumber.test(phoneNumber)){
+				errorPhoneNumber.innerHTML = "SĐT không hợp lệ!";
+				return false;
+			}else{
+				errorPhoneNumber.innerHTML = '';
+			}
+
+		 }
+    function checkEmail(){
+	        var email = document.getElementById('email').value;
+			var errorEmail = document.getElementById('errorEmail');
+			var regexEmail = /[A-Z0-9._%+-]+@[A-Z0-9-]+.+.[A-Z]{2,4}/igm;
+
+			if (email == '' || email == null) {
+				errorEmail.innerHTML = "Email không được để trống!";
+			}else if(!regexEmail.test(email)){
+				errorEmail.innerHTML = "Email không hợp lệ!";
+				email = '';
+			}else{
+				errorEmail.innerHTML = '';
+			}
+
+
+			}
 
 </script>
 <%--<script>--%>
